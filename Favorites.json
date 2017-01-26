@@ -1,0 +1,613 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "bfZxE47kPs0",
+    "videoPublishedAt" : "2014-12-24T05:55:43.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/vxgNVKBYcZ75fIoWVi52upMqNSA\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjcxMjU0MjA5MzBCMjEzM0Y=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” EP with new tracks by Dark Half, Majik Duce, DieaboliK The Monster, Bloody Ruckus and S.A.W. a.k.a. Yung Ghozt!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for Merry Cult Shit Christmas which was mixed by Void of Void Productionz and Black X-Mas which was mixed by DieaboliK The Monster!!\n\nTrack Listing:\n01. Merry Cult Shit Christmas (Geno Cultshit ft. Bloody Ruckus)\n02. Something in the Wind (Dark Half ft. S.A.W. a.k.a. Yung Ghozt)\n03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)\n04. Black X-Mas (DieaboliK The Monster)\n05. Christmas Sucks (Dark Half ft. Majik Duce)",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 0,
+    "publishedAt" : "2017-01-19T19:48:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bfZxE47kPs0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas EP - 03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "eZygFkuopMY",
+    "videoPublishedAt" : "2013-05-18T07:42:57.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/lilFQ1ofY2DXzALBreCnMBCnsQs\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLkM3MTVGNkQxRkIyMDREMEE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half performing \"Break You\"\nAlbum - STD Presents: The One's You Hate\n\nDownload at www.freeunderground.tk \n\nREMEMBER TO SUPPORT GOOD MUSIC!",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 1,
+    "publishedAt" : "2014-02-08T06:06:56.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "eZygFkuopMY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/eZygFkuopMY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/eZygFkuopMY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/eZygFkuopMY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/eZygFkuopMY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - Break You"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4Fygc-ZjURA",
+    "videoPublishedAt" : "2007-06-02T11:17:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/aC9tqHZOVbkRgfM9rO85gepBO9c\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjEyRUZCM0IxQzU3REU0RTE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rammstein - Kokain",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 3,
+    "publishedAt" : "2011-08-29T02:10:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4Fygc-ZjURA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4Fygc-ZjURA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4Fygc-ZjURA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4Fygc-ZjURA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Kokain"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WE3-4VvIpXA",
+    "videoPublishedAt" : "2010-01-02T00:42:27.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/afhvCqHM3hQP4EvcyMOY1HHRz8I\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLkNBQ0RENDY2QjNFRDE1NjU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Family Values Tour DVD 1998",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 4,
+    "publishedAt" : "2011-08-29T01:43:12.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WE3-4VvIpXA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WE3-4VvIpXA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WE3-4VvIpXA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WE3-4VvIpXA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Bück Dich [Live @ USA] Family Values Tour 1998 [HQ]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "L07Ur1M9PRY",
+    "videoPublishedAt" : "2008-11-14T23:44:32.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/flNXJ4fBZ7nivPHcTLoidoKqBW8\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjk0OTVERkQ3OEQzNTkwNDM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "** I DO NOT OWN THIS MUSIC **\r\n\r\nAs far as I know this song is about Armin Miews who was a cannibal, but if you want to know more on the story I suggest you look it up cause there's a lot of information about it out there.\r\n\r\nMein Teil is from the album Reise reise.",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 5,
+    "publishedAt" : "2011-08-29T01:38:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "L07Ur1M9PRY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/L07Ur1M9PRY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/L07Ur1M9PRY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/L07Ur1M9PRY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Mein Teil"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Lqez4SD1hpU",
+    "videoPublishedAt" : "2010-02-20T11:12:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Ynh25jzPKESoj8Hc6HsE98AHcfw\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLkY2M0NENEQwNDE5OEIwNDY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rammstein - Links 2 3 4\n\nGerman Lyrics are in the vid\nEnglish lyrics:\n\nCan you break hearts\ncan hearts speak\ncan you torture hearts\ncan you steal hearts\n\nThey want my heart on the right spot\nbut then I look below\nit beats left there\n\nCan hearts sing\ncan a heart burst\ncan hearts be pure\ncan a heart be made of stone\n\nThey want my heart on the right spot\nbut then I look below\nit beats left there\nleft two three four left *\n\nCan you ask hearts\n(can you) carry a child **\ncan you give it away\n(can you) think with your heart\n\nThey want my heart on the right spot\nbut then I look below\nit beats there in the left breast\nthe envious have not known it well\n\nLeft two three four left\n\n* \"Left two three four\" is as in an army chant for marching.\n** \"Ein Kind unter dem Herzen tragen\" literally means \"to carry a child under the heart\" and is an idiom in German that means \"to be pregnant\".",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 6,
+    "publishedAt" : "2011-08-29T01:37:55.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Lqez4SD1hpU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Lqez4SD1hpU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Lqez4SD1hpU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Lqez4SD1hpU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Links 2 3 4 + Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Y1st6O1tqII",
+    "videoPublishedAt" : "2008-11-09T16:57:15.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xeKqTF03FhzEDszXXlcV2Carq8M\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjQ3NkIwREMyNUQ3REVFOEE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rammstein",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 7,
+    "publishedAt" : "2011-08-29T01:36:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Y1st6O1tqII"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Y1st6O1tqII/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Y1st6O1tqII/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Y1st6O1tqII/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Ramstein - Keine Lust"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jzipbrsUdWg"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Tq5C_J1b_oZFWkX_fcymwaN9S5Y\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLkQwQTBFRjkzRENFNTc0MkI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 8,
+    "publishedAt" : "2011-08-29T01:31:31.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jzipbrsUdWg"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "fhOh_ucf2_Y",
+    "videoPublishedAt" : "2006-03-08T11:35:41.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/2EECYHJFPj94KcfPGvWTTS74Jko\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjk4NEM1ODRCMDg2QUE2RDI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Music video for the song by the same name.",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 9,
+    "publishedAt" : "2011-08-29T01:31:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "fhOh_ucf2_Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/fhOh_ucf2_Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/fhOh_ucf2_Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/fhOh_ucf2_Y/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstain - Sonne"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MKgTPrQ7OP0",
+    "videoPublishedAt" : "2008-12-31T14:38:32.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jE6n5Tv2ASG-NKghDmR_JJ1nBnk\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjMwODkyRDkwRUMwQzU1ODY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 10,
+    "publishedAt" : "2011-08-29T01:31:23.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MKgTPrQ7OP0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MKgTPrQ7OP0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MKgTPrQ7OP0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MKgTPrQ7OP0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Mutter"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Ddo__X2F_cI",
+    "videoPublishedAt" : "2007-09-06T17:31:37.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/b9FcKnhGyCSuscDrVGiglH0tcfU\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjUzOTZBMDExOTM0OTgwOEU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : ":)",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 11,
+    "publishedAt" : "2011-08-29T01:26:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Ddo__X2F_cI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Ddo__X2F_cI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Ddo__X2F_cI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Ddo__X2F_cI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Mein Herz Brennt"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "O4z8iso0cEU",
+    "videoPublishedAt" : "2008-11-04T13:28:37.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/taIluYI8JaranJHo_QVS6E2TR2Q\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLkRBQTU1MUNGNzAwODQ0QzM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Ein wunderbarer Song von Rammstein",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 12,
+    "publishedAt" : "2011-08-29T01:26:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "O4z8iso0cEU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/O4z8iso0cEU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/O4z8iso0cEU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/O4z8iso0cEU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Spieluhr"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yydlX7c8HbY",
+    "videoPublishedAt" : "2007-06-10T19:46:58.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/8caUOOs6SAgnZPwlYmKEkogvrQM\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjIwOEEyQ0E2NEMyNDFBODU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rammstein song \"Amerika\"",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 13,
+    "publishedAt" : "2011-08-29T01:16:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yydlX7c8HbY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yydlX7c8HbY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yydlX7c8HbY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yydlX7c8HbY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Amerika"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "XHUsIU161w4",
+    "videoPublishedAt" : "2008-02-21T19:02:40.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/u_qFO8Oc8inJjzJ8RqloArhJQDk\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLkYzRDczQzMzNjk1MkU1N0Q=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Ramstein-Feuer Frei!\r\nlyrics:\r\nGetadelt wird wer Schmerzen kennt,\r\nvom Feuer das die Haut verbrennt,\r\nIch werf ein Licht ,\r\nin mein Gesicht,\r\nEin heisser Schrei,\r\nFeuer frei!,\r\nBäng bäng,\r\nGeadelt ist wer Schmerzen kennt,\r\nvom Feuer das in Lust verbrennt,\r\nein Funkenstoss,\r\nin ihren Schoss,\r\nein heisser Schrei,\r\nFeuer frei!,\r\nBäng bäng,\r\nFeuer frei!,\r\nGefährlich ist wer Schmerzen kennt,\r\nvom Feuer das den Geist verbrennt,\r\nbäng bäng,\r\ngefährlich das gebrannte Kind,\r\nmit Feuer das vom Leben trennt,\r\nein heisser Schrei,\r\nbäng bäng,\r\nFeuer frei!,\r\nDein Glück,\r\nist nicht mein Glück,\r\nist mein Unglück,\r\nBäng bäng,\r\nFeuer frei!,",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 14,
+    "publishedAt" : "2011-08-29T01:16:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "XHUsIU161w4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/XHUsIU161w4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/XHUsIU161w4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/XHUsIU161w4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein-Feuer Frei!"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "9pkLDEEs20U",
+    "videoPublishedAt" : "2006-07-03T19:32:00.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/2Z3LksoB_UgA9TLtjFkHxIS1OjM\"",
+  "id" : "RkxiODhTSzEtdlU4Q21KLUh3eW9UVGJnLjk3NTBCQjUzRTE1OEEyRTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "the incredible 'ohne dich' video!!!",
+    "playlistId" : "FLb88SK1-vU8CmJ-HwyoTTbg",
+    "position" : 15,
+    "publishedAt" : "2011-08-29T01:16:01.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "9pkLDEEs20U"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/9pkLDEEs20U/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/9pkLDEEs20U/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/9pkLDEEs20U/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rammstein - Ohne Dich"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

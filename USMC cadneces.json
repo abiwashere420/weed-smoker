@@ -1,0 +1,525 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "gwnCqf7SLbA",
+    "videoPublishedAt" : "2013-01-16T05:10:43.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9CiRmnuJWL_HV7o8q4en_R0ZewI\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Another USMC Cadence. Enjoy.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 0,
+    "publishedAt" : "2013-05-30T05:56:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gwnCqf7SLbA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gwnCqf7SLbA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gwnCqf7SLbA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gwnCqf7SLbA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/gwnCqf7SLbA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence - Mama, Mama, Can't You See? (W/ Lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2MNAcQOmtgg",
+    "videoPublishedAt" : "2013-04-03T01:59:58.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/OsF3AbEmqQKGy1z0ik7gt5nWrpM\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "A Marine FORecon Cadence.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 1,
+    "publishedAt" : "2013-05-30T05:58:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2MNAcQOmtgg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2MNAcQOmtgg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2MNAcQOmtgg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2MNAcQOmtgg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2MNAcQOmtgg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2MNAcQOmtgg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence - I've Got a Story"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CoPYFaOFXLE"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Ug0-TLkZyOAFXlQWZoI20HdLIO4\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 2,
+    "publishedAt" : "2013-05-30T06:00:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CoPYFaOFXLE"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yobDPF2XPow",
+    "videoPublishedAt" : "2009-05-06T00:22:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/nAvYn4rrPTwxHd-B7TvZbYNjPzw\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Follow me: @Pat_McDevitt \r\nThe most motivating cadence ever. I get the goosebumps every time I listen.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 3,
+    "publishedAt" : "2013-05-30T06:04:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yobDPF2XPow"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yobDPF2XPow/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yobDPF2XPow/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yobDPF2XPow/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Super Motivating Marine Corps Cadence."
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "BbsJHl-WpT8",
+    "videoPublishedAt" : "2010-10-17T02:41:17.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jKVNkn8BQ5zF-dykiwE_cgQiY-g\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Marine Corps marching cadence, \"Delayed Cadence\".",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 4,
+    "publishedAt" : "2013-05-30T06:09:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BbsJHl-WpT8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BbsJHl-WpT8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BbsJHl-WpT8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BbsJHl-WpT8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "USMC Marching Cadence - \"Delayed Cadence\""
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Hessd3Sgf_k",
+    "videoPublishedAt" : "2009-03-27T02:13:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/THq9WmgOKPZ7EONOiEyg-OSXZ4o\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "http://futurejarheads.webs.com/\r\n\r\na marine corps running cadence",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 5,
+    "publishedAt" : "2013-05-30T06:12:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Hessd3Sgf_k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Hessd3Sgf_k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Hessd3Sgf_k/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Hessd3Sgf_k/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Mama Told Johnny Not to Go Downtown"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "iV3VSO1L8Bg",
+    "videoPublishedAt" : "2009-04-08T21:01:35.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yBVzX2MgBK-F4Xo71pRfxpX8qfQ\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video Requested By a Marine! :) Hope you like it! Enjoy! \n\n Cadence : Up In The Morning With The Drizzlin Rain\n \n Artist : Hot Sounding Marines! :D \n\n No Copy right Infringment intended! Purely for en",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 6,
+    "publishedAt" : "2013-05-30T06:15:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "iV3VSO1L8Bg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/iV3VSO1L8Bg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/iV3VSO1L8Bg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/iV3VSO1L8Bg/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Up In The Morning! Marine Cadence"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "UQbH5BN2eM4",
+    "videoPublishedAt" : "2013-01-15T13:00:52.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Wb1UJ7-2yZku7DrfLEO0Av_aAeQ\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "I do not own this song. No copyright infringement intended. Going to be serving in the Marine Corps and wanted to share this with you. Enjoy.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 7,
+    "publishedAt" : "2013-06-14T14:00:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "UQbH5BN2eM4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/UQbH5BN2eM4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/UQbH5BN2eM4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/UQbH5BN2eM4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/UQbH5BN2eM4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/UQbH5BN2eM4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence - She Wore A Yellow Ribbon"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PrFujKpsGhc",
+    "videoPublishedAt" : "2008-11-16T03:57:51.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/chpE2cABYhhA9TEhV1FiXSjCpx8\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "For all the past Marines, For all the Current Marines, For all the future Marines....\nYes there are British Marines and even the Army for a few reasons. \nMany Marines turn to the Army after an enlistment also who is it that we serve besides overseas? Army, Navy, Air Force, Guard, British, Danish, etc.... I had a chance to meet all and more of them overseas, yes some are turds, but so are some Marines. I met many amazing people from other countries and branches who would fight by my side just as much as a US Marine.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 8,
+    "publishedAt" : "2013-06-14T14:06:31.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PrFujKpsGhc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PrFujKpsGhc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PrFujKpsGhc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PrFujKpsGhc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Marine Corps - Blood and Guts"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yTaps4fuvB4",
+    "videoPublishedAt" : "2010-09-17T23:22:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ozf4zUxRv3tJ-rethZerqyn3QSo\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC5EQUE1NTFDRjcwMDg0NEMz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "He kept just to blow that young marine's ass away.",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 9,
+    "publishedAt" : "2013-06-15T00:40:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yTaps4fuvB4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence - She Wore a Yellow Ribbon"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "g5f8jq0swQ4",
+    "videoPublishedAt" : "2011-07-09T02:04:25.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Mcb-yTquMkZk1ivo8NkMyroiuQ0\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC41QTY1Q0UxMTVCODczNThE",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "USMC recruits and their Drill Instructor sing \"Everywhere We Go\" (one of my personal favorites), with clips from actual U.S. Marine training accompanying the cadence.\r\n\r\nI don't own the song or clips, psychos, so don't ask or sue.\r\n\r\n~Semper Fi",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 10,
+    "publishedAt" : "2013-06-15T04:29:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "g5f8jq0swQ4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/g5f8jq0swQ4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/g5f8jq0swQ4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/g5f8jq0swQ4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/g5f8jq0swQ4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence ~ \"Everywhere We Go\""
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "EmbQuNl8GBo",
+    "videoPublishedAt" : "2010-03-24T01:42:35.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/fKW9yTj_kz8Y0eapmmdPbUZvm6U\"",
+  "id" : "UExMZ2VqLUlaN2hwMHRid2hBUXlxZ2hOYTZiZ0wwMG5lVC45RTgxNDRBMzUwRjQ0MDhC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Now this is motivating!\nEnjoy\n\nOOHRAH!\n\nSemper Fi",
+    "playlistId" : "PLLgej-IZ7hp0tbwhAQyqghNa6bgL00neT",
+    "position" : 11,
+    "publishedAt" : "2013-06-16T18:46:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "EmbQuNl8GBo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/EmbQuNl8GBo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/EmbQuNl8GBo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/EmbQuNl8GBo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/EmbQuNl8GBo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/EmbQuNl8GBo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence:I Used To Sit At Home All Day"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

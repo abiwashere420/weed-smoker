@@ -1,0 +1,2896 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "sfR_HWMzgyc",
+    "videoPublishedAt" : "2009-06-18T21:29:27.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/nfUnQCavrXnvSbzMhBzms5B2wB4\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkUzNEUyRDNEMzRBQ0M3QTY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Kashmir by Led Zeppelin\n\nLyrics:\n\nOh let the sun beat down upon my face, stars to fill my dream\nI am a traveler of both time and space, to be where I have been\nTo sit with elders of the gentle race, this world has seldom seen\nThey talk of days for which they sit and wait and all will be revealed\n\nTalk and song from tongues of lilting grace, whose sounds caress my ear\nBut not a word I heard could I relate, the story was quite clear\nOh, oh.\n\nOh, I been flying... mama, there aint no denyin\nIve been flying, aint no denyin, no denyin\n\nAll I see turns to brown, as the sun burns the ground\nAnd my eyes fill with sand, as I scan this wasted land\nTrying to find, trying to find where Ive been.\n\nOh, pilot of the storm who leaves no trace, like thoughts inside a dream\nHeed the path that led me to that place, yellow desert stream\nMy shangri-la beneath the summer moon, I will return again\nSure as the dust that floats high in June, when movin through Kashmir\n\nOh, father of the four winds, fill my sails, across the sea of years\nWith no provision but an open face, along the straits of fear\nOhh.\n\nWhen Im on, when Im on my way, yeah\nWhen I see, when I see the way, you stay-yeah\n\nOoh, yeah-yeah, ooh, yeah-yeah, when Im down...\nOoh, yeah-yeah, ooh, yeah-yeah, well Im down, so down\nOoh, my baby, ooooh, my baby, let me take you there\n\nLet me take you there. let me take you there",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 0,
+    "publishedAt" : "2012-02-24T03:45:12.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "sfR_HWMzgyc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/sfR_HWMzgyc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/sfR_HWMzgyc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/sfR_HWMzgyc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Kashmir - Led Zeppelin"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "8ZV9_sBCzmQ",
+    "videoPublishedAt" : "2010-12-22T20:54:09.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/KcRRLL4YGyFZuG50rzP-MBOejn4\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkI0OTE2QjQ1M0RDN0U1NTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Black Sabbath - Paranoid (HD)",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 1,
+    "publishedAt" : "2012-02-24T03:45:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "8ZV9_sBCzmQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/8ZV9_sBCzmQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/8ZV9_sBCzmQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/8ZV9_sBCzmQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/8ZV9_sBCzmQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/8ZV9_sBCzmQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Black Sabbath - Paranoid (HD)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OGPD0ZBiMs0"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/swH3SHYCUgivmKRlfH6bH5cp3GA\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkI5ODA2QTE1OEMyQzY5OEM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 2,
+    "publishedAt" : "2012-02-24T03:49:55.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OGPD0ZBiMs0"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "9LjbMVXj0F8",
+    "videoPublishedAt" : "2008-11-05T21:59:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9fht56eCeJ_koy2O8Xb-rB_VIR4\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkQ2OTVBMERBQjE3RTdCNUQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Has he lost his mind? \nCan he see or is he blind? \nCan he walk at all, \nOr if he moves will he fall? \nIs he alive or dead? \nHas he thoughts within his head? \nWe'll just pass him there \nWhy should we even care? \n\nHe was turned to steel \nIn the great magnetic field \nWhere he traveled time \nFor the future of mankind \n\nNobody wants him \nHe just stares at the world \nPlanning his vengeance \nThat he will soon unfold \n\nNow the time is here \nFor iron man to spread fear \nVengeance from the grave \nKills the people he once saved \n\nNobody wants him \nThey just turn their heads \nNobody helps him \nNow he has his revenge \n\nHeavy boots of lead \nFills his victims full of dread \nRunning as fast as they can \nIron man lives again!\n\n\n***DISCLAIMER*****\n   I Own nothing here the song was Iron man and i own nothing for entertainment purposes only!\n\nALSO!!!!  CHECK OUT THIS AWESOME VIDEO OF THIS SONG BEING PLAYED ON A HARMONICA!!! WOW THIS GUY IS AMAZING!!!  http://tinyurl.com/2alwkbl",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 3,
+    "publishedAt" : "2012-03-01T02:45:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "9LjbMVXj0F8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/9LjbMVXj0F8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/9LjbMVXj0F8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/9LjbMVXj0F8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Man-Black Sabbath-Lyrics Included"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4ihpnwOaJy8",
+    "videoPublishedAt" : "2008-08-30T17:07:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/h-cJDXemTIYP2mLYS1ES72U1YjY\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjQyNDQ1NzlBOTQ2NjI5NUY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Song:Crazy Train\nArtist:Ozzy Osbourne\nLyrics Video\n\n\nI do not own any of the music in this video",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 4,
+    "publishedAt" : "2012-03-01T02:36:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4ihpnwOaJy8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4ihpnwOaJy8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4ihpnwOaJy8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4ihpnwOaJy8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Crazy Train - Ozzy Osbourne Lyrics Video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Q3L4spg8vyo"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/2B3jwU-ZLVAymmWE0Jb3SR82YeE\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjE3RUQ3REU5OEUxQ0I2RDM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 5,
+    "publishedAt" : "2012-02-24T04:15:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Q3L4spg8vyo"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "m_NholHANoY",
+    "videoPublishedAt" : "2008-08-05T03:31:35.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/cW76a3m_Jiao3jF53FOFw-HyIsU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkVBMTk5QkU4MTU3NzkzMDc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Cream - Strange Brew\r\nFrom the album\r\nDisraeli Gears",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 6,
+    "publishedAt" : "2012-02-24T04:18:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "m_NholHANoY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/m_NholHANoY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/m_NholHANoY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/m_NholHANoY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cream - Strange Brew"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1GAKOLOnfV4",
+    "videoPublishedAt" : "2007-06-10T02:17:57.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3d4IwAbLdhlJtSS2ClVaPe63JoM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkMxNzJEMDkyQzJDQTJGRUY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "My video for Rocket Man.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 7,
+    "publishedAt" : "2012-02-24T04:20:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1GAKOLOnfV4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1GAKOLOnfV4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1GAKOLOnfV4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1GAKOLOnfV4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Elton John - Rocket Man"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "cKxiLCMb6Q4",
+    "videoPublishedAt" : "2007-02-23T06:52:29.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rVmBsCMvsY0wHL4XR50Wo45MmGA\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjBGMzc5QzU2N0I1NjIyNDg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "a quick video from discworld set to Don't fear the reaper\n\nEdit\nSince so many people ask the film the video clips were taken from was the animated version of Soul Music\n\nSo now you know and can enjoy your music with rocks in",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 8,
+    "publishedAt" : "2012-02-24T04:29:59.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "cKxiLCMb6Q4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/cKxiLCMb6Q4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/cKxiLCMb6Q4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/cKxiLCMb6Q4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Don't Fear The Reaper"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4GOY6bFLpWQ",
+    "videoPublishedAt" : "2008-07-03T03:34:25.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/vk7G0PM3KNbnzYdKU3bzKW1jBkc\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkIwMTc1MEQyQjc1NkM1NTE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Stream/Buy: http://urbnet.bandcamp.com/album/omega-point\r\niTunes: http://itunes.apple.com/album/omega-point/id272909192\r\n\r\nRed Ants - Dirty Space Alchemy set to Ralph Bakshi's 1977 classic WIZARDS. Song from the 2008 digital URBNET release entitled Omega Point.\r\n\r\nhttp://www.urbnet.com/redants\r\nhttp://www.myspace.com/redantsmusic",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 9,
+    "publishedAt" : "2012-02-24T04:42:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4GOY6bFLpWQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4GOY6bFLpWQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4GOY6bFLpWQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4GOY6bFLpWQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Red Ants - Dirty Space Alchemy"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "etVoT35XH_4",
+    "videoPublishedAt" : "2011-05-01T05:01:06.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4Rgee8YTvWReahLUuF6Zv0woYm0\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkI2MUZGOTJBOEJEQ0UzMkM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Szenes from the Original Movie \"Heavy Metal\" (1981) and the original theme to this movie.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 10,
+    "publishedAt" : "2012-02-24T04:44:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "etVoT35XH_4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/etVoT35XH_4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/etVoT35XH_4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/etVoT35XH_4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Don Felder - Takin' A Ride (Heavy Metal Theme)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qn3IrhBkuSw",
+    "videoPublishedAt" : "2011-09-18T16:15:43.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/zaxhc0xqo5JIFxZgU8_WWMPgyp0\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjdCRkZBMTE1NEI5QjdBQUY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Smells Like Teen Spirit - Nirvana from the album Nevermind (1991)",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 11,
+    "publishedAt" : "2012-02-26T20:14:33.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qn3IrhBkuSw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qn3IrhBkuSw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qn3IrhBkuSw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/qn3IrhBkuSw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qn3IrhBkuSw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qn3IrhBkuSw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Nirvana - Smells Like Teen Spirit (w/ Lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "c7tzi8wkYgI",
+    "videoPublishedAt" : "2009-03-29T20:39:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/NaCu6LPVmYLGrvbt0IqqNYL-I4o\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjc2RkU1OTQyOTNDM0RFRTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"\r\n\r\njuke box hero-foreigner\r\nI DO NOT OWN THIS SONG OR THE PICTURE OR ANYTHING IN THE VIDEO IT IS ONLY FOR ENTERTAINMENT PURPOSES! NO COPYRIGHT INFRINGEMENT INTENDED. I AM IN NO WAY TRYING TO PROFIT ON THIS VIDEO OR COMPETING WITH THE ROCK BAND FOREIGNER!",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 12,
+    "publishedAt" : "2012-02-24T04:19:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "c7tzi8wkYgI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/c7tzi8wkYgI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/c7tzi8wkYgI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/c7tzi8wkYgI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Foreigner - Juke Box Hero"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lMqfWoFjgto",
+    "videoPublishedAt" : "2010-10-22T12:50:57.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/k42nlBvfT7RrSuS4lgBj3cG9jNc\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjBDQUEyNEFCQkVFRjZCNjE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "ME ENCANTA ESTE TEMA DE FOREIGNER... SALUDOS DESDE QUITO-ECUADOR",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 13,
+    "publishedAt" : "2012-02-26T20:38:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lMqfWoFjgto"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lMqfWoFjgto/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lMqfWoFjgto/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lMqfWoFjgto/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "FOREIGNER - COLD AS ICE"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PfO7ZVdzfZ4",
+    "videoPublishedAt" : "2010-03-11T05:53:15.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/TU0XufTLcvjnIbS-jVrPqpH3w6Q\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjUxRTY4ODczRjBGNjIxMDA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "song: feels like the first time\r\nartist: foreigner\r\n\r\nlyrics:\r\nI would climb any mountain\r\nSail across a stormy sea\r\nIf that's what it takes me baby\r\nTo show you how much you mean to me\r\nAnd I guess it's just the woman in you\r\nThat brings out the man in me\r\nI know I can't help myself\r\nYou're all in the world to me\r\n\r\nIt feels like the first time\r\nFeels like the very first time\r\nIt feels like the first time\r\nIt feels like the very first time\r\n\r\nI have waited a lifetime\r\nSpent my time so foolishly\r\nBut now that I've found you\r\nTogether we'll make history\r\n\r\nAnd I know that it must be the woman in you\r\nThat brings out the man in me\r\nI know I can't help myself\r\nYou're all that my eyes can see\r\n\r\nAnd it feels like the first time\r\nLike it never did before\r\nFeels like the first time\r\nLike we've opened up the door\r\nFeels like the first time\r\nLike it never will again, never again\r\n\r\nFeels like the first time, it feels like the first time\r\nIt feels like the very first time, very, very, it feels\r\nIt feels like the first time, oh it feels like the first time\r\nIt feels like the very first time\r\n\r\nOpen up the door, won't you open up the door? yeah\r\n\r\nFeels like the first time\r\nAnd it feels like the very first time\r\nAnd it feels like the first time\r\nIt feels like the very first time\r\n\r\nAnd it feels like the first time\r\nIt feels like the very first time\r\nOh it feels, it feels like the first time\r\nYeah it feels like the first time",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 14,
+    "publishedAt" : "2012-02-26T20:39:56.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PfO7ZVdzfZ4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PfO7ZVdzfZ4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PfO7ZVdzfZ4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PfO7ZVdzfZ4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Foreigner, Feels like the first time with lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xGeEqaArOgM"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kBG2H5mpb8qQkZZ4VcmKCXqJdd8\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkI1QThFM0UyNTA1N0M5MDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 15,
+    "publishedAt" : "2012-02-24T03:50:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xGeEqaArOgM"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "kU2fTXY1yac",
+    "videoPublishedAt" : "2011-03-08T06:01:00.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/V4tPXjAVMbUWa1fLBwyiCPcRwKM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkIyRjUxOTBEMjgxMURCM0Q=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the greatest heavy metal songs made by Ronnie James Dio the King of Metal.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 16,
+    "publishedAt" : "2012-02-26T20:45:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "kU2fTXY1yac"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/kU2fTXY1yac/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/kU2fTXY1yac/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/kU2fTXY1yac/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/kU2fTXY1yac/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-The Man Who Would be King"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1LV-oUFZg80",
+    "videoPublishedAt" : "2011-03-06T08:33:43.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/bUt-NOAa5Xi0U6YX9YVL_nCSpLU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkI1NERFNDI0ODI4REIxRDI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 17,
+    "publishedAt" : "2012-02-26T20:45:52.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1LV-oUFZg80"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1LV-oUFZg80/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1LV-oUFZg80/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1LV-oUFZg80/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1LV-oUFZg80/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-Death by Love"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "CgnCCQU00MI",
+    "videoPublishedAt" : "2011-03-06T08:37:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Bi43K92dbDycYPLqEjt5w6fjuUU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjkwNEQ5MkI5MzYwNEFBNUI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 18,
+    "publishedAt" : "2012-02-26T20:45:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CgnCCQU00MI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CgnCCQU00MI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CgnCCQU00MI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CgnCCQU00MI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CgnCCQU00MI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-End of the World"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "P_CdPw99LEY",
+    "videoPublishedAt" : "2011-03-06T08:07:11.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/iUBzM-8qJNwFnkR2qG0Iwk8nOTw\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkM2NURBOUVCMjFDMzM0REI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 19,
+    "publishedAt" : "2012-02-26T20:46:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "P_CdPw99LEY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/P_CdPw99LEY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/P_CdPw99LEY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/P_CdPw99LEY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/P_CdPw99LEY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-Master of the Moon"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "pGVex0dtIgk",
+    "videoPublishedAt" : "2011-03-06T08:57:49.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/H_wesImwTWMtXREyhsQVGNxAxNM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjY0Mzk0OTQ3MDYwM0YzQTU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 20,
+    "publishedAt" : "2012-02-26T20:46:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "pGVex0dtIgk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/pGVex0dtIgk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/pGVex0dtIgk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/pGVex0dtIgk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/pGVex0dtIgk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-Living the Lie"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "0VAh_gJ2IBM",
+    "videoPublishedAt" : "2011-03-06T08:19:18.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jaJVNCxFmQltPA_MmXP_sCMb4VU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjE2OUI3NjlBOUVCQUYxQUU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 21,
+    "publishedAt" : "2012-02-26T20:46:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "0VAh_gJ2IBM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/0VAh_gJ2IBM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/0VAh_gJ2IBM/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/0VAh_gJ2IBM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/0VAh_gJ2IBM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-The Eyes"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "EPVmeIU7FFQ",
+    "videoPublishedAt" : "2011-03-06T08:43:39.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XhB-XKAJIXp5vWOw9VFEhOWUwj4\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjQ3NEJBNzU5QzRFMkExMjA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 22,
+    "publishedAt" : "2012-02-26T20:46:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "EPVmeIU7FFQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/EPVmeIU7FFQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/EPVmeIU7FFQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/EPVmeIU7FFQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/EPVmeIU7FFQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-I am"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "pYyhvj8G-so",
+    "videoPublishedAt" : "2008-06-05T10:44:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4agvHZnF1AY_Ym3Cfmk_8P_dM98\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkZCQTJCRUQxREE1N0IxRjY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "off of master of the moon",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 23,
+    "publishedAt" : "2012-02-26T20:46:46.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "pYyhvj8G-so"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/pYyhvj8G-so/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/pYyhvj8G-so/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/pYyhvj8G-so/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Dio - Shivers"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "570Tm61yRq0",
+    "videoPublishedAt" : "2011-03-06T08:10:23.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/aduPfAcmupsvZ6wFCFMJQjEH6O4\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkMxQ0I2MkUwMjFFQ0JEM0I=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is one of the songs of the Master of the Moon Album a Album from the Dio band of 2004. This is also one of the greatest songs made by Ronnie James Dio the King of Metal REST IN PEACE",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 24,
+    "publishedAt" : "2012-02-26T20:50:52.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "570Tm61yRq0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/570Tm61yRq0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/570Tm61yRq0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/570Tm61yRq0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/570Tm61yRq0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dio-One More for the Road"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RxMfHBUq2Fc"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/v0yxpjbhqzSz0y8nsZiIW3Nyf7g\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjhEMDZGOEU4RTJCNDc4MkI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 25,
+    "publishedAt" : "2012-02-26T20:51:00.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RxMfHBUq2Fc"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "hZnfbd_BGw8",
+    "videoPublishedAt" : "2010-05-23T10:34:17.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/BYSZQzGzfhWTQj16NLQJqYY81cY\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkY2QzkzNkNCQTNBOUNDNUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "A tribute to Ronnie James Dio...Official lyrics for the song\n\nNotice (12/9/2014): I don't know whether Dio died at the age of 65, 66, 67 or 84, the first thing you notice when you open the video is this and I am pretty sure that everyone gets tempted and want to correct me by saying \"He didn't die at the age of 65, he died___\" etc etc. but guess what! It actually doesn't matter a lot, does it? Master Dio is not with us anymore, let's all stop giving a shit about my mistake since I was misled by something I had read on Facebook back in 2010 and enjoy this amazing song. I really love you all for giving me and Dio all these views and I also enjoy reading comments from people trying to explain the meaning of the song. Each one of you has something special to say about this song, calling it \"precious\" or \"symbolic\" or even \"a song about someone coming out of the closet\" (lol, yeah, people have said that here) and reading the comments sometimes is fun! But about that age-thing...Seriously, stop wasting seconds of your life correcting me, it was just a mistake. Wherever you are, I wish you prosperity\n\nNotice (14/4/2015): For some weird reason, WMG decided to block this video and for some days I was unable to watch it (\"lol dumbass, it was blocked, of course you weren't able to watch it\"). But now that I opened my video manager page, I saw that everything is ok. I don't know how many days have passed since they unblocked it, I actually have no idea what's wrong with the whole copyright thing. This video is a dedication, the least i could do of course, to one of my favourite musicians and it serves promotional uses. All rights go to the respective artist and record label, don't worry, I buy your stuff damn it. Aaaanyway, I hope y'all boyz and girlz out there are able to watch it and sing along with me. Cheers, I hope no label will bother me in the near future about it :D",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 26,
+    "publishedAt" : "2012-03-03T02:44:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hZnfbd_BGw8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hZnfbd_BGw8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hZnfbd_BGw8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hZnfbd_BGw8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Dio-Rainbow In The Dark (lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZO6giM9UAv0",
+    "videoPublishedAt" : "2007-06-27T19:48:08.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/fVK1Sqdz7AW5uDBa2wCTTtGKXd0\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjgzMDIwMEQ5NzcxREIzQzY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Learn to play Iron Maiden's song \"The Trooper\" from their 1983 album Piece of Mind, and 35 free guitar lessons:\nClick Here: http://buygibson.com/optin/ironmaiden.html",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 27,
+    "publishedAt" : "2012-02-24T04:04:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZO6giM9UAv0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ZO6giM9UAv0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ZO6giM9UAv0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ZO6giM9UAv0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Aces High"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "SwB9zg7Tbx8",
+    "videoPublishedAt" : "2006-04-09T22:43:49.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/hDXUbkKlVjARSSqPlHmg_7KSYvU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjE4ODQ5QjU3RDQzMDJCNTc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "I like this song and i hope the rest of you like it too.\n\nI DO NOT CLAIM COPYRIGHT NOR DO I OWN \"Wasted Years\" from \"Iron Maiden\"\nThis product is legal under the fair use act\n-------------------------------------------------------------------------\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made \nfor \"fair use\" for purposes such as criticism, comment, news reporting, teaching, \nscholarship, and research. Fair use is a use permitted by copyright statute that \nmight otherwise be infringing. Non-profit, educational or personal use tips the balance \nin favor of fair use.\n-------------------------------------------------------------------------\nThis product is under and protected by the \"Fair Use Act of 1976\" any Copyright Claim made upon this product though Legal under a Copyright Claim, is a Strict Violation of the \"Youtube AudioSwap Fairness Pact of 2002\" and \"Fair Use Act of 1976\"\nand is liable under the first amenment and the DMCA and can be used in a surpreme court for Violation of the Constutution of the United States federal Law and \"Fair-Use Act\"\nany Copyright Claim thereof will then be disbarred and invalid\n\nAll materials in this video are being used under the Fair Use provisions of United States copyright laws. As such, this video has been posted legally and is not subject to a rights to a holder take down notice. Any take down notice filed by supposed rights holders will be considered as purposeful harassment and any and all necessary legal steps will be taken to defend the Fair Use of this material. \n-------------------------------------------------------------\nAMENDMENT I\n\nCongress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 28,
+    "publishedAt" : "2012-02-26T20:52:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "SwB9zg7Tbx8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/SwB9zg7Tbx8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/SwB9zg7Tbx8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/SwB9zg7Tbx8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden Wasted Years"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lbT2lHtYtEQ",
+    "videoPublishedAt" : "2008-09-26T07:02:56.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/HyH3iHpHjbInX09xV9myTw2oD1s\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjNGNjNEOTVDRTU0Qzg2NDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Iron Maiden's Official music video taken from a Iron Maiden CD",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 29,
+    "publishedAt" : "2012-02-26T20:52:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lbT2lHtYtEQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lbT2lHtYtEQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lbT2lHtYtEQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lbT2lHtYtEQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - The Trooper (Official Music Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "P5AxJ2oqi0U",
+    "videoPublishedAt" : "2009-01-15T02:27:18.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/MchjpAAEkNvyK4hJYSptLlADRPI\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjY4NjhEMUI3MEVFQjE4MEE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Iron maiden's hit song Run To The Hills",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 30,
+    "publishedAt" : "2012-02-26T20:53:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "P5AxJ2oqi0U"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/P5AxJ2oqi0U/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/P5AxJ2oqi0U/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/P5AxJ2oqi0U/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden-Run To The Hills"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "0NYiOHGapRk",
+    "videoPublishedAt" : "2010-11-26T21:39:33.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/sgTDnZwoVQU6Zkoa8BOtqGtn7GY\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjc2QjA5Nzc0NjZDQUM2Nzg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Powerslave by maiden\niron maiden\n Powerslave \n1984\n\nInto the abyss I'll fall-the eye of Horus\nInto the eyes of the night-watching me go\nGreen is the cat's eye that glows-in this temple\nEnter the risen Osiris-risen again.\n\nCHORUS\nTell me why I had to be a powerslave\nI don't wanna die, I'm a god, why can't I live on?\nWhen the Life Giver dies, all around is laid waste.\nAnd in my last hour,\nI'm a slave to the power of death.\n\nWhen I was living this lie-fear was my game\nPeople would worship and fall-drop to their knees\nSo bring me the blood and red wine for the one to succeed me\nFor he is a man and a god-and he will die to\nCHORUS\nSOLO\nCHORUS",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 31,
+    "publishedAt" : "2012-02-26T20:54:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "0NYiOHGapRk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/0NYiOHGapRk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/0NYiOHGapRk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/0NYiOHGapRk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "iron maiden Powerslave"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "fIzUTgtZ9_Q",
+    "videoPublishedAt" : "2010-12-15T00:36:33.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/p9Gyq9mKop_93c9jjGCLCG0KSwU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjIyRUUwMkM3Qjk4Q0FFRjk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rime of the Ancient Mariner - Iron Maiden\r\nPowerslave - 1984\r\n\r\nEMI Copyright 1984\r\n\r\n\r\nHear the rime of the Ancient mariner\r\nSee his eyes as he stops one of three\r\nMesmerizes one of the wedding guests\r\nStay here and listen to the nightmares\r\nof the sea.\r\n\r\nAnd the music plays on, as the bride passes by\r\nCaught by his spell and\r\nthe Mariner tells his tale.\r\n\r\nDriven south to the land of the snow and ice\r\nTo a place where nobody's been\r\nThrough the snow fog flies on the albatross\r\nHailed in God's name,\r\nhoping good luck it brings.\r\n\r\nAnd the ship sails on, back to the north\r\nThrough the fog and ice and\r\nthe albatross follows on\r\n\r\nThe mariner kills the bird of good omen\r\nHis shipmates cry against what he's done\r\nBut when the fog clears, they justify him\r\nAnd make themselves part of the crime.\r\n\r\nSailing on and on and North across the sea\r\nSailing on and on and North 'til all is calm.\r\n\r\nThe albatross begins with its vengeance\r\nA terrible curse a thirst has begun\r\nHis shipmates blame the bad luck on the Mariner\r\nAbout his neck, the dead bird is hung.\r\n\r\nAnd the curse goes on and on and on at sea,\r\nAnd the thirst goes on and on for them and me.\r\n\r\n\"Day after day, day after day,\r\nwe stuck nor breath nor motion\r\nAs idle as a painted ship upon a painted ocean\r\nWater, water everywhere and\r\nall the boards did shrink\r\nWater, water everywhere nor any drop to drink.\"\r\n\r\nThere, calls the Mariner,\r\nthere comes a ship over the line\r\nBut how can she sail with no wind\r\nin her sails and no tide.\r\n\r\nSee...onward she comes\r\nOnward she nears, out of the sun\r\nSee...she has no crew\r\nShe has no life, wait but there's two\r\n\r\nDeath and she life in Death,\r\nthey throw their dice for the crew\r\nShe wins the Mariner and he belongs to her now.\r\nThen...crew one by one\r\nThey drop down dead, two hundred men\r\nShe...She, Life in Death,\r\nShe lets him live, her chosen one.\r\n\r\n\"One after one by the star dogged moon,\r\ntoo quick for groan or sigh\r\neach turned his face with a ghastly pang,\r\nand cursed me with his eye\r\nfour times fifty living men\r\n(and I heard nor sigh nor groan),\r\nwith heavy thump, a lifeless lump,\r\nthey dropped down one by one.\"\r\n\r\nThe curse it lives on in their eyes\r\nThe Mariner he wished he'd die\r\nAlong with the sea creatures\r\nBut they lived on, so did he.\r\n\r\nAnd by the light of the moon\r\nHe prays for their beauty not doom\r\nWith heart he blesses them\r\nGod's creatures all of them too\r\n\r\nThen the spell starts to break\r\nThe albatross falls from his neck\r\nSinks down like lead into the sea\r\nThen down in falls comes the rain.\r\n\r\nHear the groans of the long dead seamen\r\nSee them stir and they start to rise\r\nBodies lifted by good spirits\r\nNone of them speak\r\nand they're lifeless in their eyes.\r\n\r\nAnd revenge is still sought, penance starts again\r\nCast into a trance and the nightmare carries on.\r\n\r\nNow the curse is finally lifted\r\nAnd the Mariner sights his home\r\nSpirits go from the long dead bodies\r\nForm their own light and\r\nthe Mariner's left alone.\r\n\r\nAnd then a boat came sailing towards him\r\nIt was a joy he could not believe\r\nThe pilots boat, his son and the hermit.\r\nPenance of life will fall onto Him.\r\n\r\nAnd the ship sinks like lead into the sea\r\nAnd the hermit shrieves the Mariner of his sins.\r\n\r\nThe Mariner's bound to tell of his story\r\nTo tell his tale wherever he goes\r\nTo teach God's word by his own example\r\nThat we must love all things that God made.\r\n\r\nAnd the wedding guest's a sad and wiser man\r\nAnd the tale goes on and on and on.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 32,
+    "publishedAt" : "2012-02-26T20:54:33.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "fIzUTgtZ9_Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/fIzUTgtZ9_Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/fIzUTgtZ9_Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/fIzUTgtZ9_Q/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/fIzUTgtZ9_Q/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Iron Maiden - Rime of the Ancient Mariner (Full Version w/ Lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "b8qDz7K1nbU",
+    "videoPublishedAt" : "2008-11-16T10:56:55.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/jqFi98B8Ok51t2bsNCrxaz5x-yM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjQxQTU5RUY1ODZBNEY4RTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "flight of icarus by           iron maiden   \r\n\r\n\r\nlyrics:\r\nAs the sun breaks above the ground\r\nAn old man stands on the hill\r\nAs the ground warms to the first rays of light\r\nA birdsong shatters the still\r\n\r\nHis eyes are ablaze\r\nSee the madman in his gaze\r\n\r\nFly on your way like an eagle\r\nFly as high as the sun\r\nOn your wings like an eagle\r\nFly and touch the sun\r\n\r\nNow the crowd breaks and a young boy appears\r\nLook the old man in his eyes\r\nAs he spreads his wings and shouts at the crowd\r\nIn the name of God my father I fly\r\n\r\nHis eyes seem so glazed\r\nAs he flies on the wings of a dream\r\nNow he knows his father betrayed\r\nNow his wings burn to ashes to ashes his grave\r\n\r\nFly on your way like an eagle\r\nFly as high as the sun\r\nOn your wings like an eagle\r\nFly and touch the sun",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 33,
+    "publishedAt" : "2012-02-26T20:55:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "b8qDz7K1nbU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/b8qDz7K1nbU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/b8qDz7K1nbU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/b8qDz7K1nbU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "flight of icarus - iron maiden"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "_CaSgow3NPE",
+    "videoPublishedAt" : "2009-07-23T23:01:22.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/SUm9kXKNcq03BVxIKyH_GZIHEuI\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjg2MDgyNjlCMDIzQkFGNkM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Please let me know if ya want a song on youtbe with lyrics ;D\n\nLYRICS:\nI'm waiting in my cold cell, when the bell begins to chime.\nReflecting on my past life and it doesn't have much time.\n'Cause at 5 o'clock they take me to the Gallows Pole,\nThe sands of time for me are running low...\n\nRunning low--ooohhh...\nWhen the priest comes to read me the last rites,\nI take a look through the bars at the last sights,\nOf a world that has gone very wrong for me.\n\nCan it be that there's some sort of error?\nHard to stop the surmounting terror.\nIs this really the end, not some crazy dream?\n\nSomebody please tell me that I'm dreaming,\nIt's not easy to stop from screaming,\nBut words escape me when I try to speak.\nTears flow but why am I crying?\nAfter all I'm not afraid of dying.\nDon't I believe that there never is an end?\n\nAs the guards march me out to the courtyard,\nSomebody cries from a cell \"God be with you\".\nIf there's a God then why does he let me go?\n\nAs I walk my life drifts before me.\nThough the end is near I'm not sorry.\nCatch my soul, it's willing to fly away.\n\nMark my words believe my soul lives on.\nDon't worry now that I have gone.\nI've gone beyond to see the truth.\n\nWhen you know that your time is close at hand,\nMaybe then you'll begin to understand\nLife down here is just a strange illusion.\n\nYeah, yeah, yeah...Hallowed be Thy name\nYeah, yeah, yeah...Hallowed be Thy name\nYeah..................................",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 34,
+    "publishedAt" : "2012-02-26T20:55:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "_CaSgow3NPE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/_CaSgow3NPE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/_CaSgow3NPE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/_CaSgow3NPE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Hallowed Be Thy Name [ WITH LYRICS ]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "7sXPmz9b4lM",
+    "videoPublishedAt" : "2008-04-26T01:40:32.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/TKmc5VCG5w_bouFHVAIVqOuPSz4\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkRDMzYwRkJGMEZFMzhCMkY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Copyright to the owners, etc.\r\nI do not own this.\r\n\r\nSong:2 Minutes To Midnight\r\nAlbum:Powerslave\r\nBand:Iron Maiden\r\n\r\nfirst pic is single cover and second is album cover",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 35,
+    "publishedAt" : "2012-02-26T20:56:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "7sXPmz9b4lM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/7sXPmz9b4lM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/7sXPmz9b4lM/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/7sXPmz9b4lM/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden 2 Minutes To Midnight (Studio Version)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WrPwXPqQppw",
+    "videoPublishedAt" : "2010-10-25T15:20:59.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ImVZSQC461jE-9N5q0fKioXDoYs\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkY4MkY2NTQ4RTFGODRDOUQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Lyrics!!!\r\n\r\nHand of fate is moving and the finger points to you\r\nHe knocks you to your feet and so what are you going to do\r\nYour tongue has frozen now you've got something to say\r\nThe piper at the gates of dawn is calling you his way\r\n\r\nYou watch the world exploding every single night\r\nDancing in the Sun a newborn in the light\r\nSay goodbye to gravity and say goodbye to death\r\nHello to eternity and live for every breath\r\n\r\nYour time will come, your time will come\r\nYour time will come, your time will come\r\n\r\nThe ferryman wants his money you ain't going to give it back\r\nHe can push his own boat as you set up off the track\r\nNothing you can contemplate will ever be the same\r\nEvery second is a new spark, sets the universe aflame\r\n\r\nYou watch the world exploding every single night\r\nDancing in the Sun a newborn in the light\r\nBrothers and their fathers joining hands and make a chain\r\nThe shadow of the Wicker Man is rising up again\r\n\r\nYour time will come, your time will come",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 36,
+    "publishedAt" : "2012-02-26T20:56:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WrPwXPqQppw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WrPwXPqQppw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WrPwXPqQppw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WrPwXPqQppw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/WrPwXPqQppw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Iron Maiden - The Wicker Man"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "IXgPss28htM",
+    "videoPublishedAt" : "2008-06-04T17:15:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/snwFxM0vp_IFL3lr95iEPjGaTjM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjMxRURBMTVCNkY1MjdFRkY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Mother russia how are you sleeping\r\nmiddle winter cold winds blow\r\nfrom the trees the snowflakes drifting\r\nswirling round like ghosts in the snow\r\n\r\nMother russia poetry majestic\r\ntells the time of a great empire\r\nturning round the old man ponders\r\nreminiscing an age gone by\r\n\r\nMother russia\r\ndance of the tsars\r\nhold up your heads\r\nbe proud of what you are\r\nnow it has come\r\nfreedom at last\r\nturning the tides of history\r\nand your past\r\n\r\nMother russia\r\ndance of the tsars\r\nhold up your heads\r\nremember who you are\r\ncan you release\r\nthe anger the grief\r\ncan you be happy\r\nnow your people are free",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 37,
+    "publishedAt" : "2012-02-26T20:57:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "IXgPss28htM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/IXgPss28htM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/IXgPss28htM/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/IXgPss28htM/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Mother Russia"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "m3fVDCtc0OY",
+    "videoPublishedAt" : "2008-09-19T11:35:34.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/iOI3s9G9DhITRprmp2vupvd3ibQ\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjlBMTgyMDQ3NzJDRTlFQkM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Watch in high quality: http://www.youtube.com/watch?v=m3fVDCtc0OY&fmt=18\r\nThis song is from \r\n\"Somewhere In Time\" album. Please rate and comment, enjoy!\r\n\r\n3:26 solo by Dave Murray\r\n4:04 solo by Adrian Smith\r\n\r\nLead Vocals: Bruce Dickinson\r\nBass and backing vocals: Steve Harris\r\nGuitar: Dave Murray\r\nGuitar and backing vocals: Adrian Smith\r\nDrums: Nicko McBrain",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 38,
+    "publishedAt" : "2012-02-26T20:58:25.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "m3fVDCtc0OY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/m3fVDCtc0OY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/m3fVDCtc0OY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/m3fVDCtc0OY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Caught Somewhere In Time (with lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xSZbbTjM0Es",
+    "videoPublishedAt" : "2009-07-05T04:04:29.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/NB-u3Aw6nDDyh4M6CDljfF9-Co0\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjQ0QUFCRDkzQTI3NTlFMzY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "the official music video for cani play with madness by iron maiden. all credits go to iron maiden",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 39,
+    "publishedAt" : "2012-02-26T20:59:25.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xSZbbTjM0Es"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xSZbbTjM0Es/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xSZbbTjM0Es/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xSZbbTjM0Es/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Can I Play With Madness (Official Music Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MZbCJZm_jOY",
+    "videoPublishedAt" : "2007-06-15T20:44:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/hyloWLUyAsimv2xRbr0ya4JZEsk\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjE2NEUxMjcxQTgwMzJENDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is a version of \"Dance Of Death\" with a lot of pics. I hope that you enjoy this collage in honor to this british group, Iron Maiden.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 40,
+    "publishedAt" : "2012-02-26T21:02:39.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MZbCJZm_jOY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MZbCJZm_jOY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MZbCJZm_jOY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MZbCJZm_jOY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Dance Of Death"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "dPSGXtosAM8",
+    "videoPublishedAt" : "2010-10-31T11:36:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/IynujjFgJem34MBLEjxfqDijllk\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjYzQTY2MTNDMzA5QzE2RUY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Lyrics!!!\r\n\r\nThere's a madman in the corner of your eye\r\nHe likes to pry-into your sunlight\r\nHe whants to burst into the street with you and I\r\nA world of shadows and of rain\r\nHe's seen what love is...\r\nHe wants to pay you back with guilt...\r\n\r\n[Chorus:]\r\nHe lies to you he won't let you be\r\nHe's got your Chains of misery\r\nHe won't be still till he's turned your key\r\nHe holds your Chains of misery\r\n\r\nThere's prophet in the gutter in the street\r\nHe say \"You're damned !\" - and you believe him...\r\nHe's got a vision but it shines out through your eyes\r\nA world of hatred and fear...\r\nHe's felt what love means...\r\nHe whants to pay you back with pain\r\n\r\n[Chorus:]\r\n\r\nIt's only love that holds the key to our hearts... only love...\r\n\r\n[Chorus 2 times]",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 41,
+    "publishedAt" : "2012-02-26T21:03:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "dPSGXtosAM8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/dPSGXtosAM8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/dPSGXtosAM8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/dPSGXtosAM8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Chains Of Misery"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5fdbDNfL0s0",
+    "videoPublishedAt" : "2010-06-08T11:53:05.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_IIO9avmDL0pRx8HjTa_XkS3htM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjZBQTBEODA3RkFFQzMwRDQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Iron Maiden - El Dorado single taken from Final Frontier 2010",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 42,
+    "publishedAt" : "2012-02-26T21:06:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5fdbDNfL0s0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5fdbDNfL0s0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5fdbDNfL0s0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5fdbDNfL0s0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - El Dorado [FINAL FRONTIER, 2010 NEW SONG]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2nio1uvozZA",
+    "videoPublishedAt" : "2011-06-17T01:19:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rZIzzouOUeFIuIawZ7HlKROFeFw\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjYyNzA0MzgzQ0EyMTQ0Q0M=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Download \"California Dreamin'\" in the style of The Mamas & The Papas in MP4 or MP3+G\nformats available here: https://karaoke.stingray.com/search/song?searchText=California%20Dreamin%27&karaokeId=KAR:G:1006\n\nSing, record and share this karaoke song online: http://www.thekaraokechannel.com/online/#sid=324\n\nFor more karaoke songs with lyrics, SUBSCRIBE:\nhttp://www.youtube.com/user/TheKARAOKEChannel?sub_confirmation=1\n\nWebsite: http://www.thekaraokechannel.com/\nKaraoke Download Store: http://karaoke.stingray.com\nFacebook: https://www.facebook.com/TheKARAOKEChannel\nTwitter: https://twitter.com/karaokelounge\n\nGet The KARAOKE Channel Mobile App, and take this karaoke song to go!\nhttp://www.thekaraokechannel.com/mobile/",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 43,
+    "publishedAt" : "2012-02-26T21:24:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2nio1uvozZA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "California Dreamin' in the Style of \"The Mamas & The Papas\" with lyrics (with lead vocal)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "cJQwnAhXnBk",
+    "videoPublishedAt" : "2009-07-24T11:12:55.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/qDfGhpY28k8vPbRvsFL_TvcAm94\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjFBNzEzMkIwNjBCNkRFNzA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "From their debut album 'The Doors'.\r\n\r\nLyrics:\r\n\r\nYou know the day destroys the night\r\nNight divides the day\r\nTried to run\r\nTried to hide\r\nBreak on through to the other side\r\nBreak on through to the other side\r\nBreak on through to the other side, yeah\r\n\r\nWe chased our pleasures here\r\nDug our treasures there\r\nBut can you still recall\r\nThe time we cried\r\nBreak on through to the other side\r\nBreak on through to the other side\r\n\r\n\r\nYeah!\r\nC'mon, yeah\r\n\r\n\r\nEverybody loves my baby\r\nEverybody loves my baby\r\nShe get\r\nShe get\r\nShe get\r\nShe get high\r\n\r\n\r\nI found an island in your arms\r\nCountry in your eyes\r\nArms that chain us\r\nEyes that lie\r\nBreak on through to the other side\r\nBreak on through to the other side\r\nBreak on through, oww!\r\nOh, yeah!\r\n\r\n\r\nMade the scene\r\nWeek to week\r\nDay to day\r\nHour to hour\r\nThe gate is straight\r\nDeep and wide\r\nBreak on through to the other side\r\nBreak on through to the other side\r\nBreak on through\r\nBreak on through\r\nBreak on through\r\nBreak on through\r\nYeah, yeah, yeah, yeah\r\nYeah, yeah, yeah, yeah, yeah!",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 44,
+    "publishedAt" : "2012-02-28T03:08:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "cJQwnAhXnBk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/cJQwnAhXnBk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/cJQwnAhXnBk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/cJQwnAhXnBk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Doors - Break on Through (To the Other Side)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OdV6Q-WQFeU",
+    "videoPublishedAt" : "2010-11-08T15:04:39.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ClVygwgysDGzJvICzRSJGnGncko\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjBDMUM5MTZDODVBOThBNUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Follow me, It's free ;)\nhttps://twitter.com/JosheyVargas\n***Like my page on facebook: https://www.facebook.com/JoheyVargas\n\nsong: ligth my fire\nband: The Doors\nwith lyrics...\nI made this video by taking the original song and some parts of the concert pictures of them which they did in Europe in 1968.\nI hope you enjoy.\nThe Doors rules.\n\n\nThis video may contain copyrighted material & is the property of the respective authors, artists and labels & is provided for educational purposes only. I am not responsible under any conditions for your actions thereafter. Please support the artists as I do not in any way support piracy. Go out and purchase the albums!\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 45,
+    "publishedAt" : "2012-02-28T03:09:58.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OdV6Q-WQFeU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OdV6Q-WQFeU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OdV6Q-WQFeU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OdV6Q-WQFeU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Doors Light My Fire With Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RbMS0BzOMV0",
+    "videoPublishedAt" : "2009-05-26T17:31:50.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/o1KhzSVDxWpb3HOpywoTGYNkkqo\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjQ4OTM2MDAyREI2MjRCM0U=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "the doors - love me two times",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 46,
+    "publishedAt" : "2012-02-28T03:11:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RbMS0BzOMV0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/RbMS0BzOMV0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/RbMS0BzOMV0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/RbMS0BzOMV0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "the doors - love me two times"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "awi14wDTxNw",
+    "videoPublishedAt" : "2008-12-31T19:16:33.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/t-e1iSL_37XRFwbXyLQpP8uf-ug\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkQwNTRCN0E3NkM5MkJGRTU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "want more music click on this link\r\nhttp://download-mp3-4free.info/\r\n\r\nthis is my favorite doors song\r\nhaters and hater comment will be removed......bitch\r\nby the way feel free to send me ideas for song you wanna hear",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 47,
+    "publishedAt" : "2012-02-28T03:12:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "awi14wDTxNw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/awi14wDTxNw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/awi14wDTxNw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/awi14wDTxNw/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "the doors people are strange"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "-NSz-9qqgKE",
+    "videoPublishedAt" : "2009-09-22T19:13:21.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Z3pP15BHbkRSHyn6Ukd4HTwQtE8\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjI5OEIxNURCM0MwRUIwMTY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The Doors playing Strange days\r\nLyrics:\r\nStrange days have found us\r\nStrange days have tracked us down\r\nThey're going to destroy\r\nOur casual joys\r\nWe shall go on playing\r\nOr find a new town\r\n\r\nYeah!\r\n\r\nStrange eyes fill strange rooms\r\nVoices will signal their tired end\r\nThe hostess is grinning\r\nHer guests sleep from sinning\r\nHear me talk of sin\r\nAnd you know this is it\r\n\r\nYeah!\r\n\r\nStrange days have found us\r\nAnd through their strange hours\r\nWe linger alone\r\nBodies confused\r\nMemories misused\r\nAs we run from the day\r\nTo a strange night of stone",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 48,
+    "publishedAt" : "2012-02-28T03:13:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "-NSz-9qqgKE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/-NSz-9qqgKE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/-NSz-9qqgKE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/-NSz-9qqgKE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Doors - Strange days (with lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Xo6Es-itLg0",
+    "videoPublishedAt" : "2009-10-06T05:42:59.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/5HCSq1TiyNToeo7WZQKjEqmdeGU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjlCQ0E3MTkyOEIyNzAyMjc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "\"I see myself as a huge fiery comet, a shooting star. Everyone stops, points up and gasps \"Oh look at that!\" Then whoosh, and I'm gone ... and they'll never see anything like it ever again -- and they won't be able to forget me, ever.\" James Douglas Morrison: December 08, 1943 -- July 03, 1971",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 49,
+    "publishedAt" : "2012-02-28T03:16:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Xo6Es-itLg0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Xo6Es-itLg0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Xo6Es-itLg0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Xo6Es-itLg0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Doors - LA Woman {Jim Morrison Tribute}"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5Z6s2Ln58Xw"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wCv5kjSAZj4Ju6IyKSJfILw-qqk\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjk0NjY3NzlFODU5NjA2MkI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 50,
+    "publishedAt" : "2012-02-28T03:20:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5Z6s2Ln58Xw"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jq9IhOhQt40"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/oFhWGktp28Vj2ufgQZ3btrFdFDI\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjYxRkU5NzNFRkJEMUQ4Njg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 51,
+    "publishedAt" : "2012-02-28T03:21:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jq9IhOhQt40"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "i_eQGsbHhDo",
+    "videoPublishedAt" : "2009-05-29T23:09:51.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3B-ZkoZeyVYbdH_YAhLWe5QSL7c\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjFBNkI4QUQ5RjU5NkVEQTU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The music video from The doors movie and the original audio(song).\r\n Info: They used to play this song on radio air play especially when the weather forecast called for rain or a storm. This song was inspired by the song \"Ghostriders in the Sky.\"",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 52,
+    "publishedAt" : "2012-03-03T02:46:03.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "i_eQGsbHhDo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/i_eQGsbHhDo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/i_eQGsbHhDo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/i_eQGsbHhDo/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Doors - Riders On The Storm (Music video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "tKpOWdA1h9Y",
+    "videoPublishedAt" : "2011-01-12T02:56:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/LwEMuz2qaZIeapmsg6kFB_m79jU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjE5NzA1MTM5RkM2NEFGMDE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Alabama song (Whiskey Bar)-The Doors-Lyrics one of the best\r\nSorry whisky is like that not like this whiskey\r\n\r\nI own the cds the best of the doors 1985 disc 1 and the best of the doors 2000 NO CopyRight",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 53,
+    "publishedAt" : "2012-03-03T02:51:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "tKpOWdA1h9Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/tKpOWdA1h9Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/tKpOWdA1h9Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/tKpOWdA1h9Y/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Alabama song (Whisky Bar)-The Doors-Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wtS4ef0vqhU",
+    "videoPublishedAt" : "2010-03-15T22:25:49.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-EHoUQdiclL9emt0KK-ekLr0Vnk\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkFDMDYwRERGQTdDNEQ5MDI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "karaoke beatles",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 54,
+    "publishedAt" : "2012-02-29T01:58:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wtS4ef0vqhU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wtS4ef0vqhU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wtS4ef0vqhU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wtS4ef0vqhU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Beatles   All You Need Is Love (Lyrics).wmv"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "eKXfqpg-Q-k",
+    "videoPublishedAt" : "2010-01-06T17:04:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/LwCHnxDFhB0Gse7TM_fHdBxWuAc\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjdGOTgwRDVFQ0UxOEZCQzk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "If you want more Beatles' videos with lyrics just leave a comment below ^.^\nsorry for the little delay of the lyrics at one part which is nearly at the end.\nEnjoy :))))\n\nLyrics:\n\n\nPicture yourself in a boat on a river,\nWith tangerine trees and marmalade skies.\nSomebody calls you, you answer quite slowly,\nA girl with kaleidoscope eyes.\n\nCellophane flowers of yellow and green,\nTowering over your head.\nLook for the girl with the sun in her eyes,\nAnd she's gone.\n\nLucy in the sky with diamonds,\nLucy in the sky with diamonds,\nLucy in the sky with diamonds,\nAh... Ah...\n\nFollow her down to a bridge by a fountain,\nWhere rocking horse people eat marshmallow pies.\nEveryone smiles as you drift past the flowers,\nThat grow so incredibly high.\n\nNewspaper taxis appear on the shore,\nWaiting to take you away.\nClimb in the back with your head in the clouds,\nAnd you're gone.\n\nPicture yourself on a train in a station,\nWith plasticine porters with looking glass ties.\nSuddenly someone is there at the turnstile,\nThe girl with kaleidoscope eyes.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 55,
+    "publishedAt" : "2012-02-29T01:59:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "eKXfqpg-Q-k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/eKXfqpg-Q-k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/eKXfqpg-Q-k/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/eKXfqpg-Q-k/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Lucy In The Sky With Diamonds - The Beatles (lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NcbAibPA2yY",
+    "videoPublishedAt" : "2009-03-21T14:55:29.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/514kla7VttLe5iJgseUSLYxCZVM\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkZCMkI5QjAxOUEzRjlBQTM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "- Did you hear? Metallica sold out in 45 seconds.\r\n- Yeah. It should be a great show!\r\n- What show?\r\n- ...",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 56,
+    "publishedAt" : "2012-03-01T02:02:09.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NcbAibPA2yY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NcbAibPA2yY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NcbAibPA2yY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NcbAibPA2yY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/NcbAibPA2yY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Metallica - Nothing Else Matters (Studio Version)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "6Mt0ee9FraQ",
+    "videoPublishedAt" : "2009-08-19T04:26:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Dd5tigy1u_RBynAFibShvqfMzkg\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjc4OURFQjBCMDVENjlDMTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Phil collins - In The Air Tonight\r\n\r\nLYRICS:\r\n\r\nI can feel it coming in the air tonight, oh lord\r\nIve been waiting for this moment, all my life, oh lord\r\nCan you feel it coming in the air tonight, oh lord, oh lord\r\n\r\nWell, if you told me you were drowning\r\nI would not lend a hand\r\nIve seen your face before my friend\r\nBut I dont know if you know who I am\r\nWell, I was there and I saw what you did\r\nI saw it with my own two eyes\r\nSo you can wipe off the grin, I know where youve been\r\nIts all been a pack of lies\r\n\r\nAnd I can feel it coming in the air tonight, oh lord\r\nIve been waiting for this moment for all my life, oh lord\r\nI can feel it in the air tonight, oh lord, oh lord\r\nAnd Ive been waiting for this moment all my life, oh lord, oh lord\r\n\r\nWell I remember, I remember dont worry\r\nHow could I ever forget, its the first time, the last time we ever met\r\nBut I know the reason why you keep your silence up, no you dont fool me\r\nThe hurt doesnt show; but the pain still grows\r\nIts no stranger to you or me\r\n\r\nAnd I can feel it coming in the air tonight, oh lord..\r\n\r\n\r\n\r\n\r\n\r\nI do not own this song this song belongs to phil collins please no need for copyright.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 57,
+    "publishedAt" : "2012-03-01T02:33:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6Mt0ee9FraQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6Mt0ee9FraQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6Mt0ee9FraQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6Mt0ee9FraQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Phil collins - In the air tonight"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "zMCZqKowlzM",
+    "videoPublishedAt" : "2009-04-10T18:16:50.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xRUeVZC9Y9hVLRCCizlWp-GkLmU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkMzRDcxMDkwQTE5QTgwMTI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Police Original [1979]",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 58,
+    "publishedAt" : "2012-03-10T22:16:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "zMCZqKowlzM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/zMCZqKowlzM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/zMCZqKowlzM/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/zMCZqKowlzM/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Sending Out An SOS -The Police"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "213is2dHO34",
+    "videoPublishedAt" : "2009-05-28T11:53:15.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/b0oQHEQhD_b1s_SrVkjHCqOMQHw\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjlFRkVFM0JGRDlCNzVFQUI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Like the title says. Thanks, The lyrics are in the vid.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 59,
+    "publishedAt" : "2012-03-12T02:23:36.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "213is2dHO34"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/213is2dHO34/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/213is2dHO34/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/213is2dHO34/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Black Betty (Ram Jam) With lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "m9BCpIm_P9Y",
+    "videoPublishedAt" : "2008-08-22T17:36:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/1bHNrC_44O4zIQ9pKTLb_nvMA_0\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjRERTcwODI5RTEyRjY5OEU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Remix: http://www.youtube.com/watch?v=SvONSHd_PF0\nNights in white satin, never reaching the end,\nLetters I've written, never meaning to send.\nBeauty I'd always missed with these eyes before.\nJust what the truth is, I can't say anymore.\n'Cos I love you, yes I love you, oh how I love you.\nGazing at people, some hand in hand,\nJust what I'm going through they can't understand.\nSome try to tell me, thoughts they cannot defend,\nJust what you want to be, you will be in the end.\n\nAnd I love you, yes I love you,\nOh how I love you, oh how I love you.\n\nNights in white satin, never reaching the end,\nLetters I've written, never meaning to send.\nBeauty I've always missed, with these eyes before.\nJust what the truth is, I can't say anymore.\n\n'Cos I love you, yes I love you,\nOh how I love you, oh how I love you.\n'Cos I love you, yes I love you,\nOh how I love you, oh how I love you.\n\nBreath deep\nThe gathering gloom\nWatch lights fade\nFrom every room\nBedsitter people\nLook back and lament\nAnother day's useless\nEnergy spent\n\nImpassioned lovers\nWrestle as one\nLonely man cries for love\nAnd has none\nNew mother picks up\nAnd suckles her son\nSenior citizens\nWish they were young\n\nCold hearted orb\nThat rules the night\nRemoves the colours\nFrom our sight\nRed is gray and\nYellow white\nBut we decide\nWhich is right\nAnd\nWhich is an Illusion\n\nMore lyrics: http://www.lyricsfreak.com/m/moody+blues/#share",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 60,
+    "publishedAt" : "2012-04-15T23:12:33.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "m9BCpIm_P9Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/m9BCpIm_P9Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/m9BCpIm_P9Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/m9BCpIm_P9Y/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Moody Blues - Nights In White Satin (Stereo-Hifi)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bZvJ-2pgC9s",
+    "videoPublishedAt" : "2009-03-07T14:12:59.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/7KHcbwTLDA1HLwU3Asz7wAwu7Ag\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkJDQUVGRjMzNzA0NUNDQ0Q=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Lyrics:\r\n\r\nDragula\r\n\r\nDead I am the one, exterminating son\r\nSlipping through the trees, strangling the breeze\r\nDead I am the sky, watching angels cry\r\nWhile they slowly turn, conquering the worm\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDead I am the pool, spreading from the fool\r\nWeak and want you need, nowhere as you bleed\r\nDead I am the rat, feast upon the cat\r\nTender is the fur, dying as you purr\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDo it baby, do it baby\r\nDo it baby, do it baby\r\nBurn like an animal\r\n\r\nDead I am the life, dig into the skin\r\nKnuckle crack the bone, 21 to win\r\nDead I am the dog, hound of hell you cry\r\nDevil on your back, I can never die\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDo it baby, do it baby\r\nDo it baby, do it baby\r\nBurn like an animal\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula\r\n\r\nDig through the ditches,\r\nBurn through the witches\r\nI slam in the back of my\r\nDragula",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 61,
+    "publishedAt" : "2012-04-16T00:57:48.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bZvJ-2pgC9s"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bZvJ-2pgC9s/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bZvJ-2pgC9s/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bZvJ-2pgC9s/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rob Zombie - Dragula + lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "hufU6MIS2vw",
+    "videoPublishedAt" : "2011-06-03T02:06:57.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/RYSIB6lnVzhnWCx4zC7iRhht9Zw\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkM3MzU1MjJDOEJCNjNGOTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "\"Seven Bridges Road\" a track from their \"Eagles Live\" album and released 1980",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 62,
+    "publishedAt" : "2012-05-04T05:57:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "hufU6MIS2vw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/hufU6MIS2vw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/hufU6MIS2vw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/hufU6MIS2vw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/hufU6MIS2vw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/hufU6MIS2vw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Eagles - Seven Bridges Road [w/ lyrics]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "SyRHeyFdl0I",
+    "videoPublishedAt" : "2009-06-22T16:49:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/UDpGhtkeQEyffTH9_xUL6R0m9LE\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkVCQTNDNTdCNjQ4MENCMUI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is my first AMV, I made this of Maiden's song, \"Dance of Death\" w/lyrics. Hope you like it and enjoy...",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 63,
+    "publishedAt" : "2012-07-19T05:50:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "SyRHeyFdl0I"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/SyRHeyFdl0I/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/SyRHeyFdl0I/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/SyRHeyFdl0I/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Iron Maiden - Dance of Death Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "j7oQEPfe-O8",
+    "videoPublishedAt" : "2009-03-04T13:51:51.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ohs3rx76Xgd_zXkFGsSC583a9_w\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjY2OTU2NURFRjQzN0JDRDE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Music video by R.E.M. performing The One I Love (2003 Digital Remaster).",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 64,
+    "publishedAt" : "2012-08-08T22:54:06.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "j7oQEPfe-O8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/j7oQEPfe-O8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/j7oQEPfe-O8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/j7oQEPfe-O8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/j7oQEPfe-O8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/j7oQEPfe-O8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "R.E.M. - The One I Love"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "auDv6cf2PBM"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_Sd6o6d-ok3uGQ_iKilbw3zqDtU\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkRDNjZEOEZBNUVDMDk1MEQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 65,
+    "publishedAt" : "2012-08-08T23:01:00.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "auDv6cf2PBM"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qZVsGxa_Vzk",
+    "videoPublishedAt" : "2009-05-02T09:16:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/L03NUaeuu568Db4NAO7-6TrY0QQ\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjY5QzQ2ODA0RjE1MjkyOUU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This Is My First Vid From One Of My Main Bands!",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 66,
+    "publishedAt" : "2012-08-08T23:11:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qZVsGxa_Vzk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qZVsGxa_Vzk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qZVsGxa_Vzk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qZVsGxa_Vzk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Led Zeppelin - Your Time Is Gonna Come (with Lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "NGaVUApDVuY",
+    "videoPublishedAt" : "2008-08-03T21:56:17.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/bp_MivfClrd-P6KL0vJ5xzi8Lgg\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjM2MEU3RjJCNUMyREVGNzk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The studio version of Hocus Pocus by Focus.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 67,
+    "publishedAt" : "2012-10-28T23:41:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "NGaVUApDVuY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/NGaVUApDVuY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/NGaVUApDVuY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/NGaVUApDVuY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Focus - Hocus Pocus"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Bpzxf_flm8M"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/FNwHQTo42HOBRy2G47JhpZ3ntPk\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkU1REE4ODRGRjNCMEJBMzU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 68,
+    "publishedAt" : "2012-10-28T23:42:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Bpzxf_flm8M"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Bpzxf_flm8M"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ErCBlIvmk4Hg3C0Uo8mz5amCy5E\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLkZFMjZEQzYyNjQwRkIxNTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 69,
+    "publishedAt" : "2012-10-28T23:49:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Bpzxf_flm8M"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "N9sGd-JLvNA",
+    "videoPublishedAt" : "2008-10-25T14:48:03.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/k66UwL5sHri4IiY1BcoynnQS0so\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjhEOEZFQUQ3RkY5NDNBRDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Welcome to Lynyrd Skynyrd - Free Bird w/ lyrics! A very popular song, it's old but gold! One of my personal favorites!\n\nNOTE: If you DON'T like the annotations, then TURN them off! It's not difficult. Please refrain from telling everyone you did so, honestly no one cares here. Just listen for the song! \n\n- Feel free to rock out loud or do air guitar. :) Yes, I do have duct tape in case you BREAK your air guitar... The struggle is real...\n\n-I made this video about this song with my brother when we shared this YouTube account when we were 15. Obviously, there's multiple misspellings, confusing grammar and odd annotations. I am aware of these, but I'm leaving the annotations in since they remind me of the \"simpler\" life. :)-\n\nRock On! \\m/ ( ^.^ ) \\m/\n\n-All Rights go to Lynyrd Skynyrd. I did not make this song and no copyright was intended.-\n\nLastly, feel free to check out @ShapingtheSilence !\nLink: https://www.youtube.com/channel/UCehaxxooGG9kCmR6cdUW2MA",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 70,
+    "publishedAt" : "2012-10-29T00:46:39.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "N9sGd-JLvNA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/N9sGd-JLvNA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/N9sGd-JLvNA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/N9sGd-JLvNA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Lynyrd Skynyrd Freebird w/ Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ydwA-A2FBWU",
+    "videoPublishedAt" : "2010-05-27T18:04:05.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/S1O5Xi0eX1DC0PpBPGmYWKfja20\"",
+  "id" : "UEwzMENFQzlCOTcyRkJENjczLjY0OEY2Q0M3RDEzQkM3RDQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Great song\r\n\r\nLyrics\r\nIn a white room, with black curtains, near the station.\r\nBlackroof country, no gold pavements, tired starlings.\r\nSilver horses, ran down moonbeams in your dark eyes\r\nDawnlight smiles on you leaving, my contentment.\r\n\r\nI'll wait in this place where the sun never shines\r\nWait in this place where the shadows run from themselves\r\n\r\nYou said no strings could secure you at the station\r\nPlatform ticket, restless diesels, goodbye windows\r\nI walked into such a sad time at the station\r\nAs I walked out, felt my own need just beginning\r\n\r\nI'll wait in the queue when the trains come back\r\nLie with you where the shadows run from themselves\r\n\r\nAt the party she was kindness in the hard crowd\r\nConsolation for the old wound now forgotten\r\nYellow tigers crouched in jungles in her dark eyes\r\nShe's just dressing, goodbye windows, tired starlings\r\n\r\nI'll sleep in this place with the lonely crowd\r\nLie in the dark where the shadows run from themselves",
+    "playlistId" : "PL30CEC9B972FBD673",
+    "position" : 71,
+    "publishedAt" : "2013-02-08T05:34:03.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ydwA-A2FBWU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ydwA-A2FBWU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ydwA-A2FBWU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ydwA-A2FBWU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cream- White Room"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

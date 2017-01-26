@@ -1,0 +1,287 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "6gbGfDtZkwY",
+    "videoPublishedAt" : "2011-04-08T05:22:07.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xGTQrU20vkdAUqtGzw9CmbQiSaw\"",
+  "id" : "UExMZ2VqLUlaN2hwMW9QWERiMlJCZS1nakVXRmV2blo4cy41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Recreate this classic set with Spectras!: https://www.emazinglights.com/products/spectra-bluetooth-glove-set\n\nA true piece of light show history. The first video on our channel to reach over 1 million views from one of gloving's most influential figures of all time. This set was built to remind of the stars and cosmos but now it's something so much more. Thanks to everybody who has supported us throughout the years. Oh and we left the original text below if you'd like to see to preserve a bit of the history.\n\nOriginal set consist of:\n6 x PurYB 3c Strobes\n2 x ROB 3c Strobes \nThumbs - ROW Hyper strobe\nPlams - Red Solid\n\nOriginal Text:\nDJ Gummy's brand new set - Nebula! This set reminded us the stars and cosmos, hence the name nebula. We think its a great combination of colors...but don't take our word for it. Watch the featured video above to check it out in action!",
+    "playlistId" : "PLLgej-IZ7hp1oPXDb2RBe-gjEWFevnZ8s",
+    "position" : 0,
+    "publishedAt" : "2012-09-18T02:13:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6gbGfDtZkwY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6gbGfDtZkwY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6gbGfDtZkwY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/6gbGfDtZkwY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6gbGfDtZkwY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/6gbGfDtZkwY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Team [e] [LB] [PM] Gummy Nebula Glove Set [EmazingLights.com]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "EgWMPxOJ7wg",
+    "videoPublishedAt" : "2012-09-17T00:54:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/uhmzw7y1XAcTTCKgxNx_TNvMwDw\"",
+  "id" : "UExMZ2VqLUlaN2hwMW9QWERiMlJCZS1nakVXRmV2blo4cy4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Get this awesome glove set at: http://www.emazinglights.com/ghost-machine-glove-set-panda\n\nUnleash the machine inside of you with Panda's new 'Ghost Machine' set! This set designed by Team [e]'s newest member has some beautiful blues and whites that make you wonder if there is a ghost haunting your light trails. This also accompanies the release of James Egbert & Alex Mind's single 'Ghost Machine' and Panda's show gives you unmatched musicality and skill that this great track deserves.\n\n\nCheck out James Egbert & Alex Mind's track on Beatport:\nhttp://www.beatport.com/release/ghost-machine/961289\n\nJames Egbert Facebook: \nhttps://www.facebook.com/thejamesegbert\n\n*NO COPYRIGHT INFRINGEMENT, FOR INSPIRATIONAL USE ONLY*",
+    "playlistId" : "PLLgej-IZ7hp1oPXDb2RBe-gjEWFevnZ8s",
+    "position" : 1,
+    "publishedAt" : "2012-09-18T02:52:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "EgWMPxOJ7wg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/EgWMPxOJ7wg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/EgWMPxOJ7wg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/EgWMPxOJ7wg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/EgWMPxOJ7wg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/EgWMPxOJ7wg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Team [e] Panda - Ghost Machine Glove Set Glove Light Show [EmazingLights.com]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QrB_0h1IuNQ",
+    "videoPublishedAt" : "2009-10-18T23:54:10.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/DbiOgcxx8DUQxGafYnhz1x0CEGk\"",
+  "id" : "UExMZ2VqLUlaN2hwMW9QWERiMlJCZS1nakVXRmV2blo4cy4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Use the code \"Gummy\" at EmazingLights.com to receive a FREE pair of gloves!!!\n\nSupport Gummy as a DJ! facebook.com/GummyMusic!\n\nTo buy this set, click here!! http://www.emazinglights.com/bunny-glove-set.html\n\nSong: Hide and Seek (Ozo Remix) by Imogen Heap.\nGummy bought a new mask and decided to test it out in a lightshow.",
+    "playlistId" : "PLLgej-IZ7hp1oPXDb2RBe-gjEWFevnZ8s",
+    "position" : 2,
+    "publishedAt" : "2012-09-19T03:33:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QrB_0h1IuNQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QrB_0h1IuNQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QrB_0h1IuNQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QrB_0h1IuNQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Team [e] [PM] Gummy: The Bunny Show [EmazingLights.com]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "oXcWGbRUnok",
+    "videoPublishedAt" : "2010-10-13T05:39:09.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/OBShWbiEruofcfHs6onx8uVoBng\"",
+  "id" : "UExMZ2VqLUlaN2hwMW9QWERiMlJCZS1nakVXRmV2blo4cy41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Get this classic set here: http://www.emazinglights.com/evil-bunny-glove-set-gummy\n\nA cult classic, watch a Gummy masterpiece that still holds up to today's high standards.\n\nOriginal set consists of: \n6 x RedWhite Strobe MICROMAX\n2 x PinkWhite Strobe MICROMAX\n2 x Pink Thumbs INOVA\n1 x Red Palm INOVA\n1 x White Palm INOVA\n\nTrack: Massive Attack - Paradise Circus (Breakage's Tight Rope Remix)\n\nOriginal Text:\nUse coupon code \"Gummy\" for a FREE pair of White stretchy raver gloves at EmazingLights.com!\n\nReturn of the bunny! Gummy! He created a new awesome set that will be sure to please all glovers!",
+    "playlistId" : "PLLgej-IZ7hp1oPXDb2RBe-gjEWFevnZ8s",
+    "position" : 3,
+    "publishedAt" : "2012-09-19T03:39:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "oXcWGbRUnok"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/oXcWGbRUnok/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/oXcWGbRUnok/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/oXcWGbRUnok/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "[PM] Gummy - Evil Bunny Glove Set Light Show - Return of the Bunny [EmazingLights.com]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ktrJNKhtzWU",
+    "videoPublishedAt" : "2011-02-20T22:35:24.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ZFkLRz5dnixsHnI30b3LkM1scLE\"",
+  "id" : "UExMZ2VqLUlaN2hwMW9QWERiMlJCZS1nakVXRmV2blo4cy4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Get this classic set here:\nhttp://www.emazinglights.com/starburst-glove-set\n\nWe remember the days when Sharky was a young glover with a hunger to get better that just didn't go away. One of our most colorful sets ever, satisfy that sweet tooth with the Starburst Glove Set.\n\nOriginal Text:\nUse Promo Code: \"ayosharky\" for 5% off your next order!\nCheck out Sharky at: https://www.facebook.com/AyoSharky",
+    "playlistId" : "PLLgej-IZ7hp1oPXDb2RBe-gjEWFevnZ8s",
+    "position" : 4,
+    "publishedAt" : "2012-09-19T03:44:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ktrJNKhtzWU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ktrJNKhtzWU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ktrJNKhtzWU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ktrJNKhtzWU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ktrJNKhtzWU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ktrJNKhtzWU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Team [e] Sharky - Starburst Glove Set Light Show [EmazingLights.com]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "X0fcvvg6gyU",
+    "videoPublishedAt" : "2011-11-20T00:13:53.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-ZzyewwOEPnkWWCx_qgXu41a8DQ\"",
+  "id" : "UExMZ2VqLUlaN2hwMW9QWERiMlJCZS1nakVXRmV2blo4cy4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Team [e} Sharky comes at you with some intense visuals with his Shark Attack glove set. Do you have what it takes to jump into the Shark Tank? \n\n\nOriginal Text:\nhttp://www.emazinglights.com/shark-attack-glove-set-sharky - This glove set was designed by the one and only Sharky! It comes at you with intense blues and whites with a hint of red, giving the feeling of an shark attack coming out of nowhere. The brightness and clarity of this Emazing set is sure to make you shine!\nUse Promo Code: \"ayosharky\" for 5% off your next order!\n\nCheck out Sharky at: https://www.facebook.com/AyoSharky\n\n \n\nThis awesome set contains the following:\n\n    4 x RedWhite 2c Strobes\n    2 x PurpleWhite 2c Strobes\n    2 x Purple 1c Strobes\n\n \n\nSharky added the following:\n\n    2 x PinkYellowBlue 6 mode MicroMax\n    Fingers MicroMax EVO's in Black Casings",
+    "playlistId" : "PLLgej-IZ7hp1oPXDb2RBe-gjEWFevnZ8s",
+    "position" : 5,
+    "publishedAt" : "2012-09-19T03:51:01.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "X0fcvvg6gyU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/X0fcvvg6gyU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/X0fcvvg6gyU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/X0fcvvg6gyU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/X0fcvvg6gyU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/X0fcvvg6gyU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Team [e] Sharky - Shark Attack Glove Set Glove Light Show [EmazingLights.com]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

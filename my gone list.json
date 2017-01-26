@@ -1,0 +1,1600 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "tGf3SQVgXGg",
+    "videoPublishedAt" : "2009-07-29T12:27:00.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/nKK68Z3z4eqAs9gEFcuVeYpw5i4\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjg3RUVBNjYzQjM2REZDQTE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "good mornign vietnam",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 0,
+    "publishedAt" : "2012-01-18T03:52:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "tGf3SQVgXGg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/tGf3SQVgXGg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/tGf3SQVgXGg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/tGf3SQVgXGg/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Jefferson Airplane-Good Morning Vietnam"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1ar27ChFKqA",
+    "videoPublishedAt" : "2008-12-21T14:19:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/a2fyJIlf6pmny0g6F_3W8ZMS6-g\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjIzNDI5OEYyN0IwQjcyQjI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The End - The Doors",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 1,
+    "publishedAt" : "2012-01-18T04:01:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1ar27ChFKqA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1ar27ChFKqA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1ar27ChFKqA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1ar27ChFKqA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The End - The Doors"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RO3cPyi5_oA",
+    "videoPublishedAt" : "2009-02-03T00:54:06.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/FF4A8MPzckwfD8ZiSccT4l5tem0\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjY1MTJEQTcyNTdBQjgxRkY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "A stoney parody of the American National Anthem, i didn't make this [obviously]\r\n uhm.. Happy High Times!",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 2,
+    "publishedAt" : "2012-01-18T04:04:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RO3cPyi5_oA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/RO3cPyi5_oA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/RO3cPyi5_oA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/RO3cPyi5_oA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The Pothead Anthem"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Y1L1skkywuA",
+    "videoPublishedAt" : "2010-08-27T01:37:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/tayozOVB7WJQUE66YPEBzMuQVI0\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkNFNDNFMTg5MTI0OTBCRjQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The best smoking song ever",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 3,
+    "publishedAt" : "2012-01-18T04:04:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Y1L1skkywuA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Y1L1skkywuA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Y1L1skkywuA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Y1L1skkywuA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "The best smoking song ever"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bRJjkivtwV4",
+    "videoPublishedAt" : "2011-12-13T20:30:35.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/K96otsWHNsyAZQXdurc_or8jdL8\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkI5MTdGMzQ2MzU2RUIwNEI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 4,
+    "publishedAt" : "2012-01-18T04:05:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bRJjkivtwV4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bRJjkivtwV4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bRJjkivtwV4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bRJjkivtwV4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bRJjkivtwV4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Cypress Hill - Hits from the Bong [HQ]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "rzgHX7A5EJQ",
+    "videoPublishedAt" : "2010-10-10T16:05:36.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/6DrK9IKB14d3jKS4xPrQe8X-bWc\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjY3OUJEMEUzNkUyOUFBMUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Still Blazin off of wiz's Kush and OJ mixtape with scrolling lyrics\n\nKeep Blazin and Enjoy!\n\nEnjoy!",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 5,
+    "publishedAt" : "2012-01-20T00:58:17.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "rzgHX7A5EJQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/rzgHX7A5EJQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/rzgHX7A5EJQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/rzgHX7A5EJQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Still Blazin - Wiz Khalifa + Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HtP1i-5iTVs",
+    "videoPublishedAt" : "2011-04-15T19:37:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/RorcD9UciyFzaWIAJHRStExNl1k\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkRERUJDNDhCNzI2Nzg1RkE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Wiz Khalifa - Stoned - Rolling Papers Album, Deluxe Edition Bonus Track",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 6,
+    "publishedAt" : "2012-01-20T01:01:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HtP1i-5iTVs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HtP1i-5iTVs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HtP1i-5iTVs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/HtP1i-5iTVs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HtP1i-5iTVs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/HtP1i-5iTVs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Wiz Khalifa - Stoned"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KdpuZyYQHks",
+    "videoPublishedAt" : "2010-12-28T23:18:40.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/QZVTykTZEDgfWpDlAIGgR31h9lo\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjMxOEI0MjU5NjAxMjUwNjE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "unknown dj",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 7,
+    "publishedAt" : "2012-02-07T01:44:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KdpuZyYQHks"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KdpuZyYQHks/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KdpuZyYQHks/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KdpuZyYQHks/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "white rabbit remix"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2nio1uvozZA",
+    "videoPublishedAt" : "2011-06-17T01:19:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/q74aorn_1dyoBIQ6lb2QLR45wd0\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjE0Nzg5Q0ZDMkUwODk0NTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Download \"California Dreamin'\" in the style of The Mamas & The Papas in MP4 or MP3+G\nformats available here: https://karaoke.stingray.com/search/song?searchText=California%20Dreamin%27&karaokeId=KAR:G:1006\n\nSing, record and share this karaoke song online: http://www.thekaraokechannel.com/online/#sid=324\n\nFor more karaoke songs with lyrics, SUBSCRIBE:\nhttp://www.youtube.com/user/TheKARAOKEChannel?sub_confirmation=1\n\nWebsite: http://www.thekaraokechannel.com/\nKaraoke Download Store: http://karaoke.stingray.com\nFacebook: https://www.facebook.com/TheKARAOKEChannel\nTwitter: https://twitter.com/karaokelounge\n\nGet The KARAOKE Channel Mobile App, and take this karaoke song to go!\nhttp://www.thekaraokechannel.com/mobile/",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 8,
+    "publishedAt" : "2012-02-24T02:59:39.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2nio1uvozZA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2nio1uvozZA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "California Dreamin' in the Style of \"The Mamas & The Papas\" with lyrics (with lead vocal)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Pj2iarDb85Y",
+    "videoPublishedAt" : "2011-04-06T23:27:17.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/1RctZ05U_0E-9mFHyFsHDJ1dNx0\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkJCRUI3NTA1MjkzM0Q4REE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "For all you potheads, hippies and stoners, Celebrate this 420 with the anthem to get high in 2011.\n\n\"roll up the sticky and then touch the sky, me and you baby, we getting higher, higher, higher, higher yeah\"\n\nArtists included are:\nStephen Michael - stephenmichaelmusic.com\nCherry L - cherrylmusic.com\nBobby Goodnow - theopenairstudio.com\nV.Dozen - youtube.com/vdozentv\n\nDont know who produced this, but if you do, holla @ me and Ill give credit.",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 9,
+    "publishedAt" : "2012-04-25T06:56:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Pj2iarDb85Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Pj2iarDb85Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Pj2iarDb85Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Pj2iarDb85Y/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Pj2iarDb85Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Pj2iarDb85Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Happy 420 - Official 2012 Weed Anthem - Higher"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WiAdGivZli8",
+    "videoPublishedAt" : "2010-02-22T18:04:25.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/DcwXxPdsRlwoLVuycDbCdFlYtds\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjVFQTk3QTEzRENDRjg4MDA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Ras Matthew - Ganja in my Brain",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 10,
+    "publishedAt" : "2012-04-26T02:23:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WiAdGivZli8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WiAdGivZli8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WiAdGivZli8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WiAdGivZli8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Ras Matthew - Ganja in my Brain"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "L4iCaDCX3jY",
+    "videoPublishedAt" : "2008-06-10T22:36:26.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/fCkIRXyr7qm8Wj-ehVAeF7XbMJc\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjBBNzA3NDU2QjA1MDBDQjg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Subscribe and be my new friend! gaming video,Funny Video Coming very soon on this channel waiting for my gaming computer! :)",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 11,
+    "publishedAt" : "2012-04-26T02:26:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "L4iCaDCX3jY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/L4iCaDCX3jY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/L4iCaDCX3jY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/L4iCaDCX3jY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Devil went down to Jamaica"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "COcxA94z59k",
+    "videoPublishedAt" : "2009-04-15T19:10:59.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/6yfn1JkEFhBC_hzsFab7Nk9PqmM\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjQ3QjZFN0I2OUY3QzNBMzM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Really good mix if you smoke Weed. \nThe best weed songs. Mixed up By Williamrhodesdk\n\n1. Tupac Rather be you nigga\n2. IM THE GANJAMAN\n3. Snoop dogg- Smoking Smoking Weed\n4. juicy juicy \n5. Dr. Dre - The Next Episode ft. Snoop Dogg\n6. Sorry dude................\n7. Afroman - Because i got high\n8. Jiam Luis Guerra - Las Avispas\nJUST ENJOY :)",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 12,
+    "publishedAt" : "2012-04-26T02:33:32.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "COcxA94z59k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/COcxA94z59k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/COcxA94z59k/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/COcxA94z59k/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "8 Great weed songs when you get high"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "sB8IPX1_vY8",
+    "videoPublishedAt" : "2010-07-26T01:24:54.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wZZoWpBz_YSDiI-prYYC0GPeO-s\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjlFRUE2ODdDNkM2Rjg0MjQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Amazing Songs To Listen To When Your Wrecked\r\n\r\niiLoVeDiiRtYdUbStEp",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 13,
+    "publishedAt" : "2012-04-26T05:27:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "sB8IPX1_vY8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/sB8IPX1_vY8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/sB8IPX1_vY8/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/sB8IPX1_vY8/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Songs Too Listen To When Stoned"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "U_9SXtEWlxc",
+    "videoPublishedAt" : "2010-04-07T02:21:52.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kX0PeXM4sN6-l5yaJ4CZwtCnBgA\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkU2MjFCNzFEMEJGRDQzODM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "More to come please subscribe =)",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 14,
+    "publishedAt" : "2012-04-26T05:19:03.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "U_9SXtEWlxc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/U_9SXtEWlxc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/U_9SXtEWlxc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/U_9SXtEWlxc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Jefferson airplanes- Good morning vietnam"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "MapFFIfpFfI",
+    "videoPublishedAt" : "2011-06-23T23:54:28.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/OYOAw9WNmTP56uRXtKBkQW_whCk\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjQzOTlDRjJGMjZEMDA3MTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Follow my Personal Instagram!: @Legend\nLyrics below!\nThis is a special request.\n\nWe don't want you to smoke genetically modified ganja.\nWe want you to smoke the real thing, we want you to smoke the natural herb.\n\nSome call it marijuana, some call it sensimilia, some call it lamb's bread and some people call it ganja.\n\nGanjaman\n\nThis is\nGanja\n\nGanjaman\nGanja [x4]\n\nGanjaman\n\nThis is a special request.\n\nWe don't want you to smoke genetically modified ganja.\nWe want you to smoke the real thing, we want you to smoke the natural herb.\n\nSome call it marijuana, some call it sensimilia, some call it lamb's bread and some people call it ganja.\n\nGanjaman\n\nThis is\nGanja\n\nGanjaman\nGanja [x5]",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 15,
+    "publishedAt" : "2012-04-28T19:24:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "MapFFIfpFfI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/MapFFIfpFfI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/MapFFIfpFfI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/MapFFIfpFfI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/MapFFIfpFfI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/MapFFIfpFfI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Sukh Knight- Ganja Dub [Dubstep!] [HD!]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "6Yi7ZxGrCqY",
+    "videoPublishedAt" : "2007-08-14T22:37:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/1uOIZSAQk-narGWvqzSqHI4vVc0\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkFDOURBMDdDRTYyMzYzNTI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "SUBSCRIBE, SUBSCRIBE, SUBSCRIBE- TO HELP FIGHT THE WAR ON MARIJUANA: \r\nLyrics: \r\nOne Day, A Farmer Planted Some Seeds Both He And She Tried It\r\nIt Was What They Believe\r\nSo They Planted A Field\r\nNot Realizing Trouble\r\nBut When His Profits Went Double\r\nIt Was All You Can See\r\n\r\nAnd I Know\r\nI Couldnt Get Any Lower\r\nThen A Marijuana Soldier\r\nWho's got Nothin At All...\r\n\r\nThen One Day\r\nThe Farmers Checkin His Fields\r\nHe Was Followed By Copters\r\nAnd Black-N-White AutoMobiles\r\nSo He Ran\r\nFrom What He Did\r\nBut The Coppers, They Shot Him\r\nIn Front Of His, Wife-N-Kids\r\n\r\nAnd I Know\r\nI Couldnt Get Any Lower\r\nThen A Marijuana Soldier\r\nWho's Got Nothin At All...\r\n\r\n\r\n\r\nSONG & VIDEO- Written & Arranged BY:KiddKain.\r\nSong Performed by:KiddKain, & Slug.\r\nKiddKain Productions 2008",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 16,
+    "publishedAt" : "2012-05-01T22:53:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6Yi7ZxGrCqY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6Yi7ZxGrCqY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6Yi7ZxGrCqY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6Yi7ZxGrCqY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "ORIGINAL WEED SONG-Marijuana Soldier (KIDDKAIN) W/Lyrics"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "note" : "_________________________",
+    "videoId" : "S5FCdx7Dn0o",
+    "videoPublishedAt" : "2008-04-23T20:08:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-GehTlLcXk-malrM7IGAAiSFmtE\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjEwRjM2QkI3RjQ3QzAyODg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Bob Marley - Buffalo soldier",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 17,
+    "publishedAt" : "2012-05-01T22:54:03.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "S5FCdx7Dn0o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/S5FCdx7Dn0o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/S5FCdx7Dn0o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/S5FCdx7Dn0o/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Bob Marley - Buffalo soldier"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WeYsTmIzjkw",
+    "videoPublishedAt" : "2009-10-08T11:10:26.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/lClEcPN5lvCfVLZVuucrCOjtiBA\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjFBMkIxQzQxOUQyMjA5NkU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Music video by Afroman performing Because I Got High. (C) 2001 Universal Records, a Division of UMG Recordings, Inc.",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 19,
+    "publishedAt" : "2012-05-01T22:54:34.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WeYsTmIzjkw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WeYsTmIzjkw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WeYsTmIzjkw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/WeYsTmIzjkw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WeYsTmIzjkw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/WeYsTmIzjkw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Afroman - Because I Got High"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ilh3731EXCg",
+    "videoPublishedAt" : "2011-11-29T20:09:56.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kvFp7riv7awAo3S9PavQwkZhfzw\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjBGMzU3OENEOUIwQTlEODI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "skrillex ft adele.",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 20,
+    "publishedAt" : "2012-06-12T01:39:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ilh3731EXCg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Adele Ft. Skrillex Set Fire To The Rain Dubstep"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Xkk3Wst3Mow",
+    "videoPublishedAt" : "2009-04-20T18:56:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/VtnUqHUyyntBPXO6cKImR5MWBSc\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjg5MzYwNzlFM0U0OUY3ODk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Come join the Kottonmouth Kings this 420 and pack ur bowls and enjoy!!\r\n\r\nTune into www.kottonmouthkings.com for more 4:20 goodies!",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 21,
+    "publishedAt" : "2012-01-19T03:00:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Xkk3Wst3Mow"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Xkk3Wst3Mow/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Xkk3Wst3Mow/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Xkk3Wst3Mow/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Xkk3Wst3Mow/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Xkk3Wst3Mow/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kottonmouth Kings - Pack Ur Bowls [420 Special!]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xz1jeOWgJaA",
+    "videoPublishedAt" : "2011-03-19T06:35:54.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/y9B7O3KG78iQEMv65eZis6T-QEc\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjYyMkE0QTdGNjMzMDFGNUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 22,
+    "publishedAt" : "2012-01-20T00:47:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xz1jeOWgJaA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xz1jeOWgJaA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xz1jeOWgJaA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xz1jeOWgJaA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Kottonmouth Kings-Tangerine Sky  [With Lyrics]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "l8kME9ltzp4",
+    "videoPublishedAt" : "2009-03-02T13:56:23.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/bhK3ML4sP7vxpJkLRfN40yidPXw\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjVCODU4NjczRUQ5QTNBNUU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rodney Wilcox, Is got the munchies! lol\r\n\r\nSubscribe to http://www.youtube.com/dvsskater1000",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 24,
+    "publishedAt" : "2012-01-19T02:47:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "l8kME9ltzp4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/l8kME9ltzp4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/l8kME9ltzp4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/l8kME9ltzp4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "KOTTONMOUTH KINGS THE MUNCHIES"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "OIv1ttZYxG4",
+    "videoPublishedAt" : "2010-04-18T16:39:26.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3XBnNUEYCUwmbvwtPrkEvoVhUMU\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjFDRjQxRjhBNzMzNzNFMzM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 25,
+    "publishedAt" : "2012-01-25T22:53:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "OIv1ttZYxG4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/OIv1ttZYxG4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/OIv1ttZYxG4/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/OIv1ttZYxG4/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Kottonmouth Kings - Stomp - LONG LIVE THE KINGS"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ZChvVkghjQs",
+    "videoPublishedAt" : "2011-01-13T09:58:06.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rBOsKbDfkb0dEzQmwcWHbStx_8c\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkZGNTUwRTNFODI3MDFBQzQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Kottonmouth Kings\nReefer Madness \nnew 2011",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 26,
+    "publishedAt" : "2012-01-25T22:55:46.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ZChvVkghjQs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ZChvVkghjQs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ZChvVkghjQs/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ZChvVkghjQs/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Kottonmouth Kings - Reefer Madness (Official Music Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "TEg-XyY-Jqg"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/FoS9BHcOlddro_QJqWZAp0Ycmpg\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjI2MjJEMzBDRkY4Nzg0NkQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 27,
+    "publishedAt" : "2012-01-25T22:58:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "TEg-XyY-Jqg"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Tz5Hx2Yqwas",
+    "videoPublishedAt" : "2009-11-11T18:03:05.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ZQa-6f0YzlH7M1Y4ujL7q_-xeac\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELkE4OEM3NDE1MzdCMzg0Mjc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Lyrics\r\nI'm gonna smoke weed for the rest of my life\r\nYou can find me postin on my porch, tokin on the pipe\r\nI'm gonna smoke weed for the rest of my life\r\nSee some people gave in but I ain't given up this fight\r\nI'm gonna smoke weed for the rest of my life \r\nYou'll find me old postin on my porch, tokin on a pipe \r\nI'm gonna smoke weed for the rest of my life \r\nSee I'm in love with Mary Jane I'm gonna make her my wife\r\nyeah, yeah, yeah, for the rest of my life\r\nyeah, yeah, yeah, for the rest of my life\r\n\r\nSometimes I wanna get high travel up away to the beautiful skies\r\nFloat away and hope to never come down\r\nHope to see the day that I never come down\r\nBut what goes up is always bound to fall \r\nAll I'm trying to say is that I live my life raw \r\nI'm gonna smoke weed the rest of my life\r\nAnd give all I got till the day that I die, Ya!\r\n\r\nI'm gonna smoke weed for the rest of my life\r\nYou can find me postin on my porch, tokin on the pipe\r\nI'm gonna smoke weed for the rest of my life\r\nSee some people gave in but I ain't given up this fight\r\nI'm gonna smoke weed for the rest of my life \r\nYou'll find me old postin on my porch, tokin on a pipe \r\nI'm gonna smoke weed for the rest of my life \r\nSee I'm in love with Mary Jane I'm gonna make her my wife, yeah\r\n\r\nYou cant see what your not looking for...\r\nWhen I look in the mirror I feel so low \r\nI see my eyes and I feel the glow\r\nI know I can make do let's bless the sole\r\nShow my love and let myself go\r\nEverybody knows that I spit these flows\r\nand I drink my beer smoke my weed \r\nBut my head's in the clear\r\nShow your love respect the one your dreaming of\r\n\r\nI'm gonna smoke weed for the rest of my life\r\nYou can find me postin on my porch, tokin on the pipe\r\nI'm gonna smoke weed for the rest of my life\r\nSee some people gave in but I ain't given up this fight\r\nI'm gonna smoke weed for the rest of my life \r\nYou'll find me old postin on my porch, tokin on a pipe \r\nI'm gonna smoke weed for the rest of my life \r\nSee I'm in love with Mary Jane I'm gonna make her my wife\r\n(im gonna smoke weed for the rest of my life, yea)\r\n(im gonna smoke weed for the rest of my life, yea)\r\n\r\nLet us plant trees that bear positive fruits\r\nAnd nourish our youth with compassionate truth\r\nThat enlighten our minds to the deepest roots\r\nall the way to the core\r\nwhere the soul can stay true\r\nwhere I can, walk free with a joint in my hand\r\nand I can plant plants right upon my land \r\nhelp em, understand these are natures laws\r\nmy creator had visions in the things he saw, yeah, he saw, yeah,\r\nyeah my creator had visions in the things he saw, yeah\r\nhe saw, yeah, yeah, my creator had visions in the things he saw\r\n\r\nI'm gonna smoke weed for the rest of my life,\r\nYou can find me postin on my porch, tokin the pipe\r\nI'm gonna smoke weed for the rest of my life\r\nSee some people gave in but I ain't given up this fight\r\nI'm gonna smoke weed for the rest of my life \r\nYou'll find me old postin on my porch, tokin on a pipe \r\nI'm gonna smoke weed for the rest of my life\r\nSee I'm in love with Mary Jane I'm gonna make her my wife...\r\n\r\nNow when the love is lost and your spirits are low\r\nThe world's closing in around you got no place to go\r\nDone all that you could to ease and please another soul\r\nAnd in the end you're in the cold, another sad story told\r\nThat's why I make my own decisions on how I'm liven\r\nTry to get by with the knowledge that I'm given\r\nCan't make me believe cause a tree is a tree\r\nAnd when my soul bleeds, the color that I'm spillin is green\r\n\r\nI'm gonna smoke weed for the rest of my life,\r\nYou can find me postin on my porch, tokin on the pipe\r\nI'm gonna smoke weed for the rest of my life\r\nSee some people gave in but I ain't given up this fight\r\nI'm gonna smoke weed for the rest of my life \r\nYou'll find me old postin on my porch, tokin on a pipe \r\nI'm gonna smoke weed for the rest of my life \r\nSee I'm in love with Mary Jane I'm gonna make her my wife\r\n(im gonna smoke weed for the rest of my life, yea\r\nim gonna smoke weed for the rest of my life, yea\r\ncontinues to the end",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 28,
+    "publishedAt" : "2012-05-13T16:11:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Tz5Hx2Yqwas"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Tz5Hx2Yqwas/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Tz5Hx2Yqwas/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Tz5Hx2Yqwas/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Kottonmouth Kings - Rest of my life"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Exle2PxhP_0",
+    "videoPublishedAt" : "2010-06-08T21:51:12.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ycwDQMWkvOppA8k5fXgLtX2fsxo\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjE5QTAyOTJFMUU1NjdERDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "All Credit Goes to the Kottonmotuh Kings For being the best rap group ever! this is the first song from long live the kings i listened to this song its beast!",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 29,
+    "publishedAt" : "2012-08-23T05:26:25.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Exle2PxhP_0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Exle2PxhP_0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Exle2PxhP_0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Exle2PxhP_0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Kottonmouth Kings- Long Live The Kings"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5ggJNIvO_60",
+    "videoPublishedAt" : "2010-12-21T01:36:27.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/0-4LtF1SvCeQ3LkZfZBnVy00M2U\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjQ3MjhFQ0ZCMEIyNUM4MjA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Music Video for \"Mushrooms\" [Full Song] performed by The Dirtball of the Kottonmouth Kings.  From the Kottonmouth Kings album \"Long Live the Kings\" © 2010 Suburban Noize Records.",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 30,
+    "publishedAt" : "2012-09-10T05:22:48.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5ggJNIvO_60"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5ggJNIvO_60/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5ggJNIvO_60/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/5ggJNIvO_60/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5ggJNIvO_60/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/5ggJNIvO_60/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "The Dirtball - Mushrooms"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "iS4dRfR6PCo",
+    "videoPublishedAt" : "2010-07-22T04:09:44.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/QZ2KyVrEOOdvyclFNZn3MITuiTw\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjVBQUFGQjI1NzFDRTY0NjI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "100k views Thank you all and smoke up :)\n\nYa know I got 2 states of mind, stoned and asleep\nFirst I hit the sweet leaf, and then I have nice dreams\nWhen I get up, I wake and bake, take a piss and shake\nMy clock stopped at Four-twenty, what you want me to say\nI stay blazed all day, no matter where I'm creepin'\nHot boxing on your block, and at the spot on the weekends\nYou'll see smoke risin', Just who could it be\nIt's my rhyme and crime partner, D. dash L. O. C.\n\nYeah that be me born and raised in the suburbs.\nFaded off the bud smoke blowing it at you nerds thanks Johnny Richter for your nice little hand\noff\nI got some purple Kush\nDid you bring the sand box?\nLet's bounce some bud so we can make a little Keefe\nSpice up the leaf before we smoke the tree\nEverybody in the scene\nKnow we blow the most dosha\nThat's why they label us the Kottonmouth solders.\n\n\"we got all types\"-- At 4-2-0 yeah our clocks is always altered- \"we talking pounds\" These\nanti-hero's are just here to serve you proper \"Roll that shit up\" So leave those blessings right\nup here upon the alter \"pass it around\" at 4-2-0 everybody's burning Ganja\"\n\nYou'll catch me at the Smoke-Out smoked out, dropping drinks\nHaving a blast, not giving a fuck, doing my thing\nBlowing rings through the crowd, being loud and obnoxious\nNow the shots I did with Pak got me feelin' kind of nauseous\nBut I played it cool and pulled a few snaps\nBig fat packed bowls, and had a chicken Caesar wrap\nDipping through the whole place, no where else I'd rather be\nThen smokin' weed with my peeps, now I pass it to D.\n\n24.7 Everyday every minute everybody every stoner grab your bud keep composer beer drinkers,\npill poppers, acid heads and freaks\nAll the creatures in the street Heroin addicts and geeks\nKottonmouth Kings signed a one way contract to see the world and smoke the killa chronic\nD-Loc said it, so don't you forget it\nIt's four (four), two, o and I blow endow.\n\n\"we got all types\"-- At 4-2-0 yeah our clocks is always altered- \"we talking pounds\" These\nanti-hero's are just here to serve you proper \"Roll that shit up\" So leave those blessings right\nup here upon the alter \"pass it around\" at 4-2-0 everybody's burning Ganja\"\n\nNow you might see me on a mission searching for double-vision\nAnd I ain't no mathematician, more like a stoney musician\nBut I get a little help from my friends when in need\nHit the bubble, fuck, double, now I'm seeing in three's\n\n4-5-6, double dash is D\nI'm always drinking beer and I'm always smoking weed\nhanging in the streets just doing my thing\nputting it down for the herb with the Kottonmouth Kings\n\nAll these hours and days inter-face with the planet with bubbles and bells the kush is orgasmic\n-- I transplant my mental to truly titanic fanatic levels for all you bud fiending addict -- the\nsession begins right upstairs in my addict we bless it we roll it we toke it and pass it -- the\nnext time you see us don't take us for granted -- we're all getting lifted just the way that we\nplanned it\n\n\"we got all types\"-- At 4-2-0 yeah our clocks is always altered- \"we talking pounds\" These\nanti-hero's are just here to serve you proper \"Roll that shit up\" So leave those blessings right\nup here upon the alter \"pass it around\" at 4-2-0 everybody's burning Ganja\"",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 31,
+    "publishedAt" : "2012-09-10T05:28:56.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "iS4dRfR6PCo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/iS4dRfR6PCo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/iS4dRfR6PCo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/iS4dRfR6PCo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/iS4dRfR6PCo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/iS4dRfR6PCo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kottonmouth Kings - 420 (With Lyrics)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5XZZRVRiYww",
+    "videoPublishedAt" : "2012-03-22T18:10:07.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/BTOWAqKu3KxPgrYvCH0C04K3t-s\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjA1RUYyRjhBRTU0MkRERTc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Kottonmouth Kings member, D-Loc, just dropped a new digital EP this week, titled \"Weedman\", and is premiering the project's first visual -- a music video for \"Smoke You Out.\" In the clip, the Southern Cali indie rap vet gives you a look into his typical day.\n\nSUBSCRIBE To Our Channel\nhttp://youtube.com/ballerstatuscom\n\nFriend us on Social Media\nFollow: http://twitter.com/ballerstatus\nLike: http://facebook.com/ballerstatuscom\nInstagram: http://instagram.com/ballerstatus\nGoogle: http://google.com/+ballerstatuscom",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 32,
+    "publishedAt" : "2012-09-10T05:35:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5XZZRVRiYww"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5XZZRVRiYww/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5XZZRVRiYww/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/5XZZRVRiYww/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5XZZRVRiYww/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/5XZZRVRiYww/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "D-Loc: Smoke You Out (Music Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "JrInVsKR0HE",
+    "videoPublishedAt" : "2012-01-18T20:43:35.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/PpJ_Vp7uvkT7q7uhO4VF3UbWkh8\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjI2MTUyQTU3OENDNEYyMDU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "No pancakes here.  D-Loc gets stoned and gives Chris Brown's \"Look At Me Now\" an upgrade. \r\n\r\nD-Loc on Facebook:\r\nhttp://www.facebook.com/therealdloc\r\nKottonmouth Kings on Facebook:\r\nhttp://www.facebook.com/kottonmouthkings\r\nPurchase KMK's latest record Hidden Stash 5 on iTunes:\r\nhttp://itunes.apple.com/us/album/hidden-stash-vol.-5-bong-loads/id474171701",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 34,
+    "publishedAt" : "2012-09-10T05:53:19.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "JrInVsKR0HE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/JrInVsKR0HE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/JrInVsKR0HE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/JrInVsKR0HE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/JrInVsKR0HE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Stoned white rapper flips Chris Brown's \"Look At Me Now\" (Rolling Papers)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "aGSgzhIPHGA",
+    "videoPublishedAt" : "2012-04-20T06:59:16.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/32RF_--encROlbTvi89b5kLbz8Q\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjUyRDhDQUQ4QzY0ODJERkY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The wait is finally over!  The official video of 420 2012 is here!  \nBuy the song on iTunes:  http://itunes.apple.com/us/album/hold-it-in-single/id511644628\nPre Order MILE HIGH: http://bit.ly/fbmilehigh\n\nBe sure to check back at 4:20 PM for the premiere of the brand new Kottonmouth Kartoon - Stonetown!  \nAnd the revealing of the artwork for Mile High and pre order launch!!!! \n\nkottonmouthkings.com\nfacebook.com/kottonmouthkings",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 35,
+    "publishedAt" : "2012-09-11T22:05:54.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "aGSgzhIPHGA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/aGSgzhIPHGA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/aGSgzhIPHGA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/aGSgzhIPHGA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/aGSgzhIPHGA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/aGSgzhIPHGA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Kottonmouth Kings - \"Hold It In\"  Official 420 Music Video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "U_9SXtEWlxc",
+    "videoPublishedAt" : "2010-04-07T02:21:52.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/EzjzEgiOQGQDfsKPSwZd28iCC4I\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjc4M0QxMTFGRTMwNzk2M0E=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "More to come please subscribe =)",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 36,
+    "publishedAt" : "2012-10-27T06:09:30.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "U_9SXtEWlxc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/U_9SXtEWlxc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/U_9SXtEWlxc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/U_9SXtEWlxc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Jefferson airplanes- Good morning vietnam"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "edEr-Zgsu9g",
+    "videoPublishedAt" : "2010-09-10T11:59:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/1r1WLJNWeUGPPTP2c4Gt92LX6K4\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjU0OURGQzRDOEU1MkMxQ0I=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Massive remix by Chasing Shadows of Red By Laid Blak. Forthcoming on HENCH Recordings!\n\nhttp://www.myspace.com/henchrecordings\n\nhttp://www.facebook.com/ukfdubstep\nhttp://www.ukfmusic.com\nhttp://www.twitter.com/UKFLuke",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 38,
+    "publishedAt" : "2014-06-12T06:06:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "edEr-Zgsu9g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Laid Blak - Red (Chasing Shadows Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4lzF4KKrbPQ",
+    "videoPublishedAt" : "2013-03-08T17:23:51.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9H7LFPGYhNabqIU9NAzN8j2zJG8\"",
+  "id" : "UEw2OEYxMjNEM0QyRDhCNjBELjdFNDQ4QUQ2NEU5RUIxNjU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "CES Cru \"When Worlds Collide\"\niTunes -  http://bit.ly/1oxNti7\nOfficial Music Video | Strange Music\n\nCES Cru | Constant Energy Struggles\nAmazon - http://amzn.to/1pUypvQ\nstrangemusicinc.net - http://bit.ly/UfxIn0\n\nCES Cru on Twitter - https://twitter.com/cescru\nFacebook - http://facebook.com/cescrufan\nSoundcloud - http://bit.ly/1e8IK0e\n\nOfficial Merch - http://strangemusicinc.net\nTour dates - http://strangevip.com\n\nSUBSCRIBE\nhttp://www.youtube.com/subscription_center?add_user=strangemusicinc",
+    "playlistId" : "PL68F123D3D2D8B60D",
+    "position" : 39,
+    "publishedAt" : "2015-07-16T04:01:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4lzF4KKrbPQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4lzF4KKrbPQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4lzF4KKrbPQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/4lzF4KKrbPQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4lzF4KKrbPQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/4lzF4KKrbPQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "CES Cru - When Worlds Collide - Official Music Video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

@@ -1,0 +1,404 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "ocXjr9nPnvg",
+    "videoPublishedAt" : "2012-12-10T16:40:07.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3Vu3XmJ0rMbCbd0KPjDdchwHzUM\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n\nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 0,
+    "publishedAt" : "2013-06-21T04:41:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ocXjr9nPnvg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ocXjr9nPnvg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ocXjr9nPnvg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ocXjr9nPnvg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ocXjr9nPnvg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ocXjr9nPnvg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead - We Are (Explicit)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gpylHsdk824",
+    "videoPublishedAt" : "2012-10-21T01:03:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xP0g2M-7M2qUymvSMfGUWen7Xus\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n \nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 1,
+    "publishedAt" : "2013-06-21T04:43:36.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gpylHsdk824"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gpylHsdk824/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gpylHsdk824/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gpylHsdk824/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/gpylHsdk824/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead \"Dead Bite\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "TV5m7KvWUj0",
+    "videoPublishedAt" : "2013-01-26T01:38:04.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/PU5YaRZAa-N7rWk-pIR2aX-q2S4\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n \nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 2,
+    "publishedAt" : "2013-06-23T20:15:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "TV5m7KvWUj0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/TV5m7KvWUj0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/TV5m7KvWUj0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/TV5m7KvWUj0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/TV5m7KvWUj0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/TV5m7KvWUj0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead - \"Another Way Out\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QgFHL2R8m6s",
+    "videoPublishedAt" : "2013-01-26T01:43:16.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xWGgsOFrUKGQXUQlWA9XYWxDxOM\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Pre-order the new album now http://smarturl.it/HUDayOfTheDead\n“Usual Suspects” from Hollywood Undead's forthcoming album, Day Of The Dead, out March 31st.\nPreview more at http://www.hollywoodundead.tv \n\nAlbum Release Shows on-sale now at http://HollywoodUndead.com.\nEvery ticket comes with digital delivery of the new album redeemable on March 31st.\n\n\"Notes from the Underground\" is available now on iTunes http://smarturl.it/HUnotes\n\nSubscribe!\n\nFor more Hollywood Undead:\n\nhttp://site.hollywoodundead.com/\nhttps://www.facebook.com/hollywoodundeadofficial\nhttps://twitter.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 3,
+    "publishedAt" : "2013-06-23T20:20:39.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QgFHL2R8m6s"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QgFHL2R8m6s/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QgFHL2R8m6s/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/QgFHL2R8m6s/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QgFHL2R8m6s/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/QgFHL2R8m6s/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead - \"Lion\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "M-PHgF5MJvs",
+    "videoPublishedAt" : "2013-01-04T17:35:55.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/LaavwOGqfsogyQK_MXR9yag9SX8\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n \nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 4,
+    "publishedAt" : "2013-06-23T20:21:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "M-PHgF5MJvs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/M-PHgF5MJvs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/M-PHgF5MJvs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/M-PHgF5MJvs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/M-PHgF5MJvs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/M-PHgF5MJvs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead \"Pigskin\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "eLigICVB-uM",
+    "videoPublishedAt" : "2013-01-08T12:59:58.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/7oEkD4G39Fg1Cm0ByxNowibTa1M\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n \nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 5,
+    "publishedAt" : "2013-06-23T20:28:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "eLigICVB-uM"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/eLigICVB-uM/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/eLigICVB-uM/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/eLigICVB-uM/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/eLigICVB-uM/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/eLigICVB-uM/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead - \"Believe\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "BzZBtZVfDOg",
+    "videoPublishedAt" : "2013-01-16T23:44:13.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/n4k7hdJ1HpZeNI6dRrX-pGx2yPE\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n \nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 6,
+    "publishedAt" : "2013-06-23T20:35:51.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BzZBtZVfDOg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BzZBtZVfDOg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BzZBtZVfDOg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/BzZBtZVfDOg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BzZBtZVfDOg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/BzZBtZVfDOg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead - \"Outside\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "6slY_T31pC0",
+    "videoPublishedAt" : "2012-12-18T18:28:55.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/k4fW3qbm7VuGaZdpKhLyQR49Ydw\"",
+  "id" : "UExMZ2VqLUlaN2hwM0VlQ2JYZUo3UFVoVGZKazU3ZTlLRy40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Hollywood Undead’s brand new album “Day of The Dead” is out NOW. Get it here:\niTunes: http://smarturl.it/HUDayOfTheDead \nAmazon: http://smarturl.it/HUDayOfTheDeadAmz \nGoogle Play: http://smarturl.it/HUDayOfTheDeadGP\nBest Buy: http://smarturl.it/DayOfTheDeadBB \n \nSite: http://hollywoodundead.com \nFacebook: http://facebook.com/hollywoodundead \nTwitter: http://twitter.com/hollywoodundead \nInstagram: http://instagram.com/hollywoodundead",
+    "playlistId" : "PLLgej-IZ7hp3EeCbXeJ7PUhTfJk57e9KG",
+    "position" : 7,
+    "publishedAt" : "2013-06-23T20:51:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "6slY_T31pC0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/6slY_T31pC0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/6slY_T31pC0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/6slY_T31pC0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/6slY_T31pC0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/6slY_T31pC0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Hollywood Undead - \"Up In Smoke\" (Official Lyric Video)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

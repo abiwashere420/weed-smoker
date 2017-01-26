@@ -1,0 +1,695 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "rbj2QB85MBo",
+    "videoPublishedAt" : "2014-12-24T18:50:01.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/WJ9R-clwXL9yYhEIQDl_ICiN4lg\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” EP with new tracks by Dark Half, Majik Duce, DieaboliK The Monster, Bloody Ruckus and S.A.W. a.k.a. Yung Ghozt!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for Merry Cult Shit Christmas which was mixed by Void of Void Productionz and Black X-Mas which was mixed by DieaboliK The Monster!!\n\nTrack Listing:\n01. Merry Cult Shit Christmas (Geno Cultshit ft. Bloody Ruckus)\n02. Something in the Wind (Dark Half ft. S.A.W. a.k.a. Yung Ghozt)\n03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)\n04. Black X-Mas (DieaboliK The Monster)\n05. Christmas Sucks (Dark Half ft. Majik Duce)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 0,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "rbj2QB85MBo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/rbj2QB85MBo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/rbj2QB85MBo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/rbj2QB85MBo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/rbj2QB85MBo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas EP - 01. Merry Cult Shit Xmas (Geno Cultshit ft. Bloody Ruckus)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4wDxpQXGZMI",
+    "videoPublishedAt" : "2014-12-24T18:22:52.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/62qQRO57vD9QDnputOh1lu4kP8Q\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” EP with new tracks by Dark Half, Majik Duce, DieaboliK The Monster, Bloody Ruckus and S.A.W. a.k.a. Yung Ghozt!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for Merry Cult Shit Christmas which was mixed by Void of Void Productionz and Black X-Mas which was mixed by DieaboliK The Monster!!\n\nTrack Listing:\n01. Merry Cult Shit Christmas (Geno Cultshit ft. Bloody Ruckus)\n02. Something in the Wind (Dark Half ft. S.A.W. a.k.a. Yung Ghozt)\n03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)\n04. Black X-Mas (DieaboliK The Monster)\n05. Christmas Sucks (Dark Half ft. Majik Duce)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 1,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4wDxpQXGZMI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4wDxpQXGZMI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4wDxpQXGZMI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4wDxpQXGZMI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/4wDxpQXGZMI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas EP - 02. Something in the Wind (Dark Half ft. Yung Ghozt)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "bfZxE47kPs0",
+    "videoPublishedAt" : "2014-12-24T05:55:43.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/AAYMt8NFxAnrzrCI7B6rT-b929E\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” EP with new tracks by Dark Half, Majik Duce, DieaboliK The Monster, Bloody Ruckus and S.A.W. a.k.a. Yung Ghozt!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for Merry Cult Shit Christmas which was mixed by Void of Void Productionz and Black X-Mas which was mixed by DieaboliK The Monster!!\n\nTrack Listing:\n01. Merry Cult Shit Christmas (Geno Cultshit ft. Bloody Ruckus)\n02. Something in the Wind (Dark Half ft. S.A.W. a.k.a. Yung Ghozt)\n03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)\n04. Black X-Mas (DieaboliK The Monster)\n05. Christmas Sucks (Dark Half ft. Majik Duce)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 2,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "bfZxE47kPs0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/bfZxE47kPs0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas EP - 03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "fJuc0bBNzo0",
+    "videoPublishedAt" : "2014-12-24T05:08:27.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ceai23szsHmav0wutDsNu7FYO7M\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” EP with new tracks by Dark Half, Majik Duce, DieaboliK The Monster, Bloody Ruckus and S.A.W. a.k.a. Yung Ghozt!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for Merry Cult Shit Christmas which was mixed by Void of Void Productionz and Black X-Mas which was mixed by DieaboliK The Monster!!\n\nTrack Listing:\n01. Merry Cult Shit Christmas (Geno Cultshit ft. Bloody Ruckus)\n02. Something in the Wind (Dark Half ft. S.A.W. a.k.a. Yung Ghozt)\n03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)\n04. Black X-Mas (DieaboliK The Monster)\n05. Christmas Sucks (Dark Half ft. Majik Duce)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 3,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "fJuc0bBNzo0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/fJuc0bBNzo0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/fJuc0bBNzo0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/fJuc0bBNzo0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/fJuc0bBNzo0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas EP - 04. Black X-Mas (DieaboliK The Monster)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "qOAVQHjsqfw",
+    "videoPublishedAt" : "2014-12-24T04:22:29.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/YlCN4RzKk1MECrrs85sOI2gcBYI\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC4wOTA3OTZBNzVEMTUzOTMy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” EP with new tracks by Dark Half, Majik Duce, DieaboliK The Monster, Bloody Ruckus and S.A.W. a.k.a. Yung Ghozt!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for Merry Cult Shit Christmas which was mixed by Void of Void Productionz and Black X-Mas which was mixed by DieaboliK The Monster!!\n\nTrack Listing:\n01. Merry Cult Shit Christmas (Geno Cultshit ft. Bloody Ruckus)\n02. Something in the Wind (Dark Half ft. S.A.W. a.k.a. Yung Ghozt)\n03. The GingerDead Man (Damien Quinn a.k.a. Damien Jones)\n04. Black X-Mas (DieaboliK The Monster)\n05. Christmas Sucks (Dark Half ft. Majik Duce)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 4,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "qOAVQHjsqfw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/qOAVQHjsqfw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/qOAVQHjsqfw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/qOAVQHjsqfw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/qOAVQHjsqfw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas EP - 05. Christmas Sucks (Dark Half ft. Majik Duce)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1vllOljDiSI",
+    "videoPublishedAt" : "2015-12-19T18:27:09.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wLwBhs3RYpCb08hRNwMLo-J2L1A\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC4xMkVGQjNCMUM1N0RFNEUx",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas 2” with new tracks by Damien Quinn, SCUM, Claas, GrewSum and Bloody Ruckus!! \n\nThis EP was mastered by Riddles of Higher Power!!\nTracks 2, 4 and 5 Mixed by GrewSum, Track 3 Mixed by SCUM and Track 1 Mixed by Toxzik of Troubled Mindz!!\n\nTrack Listing:\n01. Season's Greetings from D (Damien Quinn)\n02. Don't Open 'Til Christmas (Bloody Ruckus ft. Damien Quinn)\n03. Santa Killa (SCUM)\n04. Merry Christmas Ho (GrewSum)\n05. Black Christmas [to bury them] (Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 5,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1vllOljDiSI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1vllOljDiSI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1vllOljDiSI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/1vllOljDiSI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1vllOljDiSI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1vllOljDiSI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 2 - 01. Season's Greetings from D (Damien Quinn)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "eJKer_Orc6s",
+    "videoPublishedAt" : "2015-12-19T18:26:54.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/h4NInNKrsPCJIjrS35JKHk0Z25g\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC41MzJCQjBCNDIyRkJDN0VD",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas 2” with new tracks by Damien Quinn, SCUM, Claas, GrewSum and Bloody Ruckus!! \n\nThis EP was mastered by Riddles of Higher Power!!\nTracks 2, 4 and 5 Mixed by GrewSum, Track 3 Mixed by SCUM and Track 1 Mixed by Toxzik of Troubled Mindz!!\n\nTrack Listing:\n01. Season's Greetings from D (Damien Quinn)\n02. Don't Open 'Til Christmas (Bloody Ruckus ft. Damien Quinn)\n03. Santa Killa (SCUM)\n04. Merry Christmas Ho (GrewSum)\n05. Black Christmas [to bury them] (Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 6,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "eJKer_Orc6s"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/eJKer_Orc6s/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/eJKer_Orc6s/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/eJKer_Orc6s/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/eJKer_Orc6s/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/eJKer_Orc6s/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 2 - 02. Don't Open 'Til Christmas (Bloody Ruckus ft. Damien Quinn)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "iFt1_Q5HPWc",
+    "videoPublishedAt" : "2015-12-19T18:26:34.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/DpYa7rsWEOx5GI7zXqkLXChEhDA\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC5DQUNERDQ2NkIzRUQxNTY1",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas 2” with new tracks by Damien Quinn, SCUM, Claas, GrewSum and Bloody Ruckus!! \n\nThis EP was mastered by Riddles of Higher Power!!\nTracks 2, 4 and 5 Mixed by GrewSum, Track 3 Mixed by SCUM and Track 1 Mixed by Toxzik of Troubled Mindz!!\n\nTrack Listing:\n01. Season's Greetings from D (Damien Quinn)\n02. Don't Open 'Til Christmas (Bloody Ruckus ft. Damien Quinn)\n03. Santa Killa (SCUM)\n04. Merry Christmas Ho (GrewSum)\n05. Black Christmas [to bury them] (Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 7,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "iFt1_Q5HPWc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/iFt1_Q5HPWc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/iFt1_Q5HPWc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/iFt1_Q5HPWc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/iFt1_Q5HPWc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/iFt1_Q5HPWc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 2 - 03. Santa Killa (SCUM)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1tVh6n02fyU",
+    "videoPublishedAt" : "2015-12-19T18:26:04.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/BvXPb0ANlFSmXmmeUfvjmLRuTFE\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC45NDk1REZENzhEMzU5MDQz",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas 2” with new tracks by Damien Quinn, SCUM, Claas, GrewSum and Bloody Ruckus!! \n\nThis EP was mastered by Riddles of Higher Power!!\nTracks 2, 4 and 5 Mixed by GrewSum, Track 3 Mixed by SCUM and Track 1 Mixed by Toxzik of Troubled Mindz!!\n\nTrack Listing:\n01. Season's Greetings from D (Damien Quinn)\n02. Don't Open 'Til Christmas (Bloody Ruckus ft. Damien Quinn)\n03. Santa Killa (SCUM)\n04. Merry Christmas Ho (GrewSum)\n05. Black Christmas [to bury them] (Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 8,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1tVh6n02fyU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1tVh6n02fyU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1tVh6n02fyU/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/1tVh6n02fyU/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1tVh6n02fyU/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1tVh6n02fyU/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 2 - 04. Merry Christmas Ho (GrewSum)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Ky1A9O5x_F8",
+    "videoPublishedAt" : "2015-12-19T18:25:36.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/VmXElJxBTfXdBXKkflt4S49xn_c\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC5GNjNDRDREMDQxOThCMDQ2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas 2” with new tracks by Damien Quinn, SCUM, Claas, GrewSum and Bloody Ruckus!! \n\nThis EP was mastered by Riddles of Higher Power!!\nTracks 2, 4 and 5 Mixed by GrewSum, Track 3 Mixed by SCUM and Track 1 Mixed by Toxzik of Troubled Mindz!!\n\nTrack Listing:\n01. Season's Greetings from D (Damien Quinn)\n02. Don't Open 'Til Christmas (Bloody Ruckus ft. Damien Quinn)\n03. Santa Killa (SCUM)\n04. Merry Christmas Ho (GrewSum)\n05. Black Christmas [to bury them] (Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 9,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Ky1A9O5x_F8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Ky1A9O5x_F8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Ky1A9O5x_F8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Ky1A9O5x_F8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Ky1A9O5x_F8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Ky1A9O5x_F8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 2 - 05. Black Christmas [to bury them] (Claas)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "YY2S6l45HNw",
+    "videoPublishedAt" : "2016-12-13T03:17:22.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3VbM2k5lEusBV5J91b9RsTCECg8\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC40NzZCMERDMjVEN0RFRThB",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” 3 with new tracks by \"The Leatherface of Wisconsin\" Damien Quinn, SKR's own Razakel, The New Jersey Devil and Cult Activity (Bloody Ruckus, S.A.W. Da Ghozt and Damien Quinn) featuring LSP's own Claas!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for \"How The Grinch Murdered Christmas\" which was mixed and mastered by The New Jerzey Devil!!\n\nTrack Listing:\n01. A Cult Shit Christmas Tale (Damien Quinn)\n02. Stocking Stuffer (Razakel feat. Damien Quinn)\n03. How The Grinch Murdered Christmas (New Jerzey Devil)\n04. The Death Of Santa Claus (Cult Activity feat. Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 10,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "YY2S6l45HNw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/YY2S6l45HNw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/YY2S6l45HNw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/YY2S6l45HNw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/YY2S6l45HNw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/YY2S6l45HNw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 3 - 01. A Cult Shit Christmas Tale (Damien Quinn)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "d1ofQfglsc8",
+    "videoPublishedAt" : "2016-12-13T03:05:41.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/i-xdX0EtbT4bMqWPSzYZFZnM30Y\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC5EMEEwRUY5M0RDRTU3NDJC",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” 3 with new tracks by \"The Leatherface of Wisconsin\" Damien Quinn, SKR's own Razakel, The New Jersey Devil and Cult Activity (Bloody Ruckus, S.A.W. Da Ghozt and Damien Quinn) featuring LSP's own Claas!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for \"How The Grinch Murdered Christmas\" which was mixed and mastered by The New Jerzey Devil!!\n\nTrack Listing:\n01. A Cult Shit Christmas Tale (Damien Quinn)\n02. Stocking Stuffer (Razakel feat. Damien Quinn)\n03. How The Grinch Murdered Christmas (New Jerzey Devil)\n04. The Death Of Santa Claus (Cult Activity feat. Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 11,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "d1ofQfglsc8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/d1ofQfglsc8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/d1ofQfglsc8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/d1ofQfglsc8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/d1ofQfglsc8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/d1ofQfglsc8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 3 - 02. Stocking Stuffer (Razakel ft. Damien Quinn)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "jbJaOTbUPAk",
+    "videoPublishedAt" : "2016-12-13T02:52:49.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/qpyneyVV0v07xN55bQwS5qsNzHE\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC45ODRDNTg0QjA4NkFBNkQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” 3 with new tracks by \"The Leatherface of Wisconsin\" Damien Quinn, SKR's own Razakel, The New Jersey Devil and Cult Activity (Bloody Ruckus, S.A.W. Da Ghozt and Damien Quinn) featuring LSP's own Claas!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for \"How The Grinch Murdered Christmas\" which was mixed and mastered by The New Jerzey Devil!!\n\nTrack Listing:\n01. A Cult Shit Christmas Tale (Damien Quinn)\n02. Stocking Stuffer (Razakel feat. Damien Quinn)\n03. How The Grinch Murdered Christmas (New Jerzey Devil)\n04. The Death Of Santa Claus (Cult Activity feat. Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 12,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "jbJaOTbUPAk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/jbJaOTbUPAk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/jbJaOTbUPAk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/jbJaOTbUPAk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/jbJaOTbUPAk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/jbJaOTbUPAk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 3 - 03. How The Grinch Murdered Christmas (New Jerzey Devil)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "41ke7B4wPNw",
+    "videoPublishedAt" : "2016-12-13T02:40:59.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kpsKw4qdURFhD25BwcyHlqz-FBE\"",
+  "id" : "UExMZ2VqLUlaN2hwMEFKczNFQ2lreHVGellXeGQzQnBKaC4zMDg5MkQ5MEVDMEM1NTg2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dark Half presents…”A Cult Shit Christmas” 3 with new tracks by \"The Leatherface of Wisconsin\" Damien Quinn, SKR's own Razakel, The New Jersey Devil and Cult Activity (Bloody Ruckus, S.A.W. Da Ghozt and Damien Quinn) featuring LSP's own Claas!!\n\nThis EP was mixed and mastered by SKR’s Sicktanick of thesickbeats.com except for \"How The Grinch Murdered Christmas\" which was mixed and mastered by The New Jerzey Devil!!\n\nTrack Listing:\n01. A Cult Shit Christmas Tale (Damien Quinn)\n02. Stocking Stuffer (Razakel feat. Damien Quinn)\n03. How The Grinch Murdered Christmas (New Jerzey Devil)\n04. The Death Of Santa Claus (Cult Activity feat. Claas)",
+    "playlistId" : "PLLgej-IZ7hp0AJs3ECikxuFzYWxd3BpJh",
+    "position" : 13,
+    "publishedAt" : "2016-12-26T08:54:10.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "41ke7B4wPNw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/41ke7B4wPNw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/41ke7B4wPNw/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/41ke7B4wPNw/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/41ke7B4wPNw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/41ke7B4wPNw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dark Half - A Cult Shit Christmas 3 - 04. The Death Of Santa Claus (Cult Activity ft. Claas)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

@@ -1,0 +1,2656 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "B0j0m-GUO2s",
+    "videoPublishedAt" : "2011-04-19T03:07:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/c3M6HDKsUAKRTAOQeHavP3UdLFY\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjVENzA3QjY5RkUwODgzNzc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This song belong to his rightful owner  \"Youri Lohuis\"\nhttp://www.youtube.com/user/yourilohuis\nhttp://www.facebook.com/YLohuis",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 0,
+    "publishedAt" : "2012-02-04T19:58:38.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "B0j0m-GUO2s"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/B0j0m-GUO2s/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/B0j0m-GUO2s/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/B0j0m-GUO2s/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/B0j0m-GUO2s/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Yiruma - River Flows in You (Youri Lohuis Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PYMMONM-rqk",
+    "videoPublishedAt" : "2010-11-02T08:49:44.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_hBT0rSxlSxHR9SPjD3A3kk7tEI\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjU4Mjc2MUFENzJBQTNCNDI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Just watch and enjoy :)\r\n\r\nIn The Background by Cyrus\r\n\r\nYes I just used iTunes visualizer, and added a little bit of editing. I'm just sharing so you can enjoy! :D",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 1,
+    "publishedAt" : "2012-02-04T20:13:53.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PYMMONM-rqk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PYMMONM-rqk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PYMMONM-rqk/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PYMMONM-rqk/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Trippy dubstep"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "RNF4GYvodbc",
+    "videoPublishedAt" : "2010-08-07T22:06:07.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/8jtO6VSpXi6mAXFTQt1iYPEFMak\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjQ4QkM1NkY4RTIwMTVCQUY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "dj fresh - gold dust (flux pavillion remix) full song",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 2,
+    "publishedAt" : "2012-02-04T20:14:28.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "RNF4GYvodbc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/RNF4GYvodbc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/RNF4GYvodbc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/RNF4GYvodbc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "dj fresh - gold dust (flux pavillion remix) full song"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "86khmc6y1yE",
+    "videoPublishedAt" : "2011-12-24T23:13:29.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-YNnh2yid49y5tYPQSX3PAaUxs8\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjkzRjk5NjMxRTQ3M0YwQjg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Download this song: http://bit.ly/w1BFrv or http://bit.ly/uGoZeE",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 3,
+    "publishedAt" : "2012-02-06T22:51:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "86khmc6y1yE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/86khmc6y1yE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/86khmc6y1yE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/86khmc6y1yE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/86khmc6y1yE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "SKRILLEX - KYOTO (FT. SIRAH)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "2cXDgFwE13g",
+    "videoPublishedAt" : "2011-08-17T16:43:52.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/IJ8b5EF6ZufL4h59HtuJoBIyojw\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkIwQ0VENjVCQjg2OTc4ODM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Support Skrillex’s release/buy/stream on:\niTunes: http://smarturl.it/SkrillexMMS\nBeatport: http://smarturl.it/B_SMMS\nSpotify: http://smarturl.it/S_SMMS\nAmazon: http://smarturl.it/A_SMMS\n\nDirector: Tony Truand.  Produced by HK Corp\nFollow Skrillex on Spotify: http://bit.ly/17jbWOI\n\n© 2011 WMG\n\nOfficial Skrillex Store: http://smarturl.it/SkrillexMerch\n\nFollow Skrillex:\nhttp://fb.com/skrillex\nhttp://twitter.com/skrillex\nhttp://instagram.com/skrillex\nhttp://soundcloud.com/skrillex\nhttp://skrillex.tumblr.com",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 4,
+    "publishedAt" : "2012-02-06T22:51:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "2cXDgFwE13g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/2cXDgFwE13g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/2cXDgFwE13g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/2cXDgFwE13g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/2cXDgFwE13g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/2cXDgFwE13g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "First Of The Year (Equinox) - Skrillex [OFFICIAL]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gYGioWinQQE",
+    "videoPublishedAt" : "2011-10-24T14:52:35.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/cvLDrpQn0d0LKtjAmC4mvzvOqpQ\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjlGRTc2OURFNEY4QzFDRjE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Artist: Flux Pavilion\nLabel: Circus Records",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 5,
+    "publishedAt" : "2012-02-06T22:52:01.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gYGioWinQQE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gYGioWinQQE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gYGioWinQQE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gYGioWinQQE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/gYGioWinQQE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Flux Pavilion - Bass Cannon"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "K1VLaXoRRdk",
+    "videoPublishedAt" : "2010-04-27T17:38:21.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/IXFNrDSvOBfdseJFp_93MgodafI\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkI3MUYxRkIwQ0MxQzM3OTI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Available to buy on UKF Dubstep 2010 (iTunes): http://ukf.me/ukfdubstep2010\r\n\r\nAVAILABLE TO BUY NOW: http://ukf.me/CracksBeatport\r\nFlux Pavilion's remix of Cracks by The Freestylers, definitely a tune to watch out for in the summer as it's going to be HUGE! Forthcoming on Never Say Die, available to buy late July on Vinyl and Digital alongside the Ctrl Z Remix.\r\n\r\nBecome a fan of Flux on Facebook: http://www.facebook.com/fluxpavilion\r\nFlux's MySpace: http://www.myspace.com/fluxpavilion\r\nFreestyler's MySpace: http://www.myspace.com/freestylersmusic\r\nNever Say Die's Facebook: http://www.facebook.com/wewillneversaydie\r\n\r\nCheck out NSD's releases on Beatport: http://bit.ly/NeverSayDie-Beatport\r\n\r\nhttp://www.facebook.com/ukfdubstep\r\nhttp://www.ukfmusic.com\r\nhttp://www.twitter.com/UKFLuke",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 6,
+    "publishedAt" : "2012-02-06T22:52:07.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "K1VLaXoRRdk"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/K1VLaXoRRdk/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/K1VLaXoRRdk/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/K1VLaXoRRdk/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/K1VLaXoRRdk/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/K1VLaXoRRdk/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Freestylers - Cracks (Ft. Belle Humble) (Flux Pavilion Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wWC_WZ7gd6g",
+    "videoPublishedAt" : "2010-05-13T12:41:18.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kIOMf6Flri502C5daOibCqDJ-_4\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjJGRUU0RUU0MDJBM0VDMkE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The Canadian duo Zeds Dead are back again on UKF Dubstep with their latest track White Satin.\n\nhttp://www.twitter.com/whoszed\nhttp://www.whoszed.com\n\nhttp://www.facebook.com/ukfdubstep\nhttp://www.ukfmusic.com\nhttp://www.twitter.com/UKFLuke",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 7,
+    "publishedAt" : "2012-02-06T22:52:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wWC_WZ7gd6g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wWC_WZ7gd6g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wWC_WZ7gd6g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/wWC_WZ7gd6g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wWC_WZ7gd6g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/wWC_WZ7gd6g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Zeds Dead - White Satin"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "s9p5aBajiZI",
+    "videoPublishedAt" : "2011-04-06T18:18:33.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/26kb90djBIFuAOe6PmMIWqPAq-I\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjJFRDMwNzcxQUU2MkIxRjI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Zeds Dead - The Twilight Zone\n\nBecome a fan of Zeds Dead:\nhttp://www.facebook.com/whoszed\nListen to Zeds Dead on Soundcloud:\nhttp://soundcloud.com/zedsdead",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 8,
+    "publishedAt" : "2012-02-06T22:52:20.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "s9p5aBajiZI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/s9p5aBajiZI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/s9p5aBajiZI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/s9p5aBajiZI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/s9p5aBajiZI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/s9p5aBajiZI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Zeds Dead - The Twilight Zone"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Rgp-WNjOWPQ",
+    "videoPublishedAt" : "2011-05-12T19:50:55.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Pt1aQA0bgvK4V7jr9d0CWtSUVLI\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjAwRkQyRDg0NjQ1NENGNUY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 10,
+    "publishedAt" : "2012-02-06T22:52:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Rgp-WNjOWPQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Rgp-WNjOWPQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Rgp-WNjOWPQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Rgp-WNjOWPQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Rgp-WNjOWPQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Rgp-WNjOWPQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Zeds Dead - Here Comes the Boom"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "_t2TzJOyops",
+    "videoPublishedAt" : "2011-12-23T18:46:36.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/sGwiJ5w4h4h_9pACz6cFsr-fKGA\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjcxM0YzREZGMzJDMjAxQkE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Support Skrillex’s release/buy/stream on:\niTunes: http://smarturl.it/SkrillexMMS\nBeatport: http://smarturl.it/B_SMMS\nSpotify: http://smarturl.it/S_SMMS\nAmazon: http://smarturl.it/A_SMMS\n\nDirected by : Tony T.\nDoP : Morgan Dalibert\nProduced by : HK corp\n\nOfficial Skrillex Store: http://smarturl.it/SkrillexMerch\n\nFollow Skrillex:\nhttp://fb.com/skrillex\nhttp://twitter.com/skrillex\nhttp://instagram.com/skrillex\nhttp://soundcloud.com/skrillex\nhttp://skrillex.tumblr.com",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 11,
+    "publishedAt" : "2012-02-06T22:53:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "_t2TzJOyops"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/_t2TzJOyops/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/_t2TzJOyops/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/_t2TzJOyops/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/_t2TzJOyops/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/_t2TzJOyops/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Skrillex - Ruffneck - FULL Flex [Music Video]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "W5WxZNIpszs",
+    "videoPublishedAt" : "2009-01-19T15:59:19.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Ly7pQRDnanAGbHwI5SgzMuBSaWM\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjYzNEY1RkIwMkEwM0IwNzc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "terror.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 12,
+    "publishedAt" : "2012-02-13T22:58:23.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "W5WxZNIpszs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/W5WxZNIpszs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/W5WxZNIpszs/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/W5WxZNIpszs/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Borgore - Guided Relaxation Dub"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "IjO8fW1N_Ec",
+    "videoPublishedAt" : "2010-09-01T14:42:15.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/I6bPqkmbT2DJBcF5_Kn-s64K_JQ\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkY0RkQzOTYxRUQ1QjRDRTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Cookie Monsta - Me Want Cookie",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 13,
+    "publishedAt" : "2012-02-13T23:07:03.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "IjO8fW1N_Ec"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/IjO8fW1N_Ec/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/IjO8fW1N_Ec/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/IjO8fW1N_Ec/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - Me Want Cookie"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "FG8CefQzBbg",
+    "videoPublishedAt" : "2010-09-01T14:43:11.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ZOgiRLeOaO3m0KKHIVBGJOT9fos\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkQ3RDk5MjY1OTQxNkM3NEY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Cookie Monsta - You Can Do It!",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 14,
+    "publishedAt" : "2012-02-13T23:07:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "FG8CefQzBbg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/FG8CefQzBbg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/FG8CefQzBbg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/FG8CefQzBbg/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - You Can Do It!"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "i2W_tTpLB9Q",
+    "videoPublishedAt" : "2010-01-11T13:46:21.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/60vep1p1lw02yz5mXcV9rgpDBT4\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkY2NkU2Q0RBNjAzNzMyMkM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "CookieMonstah - AntiChrist\r\nUploader: Dubberification\r\nAll right belong to creator of song, im just letting the world know.\r\nComment % Rate if you like the song, more to come soon\r\nFor MP3 email me.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 15,
+    "publishedAt" : "2012-02-13T23:07:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "i2W_tTpLB9Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/i2W_tTpLB9Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/i2W_tTpLB9Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/i2W_tTpLB9Q/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - AntiChrist"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "3vcJh7XzFfs",
+    "videoPublishedAt" : "2010-09-01T14:42:06.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rRZBqSVAch2Wa_mj_Eregv4zdec\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkE1MUNCNDkwN0IwNkE2MUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Cookie Monsta - Ginger Pubes",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 16,
+    "publishedAt" : "2012-02-13T23:07:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "3vcJh7XzFfs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/3vcJh7XzFfs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/3vcJh7XzFfs/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/3vcJh7XzFfs/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - Ginger Pubes"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "rubG-HlWrJE",
+    "videoPublishedAt" : "2009-11-04T11:25:25.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/eIrD-Bo13tEI0q7QilWcBdOzKlg\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjhGM0MwNENEODAwRTk3OUI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Fresh new cookie monsta tune\r\ntaken from his Where's my cookie mix\r\n\r\nyou can download it here\r\n\r\nhttp://www.dubstepforum.com/cookie-monsta-where-s-my-cookie-mix-new-06-10-09-t109225.html",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 17,
+    "publishedAt" : "2012-02-13T23:07:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "rubG-HlWrJE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/rubG-HlWrJE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/rubG-HlWrJE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/rubG-HlWrJE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - Mr Ragga"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "UqqAQ7CEAVQ",
+    "videoPublishedAt" : "2010-01-15T22:38:34.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kNSN87b_n5sjDQKztR4mtup0rtg\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1Ljg4QTYyNjNCRjBGQTAwMDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Another big one from Doctor P\r\nhttp://www.myspace.com/Doctorpdubstep\r\nBest quality copy of Gargoyle on Youtube!!!\r\n\r\nSUBSCRIBE FOR MORE HIGH QUALITY DUBS!",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 18,
+    "publishedAt" : "2012-02-13T23:07:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "UqqAQ7CEAVQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/UqqAQ7CEAVQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/UqqAQ7CEAVQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/UqqAQ7CEAVQ/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/UqqAQ7CEAVQ/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/UqqAQ7CEAVQ/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Doctor P - Gargoyle"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xPj2cRCNHCw",
+    "videoPublishedAt" : "2010-01-11T14:17:45.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/P65Iq-cqhD92dj2a1T0RPxt3wuE\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjNGMjgyM0ZEMDhCRTBBOUM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "CookieMonstah - Fat Girl Rodeo\r\nUploader: Dubberification\r\nAll right belong to creator of song, im just letting the world know.\r\nComment % Rate if you like the song, more to come soon\r\nFor MP3 email me.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 19,
+    "publishedAt" : "2012-02-13T23:07:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xPj2cRCNHCw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xPj2cRCNHCw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xPj2cRCNHCw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xPj2cRCNHCw/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - Fat Girl Rodeo"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PIBmQLLqSLs",
+    "videoPublishedAt" : "2010-09-01T14:34:39.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/9mzj3dEWQWAj7B_aGgho-IedDtc\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjkwN0NDNkMxQUYyOURCQjA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Borgore - Kill a man",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 20,
+    "publishedAt" : "2012-02-13T23:08:17.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PIBmQLLqSLs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PIBmQLLqSLs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PIBmQLLqSLs/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PIBmQLLqSLs/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Borgore - Kill a man"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "19ASDBJe2Hc",
+    "videoPublishedAt" : "2009-12-03T22:54:24.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/nOtCNTRfNlTNnpvvm_KBzAy9X6I\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1Ljk4RTNEODFFRkYyMDQ2MTY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Borgore is immense. he produces quality track after quality track everytime. This bass is a little different from his others but is still filthy. SUBSCRIBE",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 21,
+    "publishedAt" : "2012-02-13T23:09:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "19ASDBJe2Hc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/19ASDBJe2Hc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/19ASDBJe2Hc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/19ASDBJe2Hc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Money - Borgore (DUBSTEP)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Wfx5wbmRwfA",
+    "videoPublishedAt" : "2009-09-23T16:25:33.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/BsBxDvFzRnhV0Vewta8fFDvmZao\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1Ljg3REZFRUU1RkQyNTc5NEQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "I'll let the track do the talking this time, but rumours is I hear Borgore killed dubstep.\n\nBorgore:\nhttp://www.facebook.com/Borgore\nhttp://www.twitter.com/Borgore\n\nInspector Dubplate:\nhttp://www.facebook.com/InspectorDubplate\nhttp://www.twitter.com/InspectorDub",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 22,
+    "publishedAt" : "2012-02-13T23:09:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Wfx5wbmRwfA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Wfx5wbmRwfA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Wfx5wbmRwfA/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/Wfx5wbmRwfA/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Wfx5wbmRwfA/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/Wfx5wbmRwfA/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Borgore - Act Like A Ho"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "tBE2GOuAVNI",
+    "videoPublishedAt" : "2010-04-08T12:39:40.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/u8MFScLCOrOvUxlHExlAp7WBMzI\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkM4QkQxMUM1NkNDQjVDNUI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "THIs picture is nice cause it is filthy right? enjoy it.\r\n\r\nIf you want the filthy picture, google hellgate london and browse a little or follow this link:\r\nhttp://svg.kyon.pl/img/5209.html",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 23,
+    "publishedAt" : "2012-02-13T23:09:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "tBE2GOuAVNI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/tBE2GOuAVNI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/tBE2GOuAVNI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/tBE2GOuAVNI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/tBE2GOuAVNI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/tBE2GOuAVNI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Borgore - Sick and Tired [Full Version]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "luKaqCjgp_A",
+    "videoPublishedAt" : "2010-09-01T14:35:11.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/C4HdGTYdO255VN4YuN00z9eBvgg\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkVBMzY0RTJCNjVERTREQkQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Borgore - My X",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 24,
+    "publishedAt" : "2012-02-13T23:09:58.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "luKaqCjgp_A"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/luKaqCjgp_A/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/luKaqCjgp_A/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/luKaqCjgp_A/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Borgore - My X"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4B8tdr2sMi0",
+    "videoPublishedAt" : "2010-06-06T15:26:01.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-XMqfyCh8ls0rGx41iEtHBpb54Q\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkFFMjIzRTgyMjFBOTMzRDU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 25,
+    "publishedAt" : "2012-02-13T23:10:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4B8tdr2sMi0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4B8tdr2sMi0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4B8tdr2sMi0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4B8tdr2sMi0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Borgore - Mama's boy"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Ge6FYKLcJIo",
+    "videoPublishedAt" : "2010-09-01T14:34:29.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/wiZ0XtUIQwsMLC1tskKzyv67j7I\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkNEMkE0NDNGQ0QxREUzRDg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Borgore - Initiaition",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 26,
+    "publishedAt" : "2012-02-13T23:10:25.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Ge6FYKLcJIo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Ge6FYKLcJIo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Ge6FYKLcJIo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Ge6FYKLcJIo/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Borgore - Initiaition"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "yansdoVwdgI",
+    "videoPublishedAt" : "2009-10-11T11:45:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/76YYde7_9ObiK0jEZ3paAQylhko\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjhBQjlFNTQzRTRDQURGMTE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Vanessa Feltz.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 27,
+    "publishedAt" : "2012-02-17T03:15:21.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yansdoVwdgI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yansdoVwdgI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yansdoVwdgI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yansdoVwdgI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Cookie Monsta - Optimus Prime"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "BxXpiTLulw4",
+    "videoPublishedAt" : "2011-03-06T19:56:37.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/KdSIXZKfkcgXO1b13UHnzTgUMkY\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjFFNzg2ODE0OThCQUE5NjA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Swag. Hey guys come check out my fresh new clothing line definitely worth a look. Rise&Co.\r\n\r\nFind us on Facebook. \r\nhttp://www.facebook.com/pages/Rise/121548171255911\r\n\r\nI'd greatly appreciate it.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 28,
+    "publishedAt" : "2012-02-17T03:23:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BxXpiTLulw4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BxXpiTLulw4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BxXpiTLulw4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/BxXpiTLulw4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BxXpiTLulw4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/BxXpiTLulw4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Cookie Monsta - Grew Up A Screw Up"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "F21aifX0lZY",
+    "videoPublishedAt" : "2010-10-24T02:01:23.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/HRj-_y4e_EjUS_p9ohDvMnJdTuU\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkE4NjAyRjMxNEIzOUYzOEY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "From the \"Scary Monsters And Nice Sprites\" ep available for purchase here: \n\nhttps://www.beatport.com/en-US/html/content/release/detail/289817/?utm_campaign=bp_share&utm_source=bp_share_bitly&utm_content=bp_share_release&utm_medium=bp_share_release_289817#app=a40&a486-index=0",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 29,
+    "publishedAt" : "2012-02-29T23:19:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "F21aifX0lZY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/F21aifX0lZY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/F21aifX0lZY/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/F21aifX0lZY/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "SKRILLEX - Kill EVERYBODY"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "03dJHrLdVl0",
+    "videoPublishedAt" : "2007-08-15T07:11:03.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/kpl785d8n42yps7SWiZO7oS2JK0\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjRCMDdCMUVGOTYyMkZBMEQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The song is called eurodancer. And the artist is dj Mangoo.\r\nATTENTION!!!\r\nThe official site of Dj Mangoo can be found at: http://www.myspace.com/djmangooofficial\r\nMore of his songs can be found on iTunes.\r\nTo new and old fans of him: He is still alive and is workeing on new songs",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 30,
+    "publishedAt" : "2012-03-21T01:09:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "03dJHrLdVl0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/03dJHrLdVl0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/03dJHrLdVl0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/03dJHrLdVl0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Dj Mangoo  -  eurodancer"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ivW8f8hfbAg",
+    "videoPublishedAt" : "2009-07-01T15:47:38.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/M8tXs2lNn0KO8Tz4qEAPV5iuWaU\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjI1ODI0OEJEOEQwNUE3QTk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "reggae dubstep remix by NUMA CREW\n\nall rights goes to Numa Crew for remix\nall rights goes to Alborosie for original song",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 31,
+    "publishedAt" : "2012-04-06T22:20:12.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ivW8f8hfbAg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ivW8f8hfbAg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ivW8f8hfbAg/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ivW8f8hfbAg/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Alborosie - herbalist dubstep remix by NUMA CREW"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "5AyJyoiH5-k",
+    "videoPublishedAt" : "2011-04-28T21:50:18.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/br_qHHpHTOweL935y6GlUNrQ2K4\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjMyRTBCQTVFMzREMzRGQ0I=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Skrillex - Cinema\n\nAnyone who feels that they have the talent to be a part of my channel get in touch! SoD is back!",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 32,
+    "publishedAt" : "2012-04-06T22:28:16.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "5AyJyoiH5-k"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/5AyJyoiH5-k/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/5AyJyoiH5-k/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/5AyJyoiH5-k/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/5AyJyoiH5-k/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/5AyJyoiH5-k/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Skrillex - Cinema"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "IUGzY-ihqWc",
+    "videoPublishedAt" : "2009-10-22T17:07:15.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yR27vskAO5wAW00NcgREnzHWJ9U\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjBFNzc5QTE4MTc3MTE0QTg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "● UKF Dubstep on Spotify: http://ukf.me/UKFDubSpotify\n● Zeds Dead - Lights Out: https://ukf.me/lightsoutukf\n● Zeds Dead - This Is Me: https://ukf.me/thisismeukf\n\nZeds Dead are back with another dubstep remix, this time of Eyes On Fire by Blue Foundation. Listen to more like this over at http://ukf.com\n\nAvailable to buy now: http://www.beatport.com/track/eyes-on-fire-zeds-dead-remix/2443313\n\nZeds Dead\nLike → https://www.facebook.com/zedsdead\nFollow → https://twitter.com/whoszed\n\n» Connect with UKF\n● Sign up to the Newsletter → http://ukf.com/signup\n● Demo Submission → http://ukf.com/demos\n● Merchandise → https://store.ukf.com/\n● Spotify → http://bit.ly/UKFSpotify\n● Facebook → https://www.facebook.com/ukfdubstep\n● Twitter → http://twitter.com/UKF\n● Snapchat → http://snapchat.com/add/ukfmusic\n● SoundCloud → http://soundcloud.com/ukf\n● Website → http://ukf.com",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 33,
+    "publishedAt" : "2012-05-12T01:01:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "IUGzY-ihqWc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/IUGzY-ihqWc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/IUGzY-ihqWc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/IUGzY-ihqWc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/IUGzY-ihqWc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/IUGzY-ihqWc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Blue Foundation - Eyes On Fire (Zeds Dead Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "YnwfTHpnGLY",
+    "videoPublishedAt" : "2010-11-29T18:11:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/VirxRmj3OtuRNwd2wsoW-ZW9ybM\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkUzNkJEQjRDOTMxODc4ODI=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "deadmau5 \"Album Title Goes Here\": \nDownload at iTunes: http://smarturl.it/albumtitlegoeshere \nAvailable in stores at Best Buy: http://smarturl.it/bbalbumtitlegoeshere\nFor more songs like \"Raise Your Weapon\", follow our \"Today's Deep House\" Spotify playlist! http://smarturl.it/TodaysDeepHouse\n\nPre-order the full DVD 'Deadmau5 - Meowingtons Hax Live From Toronto' releasing 1/24 here: http://goo.gl/NMq65\ndeadmau5 - Raise Your Weapon from Ultra Music. Featured Vocals by Greta Svabo Bech\nBuy the single here: http://goo.gl/S2UhM\n\nUltra Music is one step ahead in the world of dance music and is a leading independent electronic label. Ultra's current roster includes North American artists deadmau5, Wolfgang Gartner, Kaskade, Roger Sanchez, Markus Schulz, Tommie Sunshine, David Morales, Sharam, Cedric Gervais, and international artists Tiësto, Above & Beyond, Benny Benassi, Ferry Corsten, Armin van Buuren, Alex Gaudino, Kraak & Smaak, Morcheeba, Congorock, Adrian Lux, GRUM, Unicorn Kid, Fedde le Grand, and others. Ultra has featured releases from the aforementioned artists and many others such as Paul van Dyk, Paul Oakenfold, The Crystal Method, Timo Maas, Sasha & John Digweed, 4 Strings, Panjabi MC, Despina Vandi, Junkie XL and DJ Antoine.\nUltra Music Online:\nhttp://www.ultramusic.com\nhttp://www.twitter.com/ultrarecords\nhttp://www.youtube.com/ultrarecords\nhttp://www.youtube.com/ultratv\nhttp://www.facebook.com/ultrarecords\n\n----------------------------------------------------------------------------\n\nDance Dans Dansa Danza Music Música Muzik House музыка musik Girls Tjejer niñas filles Progressive progresivo DJ Mix Club klubb Disco Discotheque disk диск Record registro Sexy сексуальный Bass Official Track Release Trance Kicks Vocal Vocalist Instrumental International USA 2011 American Worldwide Rave Party partido parti FESTA Fiesta Night Out Anthem Summer Miami Ibiza Electro Electronic Electronica Электро electrónico Celebration Break Carnival Dub Remix Quality HD High Definition Pop Video",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 34,
+    "publishedAt" : "2012-05-15T00:24:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "YnwfTHpnGLY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/YnwfTHpnGLY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/YnwfTHpnGLY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/YnwfTHpnGLY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/YnwfTHpnGLY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/YnwfTHpnGLY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "deadmau5 - Raise Your Weapon"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "WSeNSzJ2-Jw",
+    "videoPublishedAt" : "2010-10-24T01:54:17.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/3_uZCKLatlaq73wsJiwR__ogdPw\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjdDODA3MDM2NzhGNTc4OEQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "From the \"Scary Monsters And Nice Sprites\" ep available for purchase here:  \n\nhttps://www.beatport.com/en-US/html/content/release/detail/289817/?utm_campaign=bp_share&utm_source=bp_share_bitly&utm_content=bp_share_release&utm_medium=bp_share_release_289817#app=a40&a486-index=0\n\nListen to Skrillex on Spotify: http://bit.ly/17jbWOI",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 35,
+    "publishedAt" : "2012-05-21T20:17:59.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "WSeNSzJ2-Jw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/WSeNSzJ2-Jw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/WSeNSzJ2-Jw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/WSeNSzJ2-Jw/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "SKRILLEX - Scary Monsters And Nice Sprites"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "YJVmu6yttiw",
+    "videoPublishedAt" : "2012-02-16T20:03:44.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/RYVhBmSzVKSni5IeeDCBIlzeLnU\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjNDM0MwRkU2REM4OTQ2ODU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Support Skrillex’s release/buy/stream on:\niTunes: http://smarturl.it/SBangarang\nBeatport: http://smarturl.it/B_SBangarang\nSpotify: http://smarturl.it/S_SkrillexBangarang\nAmazon: http://smarturl.it/A_SkrillexBangarang\n\nVideo Director(s):Tony T. Datis\nProducer : HK corp \nListen to Skrillex on Spotify: http://bit.ly/17jbWOI\n© WMG 2012\n\nOfficial Skrillex Store: http://smarturl.it/SkrillexMerch\n\nFollow Skrillex:\nhttp://fb.com/skrillex\nhttp://twitter.com/skrillex\nhttp://instagram.com/skrillex\nhttp://soundcloud.com/skrillex\nhttp://skrillex.tumblr.com",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 36,
+    "publishedAt" : "2012-06-04T00:51:57.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "YJVmu6yttiw"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/YJVmu6yttiw/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/YJVmu6yttiw/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/YJVmu6yttiw/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/YJVmu6yttiw/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "SKRILLEX - Bangarang feat. Sirah [Official Music Video]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "ilh3731EXCg",
+    "videoPublishedAt" : "2011-11-29T20:09:56.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/SOqBZp22AJRTjbWzd97vN1ISJuc\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkFDNDZGNzExQTFFQzBEN0Q=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "skrillex ft adele.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 37,
+    "publishedAt" : "2012-06-12T01:39:33.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "ilh3731EXCg"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/ilh3731EXCg/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Adele Ft. Skrillex Set Fire To The Rain Dubstep"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "edEr-Zgsu9g",
+    "videoPublishedAt" : "2010-09-10T11:59:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/c5CNXBWcuQwNd4UXetLnjiOjwws\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkFEM0JBMTlDNzBBMkY5REE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Massive remix by Chasing Shadows of Red By Laid Blak. Forthcoming on HENCH Recordings!\n\nhttp://www.myspace.com/henchrecordings\n\nhttp://www.facebook.com/ukfdubstep\nhttp://www.ukfmusic.com\nhttp://www.twitter.com/UKFLuke",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 38,
+    "publishedAt" : "2012-06-19T19:30:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "edEr-Zgsu9g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/edEr-Zgsu9g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Laid Blak - Red (Chasing Shadows Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "LRlHcAhUMY8",
+    "videoPublishedAt" : "2012-01-01T06:22:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/lJyVJI8bNqzhAKjFnksSXoGdND8\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjUyOTZCNDg0NDVERUYyQjA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "NEW VIDEO: http://youtu.be/fGTS-Nx5XTQ\n\nEdit: LOL I accidentally made a viral video. Cool.\n\nTell me what you think about Skrillex's new album! Go and buy it! (links below)\n\nBangarang 00:10\nBreakin' a sweat 03:55\nKyoto 09:07\nRight In 12:41\nRight on time 15:50\nSummit 20:04\nDevil's Den 26:27\nOrchestral 31:30\n--------\nRecorded With FRAPS\nRendered In Sony Vegas Pro 10\nAudioSurf:http://store.steampowered.com/app/12900/\nItunes(low quality): http://itunes.apple.com/us/album/bangarang/id491596645 \nBeatPort(HQ): http://www.beatport.com/release/bangarang-ep/851105",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 39,
+    "publishedAt" : "2012-06-19T19:30:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "LRlHcAhUMY8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/LRlHcAhUMY8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/LRlHcAhUMY8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/LRlHcAhUMY8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/LRlHcAhUMY8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/LRlHcAhUMY8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Skrillex - Bangarang (Full Album) AUDIOSURF"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "69bzdIeKX3w",
+    "videoPublishedAt" : "2010-11-18T19:41:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/roxCgYTyM8bvUF4NAPTSk5uYzDs\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjQwRkMyNUNFQUE3REE0Rjg=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Artist: Excision & Downlink\nSong: Heavy Artillery Feat. Messinian (Original Mix)\nGenre: Dubstep\n\nWallpaper: http://h16.abload.de/img/1253428569932o34n.jpg",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 40,
+    "publishedAt" : "2012-07-21T19:20:55.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "69bzdIeKX3w"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/69bzdIeKX3w/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/69bzdIeKX3w/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/69bzdIeKX3w/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/69bzdIeKX3w/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/69bzdIeKX3w/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Excision & Downlink - Heavy Artillery Feat. Messinian (Original Mix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wuetrreP1Bo",
+    "videoPublishedAt" : "2009-12-16T11:33:06.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Obsy3chO_DQk7u8SBpMDWuh3kqU\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjIyMzVENjg3QkUxN0E4NjA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "the long awaited tune..\nwarning by Excision..",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 41,
+    "publishedAt" : "2012-07-21T19:36:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wuetrreP1Bo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wuetrreP1Bo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wuetrreP1Bo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wuetrreP1Bo/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Excision - Warning"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "F4lpDU8ey-w",
+    "videoPublishedAt" : "2011-05-29T22:43:58.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/f7pMpL40Tjx3VGmNHSr0mkDn9OQ\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjBGQUZDREU2Qzc1RUExREE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The first Track on this Channel. Epic Tune from Downlink Guys! Add Downlink on FB: http://www.facebook.com/downlink?ref=ts\r\n\r\nPlease thumbs up and suscribe for more filthy HD tunes!\r\n\r\nAdd me on Facebook: http://www.facebook.com/pages/Biohazard-Dubstep/175501745842129?ref=ts&sk=page_getting_started#!/pages/Biohazard-Dubstep/175501745842129",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 42,
+    "publishedAt" : "2012-07-21T19:42:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "F4lpDU8ey-w"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/F4lpDU8ey-w/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/F4lpDU8ey-w/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/F4lpDU8ey-w/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/F4lpDU8ey-w/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/F4lpDU8ey-w/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Downlink - Biohazard [HD 1080p]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "YI0_YW0tfaU",
+    "videoPublishedAt" : "2011-04-01T04:21:56.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/aphn7Mp5Hsx6Qh0Ag9_1clsl1Ag\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjIwNkQyQTY1QUM0NzlDNjY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "2010 Shambhala mix\n\nDOWNLOAD LINK:\nhttp://www.tjoonz.com/dubstep/excision-shambhala-2010-dubstep-mix/\n\n50,000 views video (2011): https://www.youtube.com/watch?v=mDGKYQnrMFY\nLKfaslkjasldf views video (2016): https://www.youtube.com/watch?v=6nm7Mb8cQU4\n\n\nTRACK LIST:\n\n01 // Excision & Downlink -- Existence \n02 // Diplo & Lil John -- Hate You (Datsik Remix)\n03 // Excision & Downlink -- Reploid\n04 // Liquid Stranger -- Rocket Fuel \n05 // Subscape -- Screw Up\n06 // Sucscape -- Mr Kipling\n07 // Noisia -- Alpha Centauri (Excision & Datsik Remix)\n08 // Excision -- Subsonic (Elite Force Remix) \n09 // Liquid Stranger -- Exit the Vault \n10 // Foreign Beggars & Noisia -- No Holds Barred (Excision Remix) \n11 // DJ SS -- We Came To Entertain (Sub Zero Remix)\n12 // Sub Zero -- Motion\n13 // Inside Info -- Awkward (Excision VIP)\n14 // Reso -- War Machine\n15 // Apex -- Nowhere To Run\n16 // Apex -- Nowhere To Run (Excision & Datsik VIP Remix)\n17 // Kelly Dean -- Teflon (Excision & Datsik Remix)\n18 // Liquid Stranger -- Ripple VIP \n19 // Downlink -- Crippled Camel \n20 // Evol Intent -- Paradize City\n21 // Excision & Downlink -- Heavy Artillery \n22 // Liquid Stranger -- No Lies \n23 // Excision & Subvert -- Rude Symphony \n24 // Skream -- Wibbler\n25 // Excision & Datsik -- Swagga (Remix Mashup) \n26 // Skrillex & Bare Noize -- Evil as Satan \n27 // Ajapai -- Warning \n28 // Mussorgsky -- Night on Bald Mountain\n29 // Excision & Datsik -- Deviance \n30 // Foreign Beggars & Chasing Shadows -- Typhoon\n31 // Bandish Project -- Brown Skin Beauty (Liquid Stranger Remix)\n32 // La Roux -- In for the Kill (Skrillex Remix)\n33 // Freestylers -- Cracks (Ctrl Z Remix)\n34 // Future Prophecies -- Dreadlock (Dubstep VIP)\n35 // Laid Black -- Red (Chasing Shadows Remix)\n36 // Gemini -- Feel Stronger \n37 // Skrein -- Harry (Bare Noize Remix)\n38 // Excision & Datsik -- Calypso (Elite Force Remix) \n39 // Bar 9 -- Sorrow\n40 // Downlink -- Emergency \n41 // Audio -- Collision (Excision VIP)\n42 // Terravita -- Up in the Club\n43 // Liquid Stranger -- Shake My A**\n44 // Pendulum -- Salt in the Wound (Excision VIP)\n45 // Downlink -- Factory \n46 // Balkansky -- Sundrom\n47 // Itchy Robot -- Fatal Maschine (DZ Remix)\n48 // Downlink -- Biohazard \n49 // The Crystal Method -- Sine Language (Datsik Remix)\n50 // Vaski -- Lost My Mind \n51 // Vaski -- Lost My Mind Electro VIP \n52 // Pixel Fist -- Get the F*** Up\n53 // Dead Prez -- Hip Hop\n54 // Dead Prez -- Hip Hop (WTF! Remix)\n55 // Datsik -- Delinquent\n56 // Excision & Downlink -- 2005",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 43,
+    "publishedAt" : "2012-07-21T19:43:46.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "YI0_YW0tfaU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/YI0_YW0tfaU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/YI0_YW0tfaU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/YI0_YW0tfaU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Excision - Shambhala Mix 2010 (FULL-LENGTH MIX)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "oHTfz-CHlsI",
+    "videoPublishedAt" : "2011-11-15T15:44:21.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Uo8oaDDycNEUjtQcJ7YpJUHc1h0\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkM3MUY4QzU1RjkzOEYwM0Y=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Purchase now @ http://www.beatport.com/release/crowd-control/832210 \n\nExcision Tour dates, tickets, and merch are available at http://excision.ca\n\nFollow Excision: \nYouTube: https://www.youtube.com/Excisionofficial\nFacebook: https://www.facebook.com/Excision\nTwitter: http://www.twitter.com/Excision\nWeb: http://www.excision.ca\n\nBecome a fan of Downlink: http://www.facebook.com/downlink\nFollow Downlink on Twitter: http://twitter.com/downlinkmusic",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 44,
+    "publishedAt" : "2012-07-24T01:03:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "oHTfz-CHlsI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/oHTfz-CHlsI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/oHTfz-CHlsI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/oHTfz-CHlsI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/oHTfz-CHlsI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/oHTfz-CHlsI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Excision & Downlink - Crowd Control"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QPkP4dKCyTs",
+    "videoPublishedAt" : "2011-09-12T17:05:56.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Ne_dhgTGI_ZIbLNW0j-YqPIXCM0\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjFDNEM0RUY3MTE2QzQyMkU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "The complete song from the album\r\n\r\nSubscribe to my new channel, originals and dubstep mixes: www.youtube.com/user/kyushusound/videos",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 45,
+    "publishedAt" : "2012-07-24T01:14:41.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QPkP4dKCyTs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/QPkP4dKCyTs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/QPkP4dKCyTs/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/QPkP4dKCyTs/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/QPkP4dKCyTs/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/QPkP4dKCyTs/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Excision - Execute [FULL]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gnV2kA6mRro",
+    "videoPublishedAt" : "2011-02-28T09:13:37.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ypSQWq3dthNZlOaWEHQFofLkJDI\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkQ2N0Y5NUM0N0MwQjIyNTU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "DUB AND DNB TOP MIX 2011 in HD\r\n1: NASA   Gifted (Masuka Dubstep Remix)[HD]\r\n2: Bella Cruize   Promise Me\r\n3: Portal In Bass   Diving Into Your Eyes (GeRich Radio Edit)\r\n4: John B Feat Shaz Sparks   Red Sky (John B Dubstep Remix)\r\n5: Blame Ft Ruff Sqwad   On My Own (Drumsound  Bassline Smith Vocal Remix)\r\n6: Little bit wanted   Mrs Groove\r\n7: Kanye West   All of the Lights (Mt Parahaki Remix)\r\n8: Hustle Club   Loose Tights (Flinch Dubstep Remix)[HD]",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 46,
+    "publishedAt" : "2012-07-24T01:31:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gnV2kA6mRro"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gnV2kA6mRro/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gnV2kA6mRro/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/gnV2kA6mRro/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gnV2kA6mRro/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/gnV2kA6mRro/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "DUB AND DNB TOP 2011 in HD"
+  },
+  "status" : {
+    "privacyStatus" : "unlisted"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "1lSiX8SF3PI",
+    "videoPublishedAt" : "2011-09-29T18:34:10.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/uiQ_C_QlxGBeyWPqBv6bFnafW78\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkNGNUQ1RkY2QTYwODc1RjM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "http://www.youtube.com/watch?v=HWmFAMPy6y0&feature=youtu.be\n\nFacebook\nhttp://Facebook.com/DJMixtli\n\nSoundcloud \nhttp://Soundcloud.com/DjMixtli\n\nBookings/Events\nvnunez@resurrectla.com\nTracklist!\n1. Rebecca & Fiona - Hard (Mysto & Pizzi Remix)\n2. Rebecca & Fiona - Hard (John Dahlback Remix)\n3. Ian Carey ft Mandy Ventrice - Let Loose (Leo Villagra Dirty Remix 2011)\n4. David Guetta - Bass Line (Leo Villagra Dirty Remix)\n5. Skylar Grey vs. Dirty South - Invisible (TON!C Bootleg)\n6. The Wanted - Glad You Came (Bassjackers Dub)\n7. Tonic - Fly (Ido Shoam Remix)\n8. Klaas - This Time (Yosh & Pierre's Refix)\n9. J Flash - That'll Work (Original Mix)\n10. Lustral - Everytime (Tocadisco vs Dabruck & Klein Remix)\n11. Noizekid - Dutch Flow (Reepr Remix)",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 47,
+    "publishedAt" : "2012-07-24T01:32:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "1lSiX8SF3PI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/1lSiX8SF3PI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/1lSiX8SF3PI/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/1lSiX8SF3PI/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/1lSiX8SF3PI/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/1lSiX8SF3PI/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Dirty Dutch Party Bangers! [Mix 15 of 2011]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PwFWgI9XdP0",
+    "videoPublishedAt" : "2011-05-05T12:27:39.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/5J8i65yxgRR4W5BAn2zrISFySWw\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjQ4NDZEMkQxMzI4NjhFQzE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Once upon another time, drugs fueled imagination, carefully coaxed out of us those little rays of brilliance nestled deep within our subconscious, became the building blocks for strange and unique worlds beyond our wildest dreams. The vast array of chemical concoctions we find crawling the street today, often do nothing more, as the song rightly states, than make you \"smell like cat's piss\" and cause unfortunate 'shriveling' of certain areas of the male anatomy. This is a tribute, to all things a little less ordinary.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 48,
+    "publishedAt" : "2012-07-24T01:37:27.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PwFWgI9XdP0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PwFWgI9XdP0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PwFWgI9XdP0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PwFWgI9XdP0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Alice in Wonderland - Dubstep & Tea with High Rankin"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "VlLKVYPblos",
+    "videoPublishedAt" : "2011-09-13T01:58:39.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/tzj6EYJ_rCwidT8gJgDHgfvtT4c\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjhBRjdGM0I1Mzc1ODE5NTA=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "X Rated by Excsion from his new album, 'X Rated'\r\n\r\nBuy it now:\r\nhttp://www.beatport.com/release/x-rated/675277",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 49,
+    "publishedAt" : "2012-08-09T22:57:31.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "VlLKVYPblos"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/VlLKVYPblos/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/VlLKVYPblos/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/VlLKVYPblos/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/VlLKVYPblos/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/VlLKVYPblos/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Excision - X Rated [HD]"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "49n7jgBplYc"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/nJTEs9AHrwcxj6lcPORaFSZ6Fcc\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjI2QTZDOUVCRUZDNEQwMDY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 50,
+    "publishedAt" : "2012-09-07T00:02:11.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "49n7jgBplYc"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "z66vAY9MWTQ",
+    "videoPublishedAt" : "2012-06-18T16:55:01.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XKPVtaqWdPhmPXAmYFJ0LV9c91E\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjJEMUM2M0UwNDYyNTdENzQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "FREE DOWNLOAD; https://goo.gl/xGufnQ\n\nBitroots' Soundcloud: http://soundcloud.com/mr-matzz\nYoutube: http://www.youtube.com/user/bitrootsmusic\n\nLike the GLT on Facebook: http://www.facebook.com/GLTDubstep\nFollow us on Twitter: https://twitter.com/GLTDubstep",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 51,
+    "publishedAt" : "2012-10-01T06:59:33.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "z66vAY9MWTQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/z66vAY9MWTQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/z66vAY9MWTQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/z66vAY9MWTQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Bitroots - Big"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "AYoSnuhlXZ0",
+    "videoPublishedAt" : "2010-05-07T22:25:09.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Y_RaHSrRWf2Eg60XoiqZMt-okXU\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkFBMjQxQ0REQThDNjJDOEQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Mt Eden - Archangel Dubstep mix !\r\n- Le meilleur de la Drum&Bass et de la Dubstep sur :\r\nwww.youtube.com/user/PulsationDubstep\r\nwww.youtube.com/user/PulsationDnb",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 52,
+    "publishedAt" : "2012-10-02T22:59:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "AYoSnuhlXZ0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/AYoSnuhlXZ0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/AYoSnuhlXZ0/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/AYoSnuhlXZ0/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Mt Eden - Archangel Dubstep"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "eiar-LDmua0",
+    "videoPublishedAt" : "2011-01-02T22:00:39.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/v92kEhswysnXpWKheFDSJt2uaJk\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjlDQjREQzkxODMwN0JGNTk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Great song by Mt Eden,\n\nVisit his channel // http://www.youtube.com/watch?v=Acc0RxUXESc",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 53,
+    "publishedAt" : "2012-10-02T23:00:08.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "eiar-LDmua0"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/eiar-LDmua0/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/eiar-LDmua0/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/eiar-LDmua0/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/eiar-LDmua0/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/eiar-LDmua0/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Mt Eden Dubstep - Gambler"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "EPleT-iWkwE",
+    "videoPublishedAt" : "2010-03-27T10:50:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4-M-YSFmygn5dub6gdBUe8QYr9A\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1Ljg3MzlCMDVEMUVDNUVENzQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Picture by MasKeD GFX..\nSub to him http://www.youtube.com/user/MasKzNoEviL",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 54,
+    "publishedAt" : "2012-10-02T23:05:45.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "EPleT-iWkwE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/EPleT-iWkwE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/EPleT-iWkwE/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/EPleT-iWkwE/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/EPleT-iWkwE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/EPleT-iWkwE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Mt Eden - Silence"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vagDKETq5mc",
+    "videoPublishedAt" : "2011-01-04T18:53:04.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/HIWDdv2JZ4espL_JVkKLUF1iooc\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkMzRkIxQjQ1MDRGQzU3REM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video re-edited by me. The original video is from a BBC reportage called \"Beautiful nature scenery\". The original track is Craig Armstrong - Escape",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 55,
+    "publishedAt" : "2012-10-02T23:12:42.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vagDKETq5mc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vagDKETq5mc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vagDKETq5mc/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/vagDKETq5mc/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vagDKETq5mc/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/vagDKETq5mc/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Mt Eden Dubstep - Escape"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PxKiCSN7pXE",
+    "videoPublishedAt" : "2012-05-07T00:18:18.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/X4tmmkpL-X3fHxSiZ0fAXKk0ERE\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjE0NzlBNkQ0OEMyQTQwMzU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dubstep remix of TOOL's \"The Pot\" by Buddybuddy\n\n\nWe do not own TOOL\"s \"The Pot\"",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 56,
+    "publishedAt" : "2012-10-21T01:32:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PxKiCSN7pXE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PxKiCSN7pXE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PxKiCSN7pXE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PxKiCSN7pXE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/PxKiCSN7pXE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "TOOL - The Pot (Buddybuddy Remix)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "8D7s5vqsSMY",
+    "videoPublishedAt" : "2011-04-30T04:50:08.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/L4AQ055Q-ppkGorf9OP_89bHdUI\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LjJCQkQ3ODkxMzU5MUYzODM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dr.Dre - i need a doctor dubstep remix i did not make this, nor own this!",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 57,
+    "publishedAt" : "2013-01-21T15:46:48.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "8D7s5vqsSMY"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/8D7s5vqsSMY/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/8D7s5vqsSMY/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/8D7s5vqsSMY/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/8D7s5vqsSMY/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/8D7s5vqsSMY/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "This is how it sounds when i sleep - Dubstep"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "YI0_YW0tfaU",
+    "videoPublishedAt" : "2011-04-01T04:21:56.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/JtiadVH5iEy-_2ddurAaDMMD1VU\"",
+  "id" : "UExBMjg2NDcyQUVDNzNDNDA1LkVBNDUzRDBCRjI1RjdCOTM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "2010 Shambhala mix\n\nDOWNLOAD LINK:\nhttp://www.tjoonz.com/dubstep/excision-shambhala-2010-dubstep-mix/\n\n50,000 views video (2011): https://www.youtube.com/watch?v=mDGKYQnrMFY\nLKfaslkjasldf views video (2016): https://www.youtube.com/watch?v=6nm7Mb8cQU4\n\n\nTRACK LIST:\n\n01 // Excision & Downlink -- Existence \n02 // Diplo & Lil John -- Hate You (Datsik Remix)\n03 // Excision & Downlink -- Reploid\n04 // Liquid Stranger -- Rocket Fuel \n05 // Subscape -- Screw Up\n06 // Sucscape -- Mr Kipling\n07 // Noisia -- Alpha Centauri (Excision & Datsik Remix)\n08 // Excision -- Subsonic (Elite Force Remix) \n09 // Liquid Stranger -- Exit the Vault \n10 // Foreign Beggars & Noisia -- No Holds Barred (Excision Remix) \n11 // DJ SS -- We Came To Entertain (Sub Zero Remix)\n12 // Sub Zero -- Motion\n13 // Inside Info -- Awkward (Excision VIP)\n14 // Reso -- War Machine\n15 // Apex -- Nowhere To Run\n16 // Apex -- Nowhere To Run (Excision & Datsik VIP Remix)\n17 // Kelly Dean -- Teflon (Excision & Datsik Remix)\n18 // Liquid Stranger -- Ripple VIP \n19 // Downlink -- Crippled Camel \n20 // Evol Intent -- Paradize City\n21 // Excision & Downlink -- Heavy Artillery \n22 // Liquid Stranger -- No Lies \n23 // Excision & Subvert -- Rude Symphony \n24 // Skream -- Wibbler\n25 // Excision & Datsik -- Swagga (Remix Mashup) \n26 // Skrillex & Bare Noize -- Evil as Satan \n27 // Ajapai -- Warning \n28 // Mussorgsky -- Night on Bald Mountain\n29 // Excision & Datsik -- Deviance \n30 // Foreign Beggars & Chasing Shadows -- Typhoon\n31 // Bandish Project -- Brown Skin Beauty (Liquid Stranger Remix)\n32 // La Roux -- In for the Kill (Skrillex Remix)\n33 // Freestylers -- Cracks (Ctrl Z Remix)\n34 // Future Prophecies -- Dreadlock (Dubstep VIP)\n35 // Laid Black -- Red (Chasing Shadows Remix)\n36 // Gemini -- Feel Stronger \n37 // Skrein -- Harry (Bare Noize Remix)\n38 // Excision & Datsik -- Calypso (Elite Force Remix) \n39 // Bar 9 -- Sorrow\n40 // Downlink -- Emergency \n41 // Audio -- Collision (Excision VIP)\n42 // Terravita -- Up in the Club\n43 // Liquid Stranger -- Shake My A**\n44 // Pendulum -- Salt in the Wound (Excision VIP)\n45 // Downlink -- Factory \n46 // Balkansky -- Sundrom\n47 // Itchy Robot -- Fatal Maschine (DZ Remix)\n48 // Downlink -- Biohazard \n49 // The Crystal Method -- Sine Language (Datsik Remix)\n50 // Vaski -- Lost My Mind \n51 // Vaski -- Lost My Mind Electro VIP \n52 // Pixel Fist -- Get the F*** Up\n53 // Dead Prez -- Hip Hop\n54 // Dead Prez -- Hip Hop (WTF! Remix)\n55 // Datsik -- Delinquent\n56 // Excision & Downlink -- 2005",
+    "playlistId" : "PLA286472AEC73C405",
+    "position" : 58,
+    "publishedAt" : "2013-04-28T05:31:01.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "YI0_YW0tfaU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/YI0_YW0tfaU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/YI0_YW0tfaU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/YI0_YW0tfaU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Excision - Shambhala Mix 2010 (FULL-LENGTH MIX)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

@@ -1,0 +1,922 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "HF6BOAWqE0o",
+    "videoPublishedAt" : "2010-12-21T16:37:51.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/10qiy0cGLXVXsOnwCI6l-sCUu6I\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjU5RUU0NUMyNkU1MENGRDY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Directions: lie down, put on headphones, turn up the volume, relax, close eyes, try to clear mind\n\nIf it doesn't work, you can keep trying, but for some people it never will, don't complain to me",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 0,
+    "publishedAt" : "2012-07-19T08:24:29.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HF6BOAWqE0o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HF6BOAWqE0o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HF6BOAWqE0o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HF6BOAWqE0o/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "\"Lucifer's Whip\" by MysteriousGroove"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Tu-hgCOM5kc",
+    "videoPublishedAt" : "2011-03-04T00:56:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/C0KSzYLVUR9CxRbU99Ta_QGKsek\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LkQ3QzA0NEVBODFCNTA0RTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Directions: lie down, put on headphones, turn up the volume, relax, close eyes, try to clear mind\r\n\r\nIf it doesn't work, you can keep trying, but for some people it never will, don't complain to me",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 1,
+    "publishedAt" : "2012-07-19T08:32:14.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Tu-hgCOM5kc"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Tu-hgCOM5kc/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Tu-hgCOM5kc/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Tu-hgCOM5kc/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "\"Demon Eyes\" by MysteriousGroove"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "IxjE6gevmEo",
+    "videoPublishedAt" : "2010-12-21T20:39:45.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/dagvc2TxCANL4DkF-ftygst0tWs\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjY2MkMwQkRDMDhCMDk0QjE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Directions: lie down, put on headphones, turn up the volume, relax, close eyes, try to clear mind\r\n\r\nIf it doesn't work, you can keep trying, but for some people it never will, don't complain to me",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 2,
+    "publishedAt" : "2012-07-19T08:32:26.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "IxjE6gevmEo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/IxjE6gevmEo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/IxjE6gevmEo/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/IxjE6gevmEo/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "\"Funeral Bells\" by MysteriousGroove"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "iTEF3aAaA9E",
+    "videoPublishedAt" : "2012-01-21T09:41:38.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/GmDL8qSeeGYuoC3mxJoWT3QYlsM\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjZFOEVFQ0JDQTI2RDYzMDM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is probably one of my craziest ones yet.  Many who have tested it for me have felt very uneasy or paranoid and claim that a figure is hovering over them until eventually they strike.  Anyone who has experienced this have seen different faces of the attacker but the very first one to see him saw he had no face and razer sharp teeth.  We like to call him the faceless mind.  If your are watching this please use headphones and listen to this in a dark place with your eyes closed.  In my opinion this is probably my best work thus far and I am almost addicted to the thought of using it again for some reason.",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 3,
+    "publishedAt" : "2012-07-19T08:31:06.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "iTEF3aAaA9E"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/iTEF3aAaA9E/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/iTEF3aAaA9E/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/iTEF3aAaA9E/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Binaural Beats - TheFacelessMind"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "BJul46B9eWE",
+    "videoPublishedAt" : "2011-01-04T23:32:43.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/xkExGmkOU8SavdtHVS5SpT5PLXQ\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2Ljg0NjI2NDMyQUNEODAxOEM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This is my homemade binaural beat to help you sleep. The sound frequencies entrain your brain to the same frequencies as when you are very tired. Made with Audacity.",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 4,
+    "publishedAt" : "2012-07-19T08:32:44.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BJul46B9eWE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BJul46B9eWE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BJul46B9eWE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BJul46B9eWE/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Knock-Out"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "xHO6f0-Fyno",
+    "videoPublishedAt" : "2010-08-25T17:58:32.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/vuFDk4OUAaCUuFQfrP-XZ47HlNA\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjAwOTk0NzFBMzZDMUI5NDk=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Instructions (open this section to read entirely):\n1) Use good quality stereo headphones.\n2) View this video in the highest quality possible (check the setting button, e.g. 480p, HD, etc.).\n3) Relax and listen for as long as possible. 'Zone out' and refrain from being distracted. Set the volume as loud as possible but not loud enough to hurt your ears.\n\nEffects:\nMeditative state with increased focus.  As the 'dose' duration increases, a trance-like state is induced.  Repeated sequential use will induce deep sleep.\n\nNotes:\nMay produce mild hallucinogenic effects depending on the duration of the 'dose' and the initial state of mind. Stopping the dose abruptly may cause symptoms of a 'crash' - fear, rapid heartbeat, feeling of falling, and distorted depth perception.\n\nUSE AT YOUR OWN RISK. Not recommended for anyone with heart problems or epilepsy. By using this audio sample, you accept full responsibility for any consequences resulting thereof.\n\nThis is a PUBLIC DOMAIN, NON-COPYRIGHTED audio sample you may use freely and distribute freely WITHOUT CHARGE. This is a binaural beat experiment.\n\nPlease let me know your experience with this 'dose' in the comments section.",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 5,
+    "publishedAt" : "2012-07-19T08:33:13.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "xHO6f0-Fyno"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/xHO6f0-Fyno/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/xHO6f0-Fyno/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/xHO6f0-Fyno/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Digital virtual drug - ²²²TRANCE²²² - heavy dose of binaural beats"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KKtdvPwIL_Y",
+    "videoPublishedAt" : "2012-01-17T16:18:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/aBMCq1B41QMZO8ePDKc4zp_Y_PE\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2Ljg2REVGRjA0NzlBREREQzY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "vvvvvvvvvvvvvvvvv (*NEW*) DIY astral projection formula vvvvvvvvvvvvvvvvv\n\nTake your consciousness out of your body and into the astral plane with this simple meditation. It definitively works, if it doesn't give you vibrations the first time, try try again.\n\nPRACTICE ON YOUR OWN:\nYou have to keep your awareness pin pointed and focused on your intent to project, without having any thoughts about it. Its hard to explain how to do this unless you have achieved the vibrational stage once before, which is the point of the video. It helps you achieve this state so that you can do it later on your own, it is not meant to help you have a full projection.\n\nPractice meditation, that is coming into, what I like to call, the future-present moment, that is NOW, which almost all awareness of NOW is actually the past, it has already happened. When you click into the now, you sort of feel a WHOOSH in your head. You notice this when you are in danger or sometimes when someone is yelling at you, or when you are in great pain, etc. However, at least for me, I have a hard time making the future-present, some call it the Tao, last long, however staying in what most people call the present instead of thinking about the past or the projected future, can help you achieve the Tao.\n\nAstral projection is best done an hour or two before sunrise (4:30) you want to move to your couch or meditation room, etc, but not your bed. Then meditate as best as you can. When you are in the Now as best as you can be, your thoughts all stop. If you are thinking, you are not in the Now. You cannot STOP thinking, but you can move into the present and realize you are not the thinker. I sometimes like to do this as a practice to help, think this over and over until you understand (not THINK you understand): \"This voice is not you, I am the thinker, you are the observer\" After a few minutes of this you might start to realize that the voice that is saying that is NOT you at all, but rather just a voice, and you are the observing presence, listening to that voice, but only with a portion of the awareness available to you. -- Another good practice is to sit down in front of your computer and type something. Realize that the part of you that is coming up with the words and the physical body that is typing is not you, but rather a part of you that you are the observer of. This helps you achieve the dissociation from mind and body needed to become soul and thus leave your body. -- Back to it being 4:30, you are laying (if you choose to lay, support your mid and lower back with a pillow, to hold the curvature of your spine, your head pillow should be mostly supporting the curvature of your neck, I use a down pillow because I can move the bulk of feathers to the lower part of the pillow so it supports only my neck and very little of my head. Bend your left leg so that your left foot is touching just above your right inner knee on the Thy. The right knee should be bent slightly), or sitting, there meditating feeling the Tao, you will notice that the future-present moment WHOOSHES are more frequent here. Your breathings should be constant, not pausing after the out breath or the in breath, in the nose, out the nose, and in again. If you can visualize well, it would be best to walk around your apartment, pick things up, etc etc. If not, look through your inner eye while you are meditating, this will look like an iridescent swirl of colors, for me mostly purple, but it almost has a black quality to it, its very subtle, nothing like http://tinyurl.com/cm7xtab which is what you see when you push on your eyes. The moving colors you see are like amorphous blobs and they almost seem random. This is a good opportunity to practice a skill you need when you are visualizing, to see them with your inner eye and resist the urge to try to look around with the physical ones, this will help you forget your physical eyes and keep your inner eye open which you need for astral projection. Most people close their inner eye with the physical, practice until you can keep it open.-- Here you want to fall asleep, with your inner eye open, and your awareness keen on watching them. You will start to pulsate and buzz, feel almost an electrical feeling, here popping sounds that may be quite startling, and then you will see the room you are in, even through your eyes are closed, you will be floating, and you may even roll, your arms going through your mattress and walls! Now its time to apply a separation technique: http://tinyurl.com/csb9dyh goes with this: http://tinyurl.com/ccjqorz\n\nNow that you are out of your body, there are some simple commands that you can issue to get full control. I call them the 3 C's! \"CONTROL NOW! CONSCIOUSNESS NOW! CLARITY NOW\" The first allowing you total control over your movements. The second giving you total awareness of self and thus control over Direction. The third giving you total crystal clarity of vision, so that you can see All",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 6,
+    "publishedAt" : "2012-12-26T06:48:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KKtdvPwIL_Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Astral Projection Guided Meditation (*EASY*) Oobe w/ Binaural Vibrations"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KKtdvPwIL_Y",
+    "videoPublishedAt" : "2012-01-17T16:18:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/6Q3Zk-69zmb9MkrOMzsQ02XDt94\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LkVFRkQ0OTA5Q0YwOUU2M0Y=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "vvvvvvvvvvvvvvvvv (*NEW*) DIY astral projection formula vvvvvvvvvvvvvvvvv\n\nTake your consciousness out of your body and into the astral plane with this simple meditation. It definitively works, if it doesn't give you vibrations the first time, try try again.\n\nPRACTICE ON YOUR OWN:\nYou have to keep your awareness pin pointed and focused on your intent to project, without having any thoughts about it. Its hard to explain how to do this unless you have achieved the vibrational stage once before, which is the point of the video. It helps you achieve this state so that you can do it later on your own, it is not meant to help you have a full projection.\n\nPractice meditation, that is coming into, what I like to call, the future-present moment, that is NOW, which almost all awareness of NOW is actually the past, it has already happened. When you click into the now, you sort of feel a WHOOSH in your head. You notice this when you are in danger or sometimes when someone is yelling at you, or when you are in great pain, etc. However, at least for me, I have a hard time making the future-present, some call it the Tao, last long, however staying in what most people call the present instead of thinking about the past or the projected future, can help you achieve the Tao.\n\nAstral projection is best done an hour or two before sunrise (4:30) you want to move to your couch or meditation room, etc, but not your bed. Then meditate as best as you can. When you are in the Now as best as you can be, your thoughts all stop. If you are thinking, you are not in the Now. You cannot STOP thinking, but you can move into the present and realize you are not the thinker. I sometimes like to do this as a practice to help, think this over and over until you understand (not THINK you understand): \"This voice is not you, I am the thinker, you are the observer\" After a few minutes of this you might start to realize that the voice that is saying that is NOT you at all, but rather just a voice, and you are the observing presence, listening to that voice, but only with a portion of the awareness available to you. -- Another good practice is to sit down in front of your computer and type something. Realize that the part of you that is coming up with the words and the physical body that is typing is not you, but rather a part of you that you are the observer of. This helps you achieve the dissociation from mind and body needed to become soul and thus leave your body. -- Back to it being 4:30, you are laying (if you choose to lay, support your mid and lower back with a pillow, to hold the curvature of your spine, your head pillow should be mostly supporting the curvature of your neck, I use a down pillow because I can move the bulk of feathers to the lower part of the pillow so it supports only my neck and very little of my head. Bend your left leg so that your left foot is touching just above your right inner knee on the Thy. The right knee should be bent slightly), or sitting, there meditating feeling the Tao, you will notice that the future-present moment WHOOSHES are more frequent here. Your breathings should be constant, not pausing after the out breath or the in breath, in the nose, out the nose, and in again. If you can visualize well, it would be best to walk around your apartment, pick things up, etc etc. If not, look through your inner eye while you are meditating, this will look like an iridescent swirl of colors, for me mostly purple, but it almost has a black quality to it, its very subtle, nothing like http://tinyurl.com/cm7xtab which is what you see when you push on your eyes. The moving colors you see are like amorphous blobs and they almost seem random. This is a good opportunity to practice a skill you need when you are visualizing, to see them with your inner eye and resist the urge to try to look around with the physical ones, this will help you forget your physical eyes and keep your inner eye open which you need for astral projection. Most people close their inner eye with the physical, practice until you can keep it open.-- Here you want to fall asleep, with your inner eye open, and your awareness keen on watching them. You will start to pulsate and buzz, feel almost an electrical feeling, here popping sounds that may be quite startling, and then you will see the room you are in, even through your eyes are closed, you will be floating, and you may even roll, your arms going through your mattress and walls! Now its time to apply a separation technique: http://tinyurl.com/csb9dyh goes with this: http://tinyurl.com/ccjqorz\n\nNow that you are out of your body, there are some simple commands that you can issue to get full control. I call them the 3 C's! \"CONTROL NOW! CONSCIOUSNESS NOW! CLARITY NOW\" The first allowing you total control over your movements. The second giving you total awareness of self and thus control over Direction. The third giving you total crystal clarity of vision, so that you can see All",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 7,
+    "publishedAt" : "2012-12-26T06:48:49.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KKtdvPwIL_Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Astral Projection Guided Meditation (*EASY*) Oobe w/ Binaural Vibrations"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "KKtdvPwIL_Y",
+    "videoPublishedAt" : "2012-01-17T16:18:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/fsBFFR2sHoMVws0hIHkoPswm5Rc\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjkwRjQ5RUJEMURDMkQ4MEY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "vvvvvvvvvvvvvvvvv (*NEW*) DIY astral projection formula vvvvvvvvvvvvvvvvv\n\nTake your consciousness out of your body and into the astral plane with this simple meditation. It definitively works, if it doesn't give you vibrations the first time, try try again.\n\nPRACTICE ON YOUR OWN:\nYou have to keep your awareness pin pointed and focused on your intent to project, without having any thoughts about it. Its hard to explain how to do this unless you have achieved the vibrational stage once before, which is the point of the video. It helps you achieve this state so that you can do it later on your own, it is not meant to help you have a full projection.\n\nPractice meditation, that is coming into, what I like to call, the future-present moment, that is NOW, which almost all awareness of NOW is actually the past, it has already happened. When you click into the now, you sort of feel a WHOOSH in your head. You notice this when you are in danger or sometimes when someone is yelling at you, or when you are in great pain, etc. However, at least for me, I have a hard time making the future-present, some call it the Tao, last long, however staying in what most people call the present instead of thinking about the past or the projected future, can help you achieve the Tao.\n\nAstral projection is best done an hour or two before sunrise (4:30) you want to move to your couch or meditation room, etc, but not your bed. Then meditate as best as you can. When you are in the Now as best as you can be, your thoughts all stop. If you are thinking, you are not in the Now. You cannot STOP thinking, but you can move into the present and realize you are not the thinker. I sometimes like to do this as a practice to help, think this over and over until you understand (not THINK you understand): \"This voice is not you, I am the thinker, you are the observer\" After a few minutes of this you might start to realize that the voice that is saying that is NOT you at all, but rather just a voice, and you are the observing presence, listening to that voice, but only with a portion of the awareness available to you. -- Another good practice is to sit down in front of your computer and type something. Realize that the part of you that is coming up with the words and the physical body that is typing is not you, but rather a part of you that you are the observer of. This helps you achieve the dissociation from mind and body needed to become soul and thus leave your body. -- Back to it being 4:30, you are laying (if you choose to lay, support your mid and lower back with a pillow, to hold the curvature of your spine, your head pillow should be mostly supporting the curvature of your neck, I use a down pillow because I can move the bulk of feathers to the lower part of the pillow so it supports only my neck and very little of my head. Bend your left leg so that your left foot is touching just above your right inner knee on the Thy. The right knee should be bent slightly), or sitting, there meditating feeling the Tao, you will notice that the future-present moment WHOOSHES are more frequent here. Your breathings should be constant, not pausing after the out breath or the in breath, in the nose, out the nose, and in again. If you can visualize well, it would be best to walk around your apartment, pick things up, etc etc. If not, look through your inner eye while you are meditating, this will look like an iridescent swirl of colors, for me mostly purple, but it almost has a black quality to it, its very subtle, nothing like http://tinyurl.com/cm7xtab which is what you see when you push on your eyes. The moving colors you see are like amorphous blobs and they almost seem random. This is a good opportunity to practice a skill you need when you are visualizing, to see them with your inner eye and resist the urge to try to look around with the physical ones, this will help you forget your physical eyes and keep your inner eye open which you need for astral projection. Most people close their inner eye with the physical, practice until you can keep it open.-- Here you want to fall asleep, with your inner eye open, and your awareness keen on watching them. You will start to pulsate and buzz, feel almost an electrical feeling, here popping sounds that may be quite startling, and then you will see the room you are in, even through your eyes are closed, you will be floating, and you may even roll, your arms going through your mattress and walls! Now its time to apply a separation technique: http://tinyurl.com/csb9dyh goes with this: http://tinyurl.com/ccjqorz\n\nNow that you are out of your body, there are some simple commands that you can issue to get full control. I call them the 3 C's! \"CONTROL NOW! CONSCIOUSNESS NOW! CLARITY NOW\" The first allowing you total control over your movements. The second giving you total awareness of self and thus control over Direction. The third giving you total crystal clarity of vision, so that you can see All",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 8,
+    "publishedAt" : "2012-12-26T06:48:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "KKtdvPwIL_Y"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/KKtdvPwIL_Y/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Astral Projection Guided Meditation (*EASY*) Oobe w/ Binaural Vibrations"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "lTAwdgf1nZE",
+    "videoPublishedAt" : "2012-06-13T21:37:48.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/sv7zhpfix5EFs1P_leEXXfHJlWs\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjA5ODNDNjAwNkFBMDBDQzM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Sleep Hypnosis Easy Lucid Dreaming  (same words better audio) is now available on iTunes. Please click the link below or in the video if you like this idea.\nhttps://itunes.apple.com/ca/album/sleep-hypnosis-easy-lucid/id695867907\nThis is over one hour of the newest and best techniques I could gather for lucid dream induction. Some of the methods applied here are not exactly new and have been practised by Yogis for thousands of years. I call them new because they may be new to those searching for a lucid dreaming experience on youtube. Hypnosis, guided visualisation, meditation, rotation of consciousness, and whatever else I could think of that could be fun has been included. This a very relaxing and enjoyable way to be guided into sleep and/or a lucid dream. I hope you have an interesting sleep with this. Sweet dreams. Jody.",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 9,
+    "publishedAt" : "2012-12-26T06:54:22.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "lTAwdgf1nZE"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/lTAwdgf1nZE/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/lTAwdgf1nZE/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/lTAwdgf1nZE/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/lTAwdgf1nZE/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Sleep Hypnosis Easy Lucid Dreaming"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4XxHi1Ons3o",
+    "videoPublishedAt" : "2012-05-15T00:36:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/VKRSJvy7Ww1R1J9HS3RkKAfwYZw\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LkQ4QkRGNTk0RDQzQjUxREM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "MP3 DOWNLOAD: http://www.binauralbeatshub.com/?product=neuroscape\n\nSubscribe to our channel for more great content! : https://www.youtube.com/user/binauralbrainwave?sub_confirmation=1\n\n►High Quality MP3s: http://www.binauralbeatshub.com\n►Subscribe to our channel and stay up to date on high quality brainwave entrainment audios! \n►Partner Channel: https://www.youtube.com/channel/UCs3Vsl9IzssN2JPmhVdyljA\n\nBecome a part of our growing community on these social platforms:\n\n►Facebook: https://www.facebook.com/binauralbrainwave\n►Google +: https://plus.google.com/u/0/b/103041527589930535493/+BinauralBrainwave/posts?pageId=103041527589930535493\n►Twitter: https://twitter.com/Binaural_Beats1\n\nLucid dreaming music: https://www.youtube.com/watch?v=yRyDqwmnLAM\n\nConsider using the WBTB Induction the morning after using Neuroscape: https://www.youtube.com/watch?v=sHAGVtZhWLI\n\nLucid dream Induction Pure Tone (no affirmations): https://www.youtube.com/watch?v=v_QKBHfeRw0  \n\nAstral Projection Audio: https://www.youtube.com/watch?v=TaK3c-jAiGw\n\nLIKE US ON FACEBOOK: https://www.facebook.com/binauralbrainwave\n\n\n**Use headphones**\n\n\nListen to this audio AS YOU FALL ASLEEP, and after you have developed the habit of performing constant 'reality checks'. Remember, this is a tool, and not a magic formula. ;)\n\n*Headphones required for binaural beats to work*\nThis lucid dreaming induction is a variation of the original i-dreamer. Improvements: a more gradual descending-step-sequence (alpha to delta) to induce sleep. Quieter and more frequent affirmations. Refined gamma peaks (40hz). \n\nThe first 65 minutes will entrain you to a deep delta sleep using a descending binaural frequency + various water sfx. The remainder consists of a low-theta wave to help transit your mind into REM sleep. During this segment I have recorded various affirmations to help trigger a lucid state: \n\n\"You are dreaming\"\n\"Do a reality check\" \n\"This is a dream\"\n\"You are taking control of your dream\"\n\nWithin the theta-wave are various 4-5 second long peaks peak at 40 Hz. (\"...an EEG machine recorded frequencies in the 40 Hz range in lucid dreamers enjoying a bit of conscious REM...\")",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 10,
+    "publishedAt" : "2012-12-26T07:35:58.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4XxHi1Ons3o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Lucid Dream Induction - \"Neuroscape\" - Binaural Beats (90 Min Sleep Cycle)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "4XxHi1Ons3o",
+    "videoPublishedAt" : "2012-05-15T00:36:02.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/96KhcE8EYIg9hoE1kwtDxpxqyS8\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2Ljk5RkVGQzNCN0YyQkE1QTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "MP3 DOWNLOAD: http://www.binauralbeatshub.com/?product=neuroscape\n\nSubscribe to our channel for more great content! : https://www.youtube.com/user/binauralbrainwave?sub_confirmation=1\n\n►High Quality MP3s: http://www.binauralbeatshub.com\n►Subscribe to our channel and stay up to date on high quality brainwave entrainment audios! \n►Partner Channel: https://www.youtube.com/channel/UCs3Vsl9IzssN2JPmhVdyljA\n\nBecome a part of our growing community on these social platforms:\n\n►Facebook: https://www.facebook.com/binauralbrainwave\n►Google +: https://plus.google.com/u/0/b/103041527589930535493/+BinauralBrainwave/posts?pageId=103041527589930535493\n►Twitter: https://twitter.com/Binaural_Beats1\n\nLucid dreaming music: https://www.youtube.com/watch?v=yRyDqwmnLAM\n\nConsider using the WBTB Induction the morning after using Neuroscape: https://www.youtube.com/watch?v=sHAGVtZhWLI\n\nLucid dream Induction Pure Tone (no affirmations): https://www.youtube.com/watch?v=v_QKBHfeRw0  \n\nAstral Projection Audio: https://www.youtube.com/watch?v=TaK3c-jAiGw\n\nLIKE US ON FACEBOOK: https://www.facebook.com/binauralbrainwave\n\n\n**Use headphones**\n\n\nListen to this audio AS YOU FALL ASLEEP, and after you have developed the habit of performing constant 'reality checks'. Remember, this is a tool, and not a magic formula. ;)\n\n*Headphones required for binaural beats to work*\nThis lucid dreaming induction is a variation of the original i-dreamer. Improvements: a more gradual descending-step-sequence (alpha to delta) to induce sleep. Quieter and more frequent affirmations. Refined gamma peaks (40hz). \n\nThe first 65 minutes will entrain you to a deep delta sleep using a descending binaural frequency + various water sfx. The remainder consists of a low-theta wave to help transit your mind into REM sleep. During this segment I have recorded various affirmations to help trigger a lucid state: \n\n\"You are dreaming\"\n\"Do a reality check\" \n\"This is a dream\"\n\"You are taking control of your dream\"\n\nWithin the theta-wave are various 4-5 second long peaks peak at 40 Hz. (\"...an EEG machine recorded frequencies in the 40 Hz range in lucid dreamers enjoying a bit of conscious REM...\")",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 11,
+    "publishedAt" : "2012-12-26T07:35:58.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "4XxHi1Ons3o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/4XxHi1Ons3o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Lucid Dream Induction - \"Neuroscape\" - Binaural Beats (90 Min Sleep Cycle)"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "PtwoliW4P0o",
+    "videoPublishedAt" : "2012-03-05T23:31:22.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/fBpH6BqzhY-HRxN9lvNd7h_aTUE\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjRFNDhFRjBDNzFFNzEzREY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Healing and pain relief for nerve pain: trigeminal neuralgia (facial pain), fibromyalgia (FM), sciatica, carpal tunnel syndrome, Occipital neuralgia, other neuralgias, multiple sclerosis, neuropathic pain, temporomandibular joint disorder\n\nDelta waves are healing frequencies; anti-aging and rejuvenating.\nThey invigorate and rejuvenate your mind, body, and spirit. \n\nTwo isochronic beats with two base frequencies.\n\nIsochronic beat with 0.16Hz beat frequency for Neuralgias.  \nAnd, 528Hz base frequency (MI solfeggio tone) for DNA healing.\n\nIsochronic beat with 2Hz beat frequency for nerve regeneration.  \nAnd, 136.1Hz base frequency (OM Anahate/Heart chakra) for Earth healing.\n\nThere are 3 versions of this they all have the same beats just different nature sounds and one with no nature sounds.\n\nOne Hour Delta Healing II - Nerve Pain \n\nOne Hour Delta Healing II - Nerve Pain + RAIN \nhttp://youtu.be/DwzR61yJW9I\n\nOne Hour Delta Healing II - Nerve Pain + WIND & RAIN \nhttp://youtu.be/5_dNiiflXjM\n\nAt Karmic Beats I provide binaural, isochronic beats, solfeggio frequencies, meditations and meditation advice, free of charge to all who choose to benefit. I put my positive energies into the beats and through them out into the cosmos. \n\nPlease check out my YouTube channel for other binaural, isochronic, solfeggio, sound healing, vibrational therapy videos:\nhttp://www.youtube.com/user/MrKlawdek\n\nPlaylists of Karmic Beats Videos:\n\nAstral Projection, Lucid Dreaming, OBE, etc.\nhttp://www.youtube.com/playlist?list=PL64CC870B077E1796\n\nHealing\nhttp://www.youtube.com/playlist?list=PL6444B985474451A6\n\n3rd Eye\nhttp://www.youtube.com/playlist?list=PL5E8A447A951DD0FE\n\nStudy, Focus, Concentration, Memory Improvement\nhttp://www.youtube.com/playlist?list=PL1BFF55704C59ACDF\n\nSleep\nhttp://www.youtube.com/playlist?list=PL9A1FC6E179E322A3\n\nSex\nhttp://www.youtube.com/playlist?list=PLF179724334808485\n\nAlso be sure to visit my blog page where you will find free fractal art wallpaper for your computer desktop, meditation advice, announcements of upcoming videos and more.  The blog is updated regularly.\nhttp://karmicbeats.blogspot.com/\n\nI use Gnaural to produce the Binaural and Isochronic beats and Solfeggio tones.\nhttp://gnaural.sourceforge.net/project/\n\nI use ChaosPro for the fractal videos.\nhttp://www.chaospro.de/\n\nI use Windows Movie Maker to put it all together.\n\nI am using a Windows XP Dell Latitude D620 Laptop with 2 GB\n\nBEWARE of bad speakers. Laptop speakers may not even be audible with binaural and isochronic beats that have no other sounds. If they are, the sound can be messed up and the frequencies thrown off. Same is true for cheap speakers. It is best to use a decent pair of headphones or earbuds. Good earbuds can be bought for around $10-$15.",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 12,
+    "publishedAt" : "2012-12-26T07:36:48.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "PtwoliW4P0o"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/PtwoliW4P0o/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/PtwoliW4P0o/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/PtwoliW4P0o/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/PtwoliW4P0o/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "One Hour Delta Healing II - Nerve Pain (Isochronic Beats, Solfeggio) - Karmic Beats"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "66tq9xji0xA",
+    "videoPublishedAt" : "2011-08-13T21:21:54.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/mO21zH3X9_iEjIriGq2wUpM3D68\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LkE5RkY1NzFEOUMwRDI0RTM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video: - (7hz) Beat Frequency -    - (100hz) Base Frequency -\r\n\r\nTheta Brain Waves Information ( 4 to 8 Hz) :\r\n\r\n•4.5 Hz - Brings about Shamanic/Tibetan state of consciousness, Tibetan chants.\r\n•4.9 Hz - Induce relaxation and deeper sleep\r\n•4.9 Hz - Introspection. Relaxation, meditation\r\n•5 Hz - Reduces sleep required. Theta replaces need for extensive dreaming\r\n•5.35 Hz - Allows relaxing breathing, free and efficient\r\n•5.5 Hz - Inner guidance, intuition\r\n•6.5 Hz - Centre of Theta frequency. Activates creative frontal lobe\r\n•7.5 Hz - Activates creative thought for art, invention, music. Problem solving\r\n•7.5 Hz - Ease of overcoming troublesome issues\r\n•7.83 Hz - Schumann earth resonance. Grounding, meditative, Leaves you revitalized\r\n•3 - 8 Hz - Deep relaxation, meditation. Lucid dreaming\r\n•3 - 8 Hz - Increased memory, focus, creativity\r\n•4 - 7 Hz - Profound inner peace, emotional healing. Lowers mental fatigue\r\n•4 - 7 Hz - Deep meditation, near-sleep brainwaves\r\n\r\n---------------- What are theta brainwaves? ---------------\r\n\r\nTheta brainwaves are considered extremely relaxing brainwave activity that is commonly associated with sleep and dreaming. Theta brainwaves are high in amplitude and cycle within the range of 4 -- 8 Hz and are usually generated in the brains right hemisphere. Theta waves kick in when we feel emotional, relaxed, daydreamy, unfocused, or are asleep. Theta brainwaves are generally thought of as the brainwaves that are dominant in people with A.D.D., high levels of relaxation, high levels of creativity, and random thinking. The theta brainwave is considered the brainwave pattern that is dominant in deeply relaxed, dream sleep.\r\n\r\nTheta brain waves typically range from 4 Hz to 8 Hz. Theta brain waves are associated with the \"subconscious mind\" and are usually produced in the right-hemisphere of the brain - as opposed to beta brain waves, which are produced in the left-hemisphere and are associated with the \"conscious mind.\" The brain creates theta brain wave rhythms each time you are in \"dream sleep.\" Also, during R.E.M. [Rapid-Eye Movement] sleep, the brain is full of theta brain wave activity.\r\n\r\nNearly 3/5 of your entire time spent sleeping at night involves the production of theta brain waves in your brain. Many individuals also are able to access theta brain waves when they are: driving for a long stretch on the highway, practicing their meditation routine, using a self-hypnosis recording, or practicing other forms of deep relaxation. When you are able to consciously access the alpha brain waves state, you are just one step away from accessing the depths of theta.\r\n\r\nWhat's cool about theta brain waves is the fact that they allow you to connect with your \"subconscious mind.\" The subconscious mind is the place where all experiences, long-term memories, natural creativity, powerful emotions, spiritual connections, and inspiration are all stored. Think of the \"subconscious mind\" as one big, infinite storage space for \"everything\" in your life. The theta brain waves are extremely helpful for healing the body of injury and the mind of diseased-states\r\n\r\n--------------Benefits of increasing theta brainwaves----------\r\n\r\n•Deep levels of relaxation\r\n•Bridges the spiritual connection\r\n•O.O.B.E. , Astral Projection, Esp, Other related phenomenon\r\n•Advanced intuition\r\n•Subconscious connection\r\n•Ability to program subconscious mind\r\n•Emotional connection\r\n•Peak levels of creativity\r\n•Advanced problem solving skills\r\n•Large boost in learning ability\r\n•Improved long-term memory\r\n•Ability to hyperfocus\r\n•Lower anxiety, stress, and neurosis\r\n•Healing of body and mind\r\n\r\n------------------------------------------------------------­­-------\r\n\r\nTo find more detailed information on Binaural Beats and Brainwaves please visit -\r\n\r\nhttp://www.scribd.com/doc/8179111/Binaural-Beats-Complete...\r\n\r\nAll Information provided by above link.\r\n\r\nPlease feel free to rip and use this video for whatever is needed. Thanks for listening and enjoy ~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 13,
+    "publishedAt" : "2012-12-26T07:37:47.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "66tq9xji0xA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/66tq9xji0xA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/66tq9xji0xA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/66tq9xji0xA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "1hr Theta Binaural Beat Session (7hz) ~ Pure"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "axTImghP9Ts",
+    "videoPublishedAt" : "2011-09-19T22:32:21.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/XqPL8gv12pXSdeB60bxU4HGm40o\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjM3QzQ2RDUxMTZFRDExOTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video: - (40hz) Beat Frequency -     - (210hz) Base Frequency -\r\n\r\nVideo is to be listed under creative commons.  Feel free to use for whatever is needed.  You can find more full length binaural beat sessions by visiting my channel.\r\n\r\nEnjoy~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 14,
+    "publishedAt" : "2012-12-26T07:43:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "axTImghP9Ts"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/axTImghP9Ts/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/axTImghP9Ts/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/axTImghP9Ts/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "1hr Gamma Binaural Beat Session (40hz) ~ Pure"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "wwfuIYJEb2g",
+    "videoPublishedAt" : "2011-03-05T00:59:07.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rmjD-f1kpXXOZLr_QeO6WFX37ak\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjVDM0UwQjRGODIzREZEM0I=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "www.sourcevibrations.com\r\nwww.youtube.com/mountainmystic9\r\n\r\n741hz Solfeggio Frequencies with a 3hz Delta wave Binaural Beat designed to gently ease you into a deep state of relaxation.  Both frequencies were chosen to help aid in the exploration and reconnecting of the unconscious mind.\r\n\r\n----------------------------- Delta Brainwave Information -----------------------------\r\nDelta brainwaves are considered the most relaxing brainwave frequency range. Delta brainwaves are commonly associated with the deepest sleep [stages 3 & 4] and a state of unconscious awareness. Delta brainwaves are the lowest in brainwave frequency: ranging from 0 - 4 Hz, but are the highest in amplitude. Delta brainwaves, like other slower brainwave patterns, are generated in the right hemisphere, though they may be observed in widespread patterns throughout various parts of the brain. The delta brainwave range is associated with empathy, the unconscious mind, and a decreased sense of awareness..\r\n\r\nBenefits include:\r\n•Extreme bliss\r\n•Advanced healing of body and mind\r\n•Connection with unconscious mind\r\n•Deepest possible level of mind / body relaxation\r\n•Perfect intuition\r\n•Connecting with the spiritual body\r\n•Related to O.O.B.E , Astral Travel, ESP, and other phenomenon\r\n•Boosted immune system\r\n•Release of Anti-Aging hormones\r\n\r\nInformation provided by:  http://www.scribd.com/doc/8179111/Binaural-Beats-Complete-with-ALL-info-about-Each-Brainstate-and-links-to-Programs-and-Cracks\r\n\r\n--------------------------------Solfeggio Information--------------------------------\r\n\r\nhttp://www.redicecreations.com/specialreports/2006/01jan/solfeggio.html\r\n\r\n-----------------------------------------------------------------------------------------------------\r\n\r\nPlease feel free to rip and use this video for whatever is needed. Thanks for listening and enjoy ~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 15,
+    "publishedAt" : "2012-12-26T07:43:24.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "wwfuIYJEb2g"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/wwfuIYJEb2g/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/wwfuIYJEb2g/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/wwfuIYJEb2g/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/wwfuIYJEb2g/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/wwfuIYJEb2g/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "3hz Delta Binaural (741hz Solfeggio) ~Full Length"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "vEHVz5XCmBs",
+    "videoPublishedAt" : "2011-08-13T22:21:57.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/oJ8RWn6U4RuOV96NJbarJJ1LZjU\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2Ljc0QjVGOURGMUE0OUREMzc=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video: - (20hz) Beat Frequency - - (190hz) Base Frequency -\r\n\r\nBeta Brain Waves Information ( 13 to 30Hz) :\r\n\r\n•14 Hz - Awakeness, alert. Concentration on tasks, Focusing, vitality.\r\n•16 Hz - Bottom of hearing range. Releases oxygen/calcium into cells\r\n•12 - 15 Hz - Relaxed focus, improved attentive abilities\r\n•13 - 27 Hz - Promotes focused attention toward external stimuli\r\n•13 - 30 Hz - Problem solving, conscious thinking\r\n•18-24 Hz — Euphoria, can result in headaches, anxiety\r\n\r\n---------------- What are beta brainwaves? ---------------\r\n\r\nBeta brainwaves are considered \"fast brain wave\" activity. Beta brainwaves are brainwaves that\r\ncycle within the range of 12 -- 38 Hz and are usually generated in the brain's left-hemisphere.\r\n\r\nBeta waves kick in when logically thinking, feeling stressed, and feeling tense. Beta is generally\r\nthought of as a \"normal\" rhythm and is dominant in people who are alert, anxious, or have their\r\neyes open. Beta brainwaves are considered to be the normal brainwave pattern in healthy adults.\r\n\r\nMost children and teenagers have dominant theta and alpha brainwave patterns. There isn't a\r\nsingle brain wave pattern is better than the others -- so don't think beta brainwaves are some sort\r\nof miracle that your children need! If you happen to be deficient in the beta brain wave range,\r\nincreasing them may feel like a miracle!\r\n\r\n--------------Benefits of increasing beta brainwaves-----------\r\n\r\n•Ability to think quickly\r\n•Highest levels of focus\r\n•Goal oriented\r\n•Increase in I.Q\r\n•Become more social\r\n•More energy\r\n\r\n\r\n--------------WARNING-----------\r\n\r\nAs goes for anything, too much beta activity can be a bad thing. By no means would it be a good idea for you to increase a brainwave that you already have high levels of. In fact, there is a real possibility you may experience the negative effects of beta brainwaves, as they can cause anxiety, muscle tension, paranoia, and other related \"stressful\" effects.\r\n\r\n------------------------------------------------------------­-------\r\n\r\nTo find more detailed information on Binaural Beats and Brainwaves please visit -\r\n\r\nhttp://www.scribd.com/doc/8179111/Binaural-Beats-Complete...\r\n\r\nAll Information provided by above link.\r\n\r\nPlease feel free to rip and use this video for whatever is needed. Thanks for listening and enjoy ~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 16,
+    "publishedAt" : "2012-12-26T07:43:50.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "vEHVz5XCmBs"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/vEHVz5XCmBs/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/vEHVz5XCmBs/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/vEHVz5XCmBs/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "1hr Beta Binaural Beat Session (20hz) ~ Pure"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "JnhFsHyeeNQ",
+    "videoPublishedAt" : "2011-08-13T21:33:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/M1kFqhZXpEwHPI9qCwEjRdhhMUU\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjlFODZDMDE1ODU0OUUwRTQ=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video: - (0.9hz) Beat Frequency -     -  (94.5hz) Base Frequency   -\r\n\r\nDelta Brain Waves Information ( O.5 to 4Hz) :\r\n\r\n•0.5 Hz - Relaxation, helps soothe headaches\r\n•0.5 - 1.5 Hz - Pain relief. Endorphin release\r\n•0.9 Hz - Euphoric feeling\r\n•1 Hz - Well being. Harmony and balance\r\n•2.5 Hz - Production of endogenous opiates (pain killers, reduce anxiety)\r\n•2.5 Hz - Relieves migraine pain. Produces endogenous opiates\r\n•3.4 Hz - Helps achieve restful sleep\r\n•3.5 Hz - Feeling of unity with everything. Whole being regeneration\r\n•3.9 Hz - Self renewal, enhanced inner awareness\r\n•4.0 Hz - Enkephalin release for reduced stress\r\n•4.0 Hz - Allows brain to produce enkaphalins, all natural pain killer\r\n•4.0 Hz - Full memory scanning. Releases enkephalins\r\n•4.0 Hz - Vital for memory and learning. Problem solving, object naming\r\n•1 - 3 Hz - Profound relaxation, restorative sleep. Tranquility and peace\r\n\r\n---------------- What are delta brainwaves? ---------------\r\n\r\nDelta brainwaves are considered the most relaxing brainwave frequency range. Delta brainwaves\r\nare commonly associated with the deepest sleep [stages 3 & 4] and a state of unconscious\r\nawareness. Delta brainwaves are the lowest in brainwave frequency: ranging from 0 - 4 Hz, but\r\nare the highest in amplitude. Delta brainwaves, like other slower brainwave patterns, are\r\ngenerated in the right hemisphere, though they may be observed in widespread patterns\r\nthroughout various parts of the brain. The delta brainwave range is associated with empathy, the\r\nunconscious mind, and a decreased sense of awareness.\r\n\r\n--------------Benefits of increasing delta brainwaves-----------\r\n\r\n•Extreme bliss\r\n•Advanced healing of body and mind\r\n•Connection with unconscious mind\r\n•Deepest possible level of mind / body relaxation\r\n•Perfect intuition\r\n•Connecting with the spiritual body\r\n•Related to O.O.B.E , Astral Travel, ESP, and other phenomenon\r\n•Boosted immune system\r\n•Release of Anti-Aging hormones\r\n\r\n-------------------------------------------------------------------\r\n\r\nTo find more detailed information on Binaural Beats and Brainwaves please visit -\r\n\r\nhttp://www.scribd.com/doc/8179111/Binaural-Beats-Complete-with-ALL-info-about-Each-Brainstate-and-links-to-Programs-and-Cracks\r\n\r\nAll Information provided by above link.  \r\n\r\nPlease feel free to rip and use this video for whatever is needed.  Thanks for listening and enjoy ~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 17,
+    "publishedAt" : "2012-12-26T07:44:06.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "JnhFsHyeeNQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/JnhFsHyeeNQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/JnhFsHyeeNQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/JnhFsHyeeNQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "1hr Delta Binaural Beat Session (0.9hz) ~ Pure"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "JnhFsHyeeNQ",
+    "videoPublishedAt" : "2011-08-13T21:33:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/yxeRyBnTOKoF0tmjEsKeDzdgey8\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjhDMzRFOUNFMkUzQzFEMkU=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video: - (0.9hz) Beat Frequency -     -  (94.5hz) Base Frequency   -\r\n\r\nDelta Brain Waves Information ( O.5 to 4Hz) :\r\n\r\n•0.5 Hz - Relaxation, helps soothe headaches\r\n•0.5 - 1.5 Hz - Pain relief. Endorphin release\r\n•0.9 Hz - Euphoric feeling\r\n•1 Hz - Well being. Harmony and balance\r\n•2.5 Hz - Production of endogenous opiates (pain killers, reduce anxiety)\r\n•2.5 Hz - Relieves migraine pain. Produces endogenous opiates\r\n•3.4 Hz - Helps achieve restful sleep\r\n•3.5 Hz - Feeling of unity with everything. Whole being regeneration\r\n•3.9 Hz - Self renewal, enhanced inner awareness\r\n•4.0 Hz - Enkephalin release for reduced stress\r\n•4.0 Hz - Allows brain to produce enkaphalins, all natural pain killer\r\n•4.0 Hz - Full memory scanning. Releases enkephalins\r\n•4.0 Hz - Vital for memory and learning. Problem solving, object naming\r\n•1 - 3 Hz - Profound relaxation, restorative sleep. Tranquility and peace\r\n\r\n---------------- What are delta brainwaves? ---------------\r\n\r\nDelta brainwaves are considered the most relaxing brainwave frequency range. Delta brainwaves\r\nare commonly associated with the deepest sleep [stages 3 & 4] and a state of unconscious\r\nawareness. Delta brainwaves are the lowest in brainwave frequency: ranging from 0 - 4 Hz, but\r\nare the highest in amplitude. Delta brainwaves, like other slower brainwave patterns, are\r\ngenerated in the right hemisphere, though they may be observed in widespread patterns\r\nthroughout various parts of the brain. The delta brainwave range is associated with empathy, the\r\nunconscious mind, and a decreased sense of awareness.\r\n\r\n--------------Benefits of increasing delta brainwaves-----------\r\n\r\n•Extreme bliss\r\n•Advanced healing of body and mind\r\n•Connection with unconscious mind\r\n•Deepest possible level of mind / body relaxation\r\n•Perfect intuition\r\n•Connecting with the spiritual body\r\n•Related to O.O.B.E , Astral Travel, ESP, and other phenomenon\r\n•Boosted immune system\r\n•Release of Anti-Aging hormones\r\n\r\n-------------------------------------------------------------------\r\n\r\nTo find more detailed information on Binaural Beats and Brainwaves please visit -\r\n\r\nhttp://www.scribd.com/doc/8179111/Binaural-Beats-Complete-with-ALL-info-about-Each-Brainstate-and-links-to-Programs-and-Cracks\r\n\r\nAll Information provided by above link.  \r\n\r\nPlease feel free to rip and use this video for whatever is needed.  Thanks for listening and enjoy ~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 18,
+    "publishedAt" : "2012-12-26T07:44:06.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "JnhFsHyeeNQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/JnhFsHyeeNQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/JnhFsHyeeNQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/JnhFsHyeeNQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "1hr Delta Binaural Beat Session (0.9hz) ~ Pure"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "HuhuUa2XYac",
+    "videoPublishedAt" : "2011-08-13T21:51:57.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/WBdMX5dw6ckQRHQR6RXY-8YidHk\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjBBRkRFOTk3Qzc2OTY5MUE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Video: - (3hz) Beat Frequency -     -  (100hz) Base Frequency   -\r\n\r\nDelta Brain Waves Information ( O.5 to 4Hz) :\r\n\r\n•0.5 Hz - Relaxation, helps soothe headaches\r\n•0.5 - 1.5 Hz - Pain relief. Endorphin release\r\n•0.9 Hz - Euphoric feeling\r\n•1 Hz - Well being. Harmony and balance\r\n•2.5 Hz - Production of endogenous opiates (pain killers, reduce anxiety)\r\n•2.5 Hz - Relieves migraine pain. Produces endogenous opiates\r\n•3.4 Hz - Helps achieve restful sleep\r\n•3.5 Hz - Feeling of unity with everything. Whole being regeneration\r\n•3.9 Hz - Self renewal, enhanced inner awareness\r\n•4.0 Hz - Enkephalin release for reduced stress\r\n•4.0 Hz - Allows brain to produce enkaphalins, all natural pain killer\r\n•4.0 Hz - Full memory scanning. Releases enkephalins\r\n•4.0 Hz - Vital for memory and learning. Problem solving, object naming\r\n•1 - 3 Hz - Profound relaxation, restorative sleep. Tranquility and peace\r\n\r\n---------------- What are delta brainwaves? ---------------\r\n\r\nDelta brainwaves are considered the most relaxing brainwave frequency range. Delta brainwaves\r\nare commonly associated with the deepest sleep [stages 3 & 4] and a state of unconscious\r\nawareness. Delta brainwaves are the lowest in brainwave frequency: ranging from 0 - 4 Hz, but\r\nare the highest in amplitude. Delta brainwaves, like other slower brainwave patterns, are\r\ngenerated in the right hemisphere, though they may be observed in widespread patterns\r\nthroughout various parts of the brain. The delta brainwave range is associated with empathy, the\r\nunconscious mind, and a decreased sense of awareness.\r\n\r\n--------------Benefits of increasing delta brainwaves-----------\r\n\r\n•Extreme bliss\r\n•Advanced healing of body and mind\r\n•Connection with unconscious mind\r\n•Deepest possible level of mind / body relaxation\r\n•Perfect intuition\r\n•Connecting with the spiritual body\r\n•Related to O.O.B.E , Astral Travel, ESP, and other phenomenon\r\n•Boosted immune system\r\n•Release of Anti-Aging hormones\r\n\r\n-------------------------------------------------------------------\r\n\r\nTo find more detailed information on Binaural Beats and Brainwaves please visit -\r\n\r\nhttp://www.scribd.com/doc/8179111/Binaural-Beats-Complete-with-ALL-info-about-Each-Brainstate-and-links-to-Programs-and-Cracks\r\n\r\nAll Information provided by above link.  \r\n\r\nPlease feel free to rip and use this video for whatever is needed.  Thanks for listening and enjoy ~",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 19,
+    "publishedAt" : "2012-12-26T07:44:35.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "HuhuUa2XYac"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/HuhuUa2XYac/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/HuhuUa2XYac/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/HuhuUa2XYac/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "1hr Delta Binaural Beat Session (3hz) ~ Pure"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "VTdjI9Mvjto",
+    "videoPublishedAt" : "2010-03-18T21:36:50.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/bBROcHSMHq16-jt-SfPlnJJarl8\"",
+  "id" : "UEw1NkRGQzRDODQ4MkNEREU2LjcyNUQ3QzQ1RDM4RDA1NjY=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "If you enjoy this video, feel free to share! Don't forget to Like + Subscribe for new videos!\n\nFull Length 30 minute version: http://healingwithsound.net/?id=endorphinrelease.\nAlso make sure you sign up for the mailing list on http://www.healingwithsound.net to stay up to date on new track releases and other special offers!\nIf you have any questions or comments you want to send me to directly, you can use the contact form on the website, or feel free to send me a message here on youtube.\n \nThis meditation supports endorphin release with programmed frequencies 2.5hz and 4hz fluctuating with 38hz pairing frequency. The tonal layers shift every 10 minutes, so the the full 30 minute version of this track provides the full intentional template for this meditation track.  This meditation is also good for relieving headaches.",
+    "playlistId" : "PL56DFC4C8482CDDE6",
+    "position" : 20,
+    "publishedAt" : "2012-12-26T07:45:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "VTdjI9Mvjto"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/VTdjI9Mvjto/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/VTdjI9Mvjto/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/VTdjI9Mvjto/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/VTdjI9Mvjto/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Endorphin Release/Headache Relief - Delta/Theta/Gamma Meditation Binaural Beat BrainSync"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

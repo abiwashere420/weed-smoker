@@ -1,0 +1,47 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "DiCxqbT2Ru8"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/rwpEHiTvEcJmuZfcWk7xqpYk5sA\"",
+  "id" : "UExMZ2VqLUlaN2hwMkJSWVBOZ3RvTVJGc2sySlNLRHVHMi4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PLLgej-IZ7hp2BRYPNgtoMRFsk2JSKDuG2",
+    "position" : 0,
+    "publishedAt" : "2014-07-19T03:42:18.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "DiCxqbT2Ru8"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "QPcRQubF8cY"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/-rQnuwXRvlR6_Z-rN9eJF3xFYYE\"",
+  "id" : "UExMZ2VqLUlaN2hwMkJSWVBOZ3RvTVJGc2sySlNLRHVHMi41MjE1MkI0OTQ2QzJGNzNG",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video is unavailable.",
+    "playlistId" : "PLLgej-IZ7hp2BRYPNgtoMRFsk2JSKDuG2",
+    "position" : 1,
+    "publishedAt" : "2014-07-19T03:42:31.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "QPcRQubF8cY"
+    },
+    "title" : "Deleted video"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

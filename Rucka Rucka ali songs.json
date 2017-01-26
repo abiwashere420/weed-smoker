@@ -1,0 +1,83 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "BZrPHX6SLlU",
+    "videoPublishedAt" : "2012-06-05T07:03:31.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/pFG3RY0VhVjbxDPPX7R8OH6s97Y\"",
+  "id" : "UExBMUJFQjc0NjEwMjVFNUJBLjMyOEI4NzY2MDc5MzhERkM=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "if ur gonna give any one credit give it to rucka rucka ali  i did not make this video i just reuploaded it",
+    "playlistId" : "PLA1BEB7461025E5BA",
+    "position" : 0,
+    "publishedAt" : "2012-08-07T23:48:04.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "BZrPHX6SLlU"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/BZrPHX6SLlU/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/BZrPHX6SLlU/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/BZrPHX6SLlU/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rucka Rucka ali - Russia's Gay"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "AJMZP6FeyFA",
+    "videoPublishedAt" : "2010-03-17T00:03:09.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/Ev7oJXHBxiEkZKl6PyJE5z2VkpQ\"",
+  "id" : "UExBMUJFQjc0NjEwMjVFNUJBLjlFRTg4NUE4QkU4QzlEOTE=",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Rucka Rucka Ali is Back! www.ruckasworld.com",
+    "playlistId" : "PLA1BEB7461025E5BA",
+    "position" : 1,
+    "publishedAt" : "2012-08-08T23:13:55.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "AJMZP6FeyFA"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/AJMZP6FeyFA/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/AJMZP6FeyFA/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/AJMZP6FeyFA/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Rucka Rucka Ali- I Can do whatever I'm White!"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

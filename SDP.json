@@ -1,0 +1,103 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "CXa39XyP6q8",
+    "videoPublishedAt" : "2013-05-12T06:17:20.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/eXUcRI-4tKWryL4mrCoUIUXA2ng\"",
+  "id" : "UExMZ2VqLUlaN2hwMDZzUDR6QkxHWEV6aHhZdmhsb0QzNC41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "In an internal tattoo with the Norwegian band and drill team, the United States Marine Corps Silent Drill Platoon performed to perfection their 2013 sequence.",
+    "playlistId" : "PLLgej-IZ7hp06sP4zBLGXEzhxYvhloD34",
+    "position" : 0,
+    "publishedAt" : "2013-11-25T04:34:40.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "CXa39XyP6q8"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/CXa39XyP6q8/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/CXa39XyP6q8/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/CXa39XyP6q8/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/CXa39XyP6q8/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/CXa39XyP6q8/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "United States Marine Corps Silent Drill Platoon 2013"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "AgYLr_LfhLo",
+    "videoPublishedAt" : "2010-06-09T18:45:47.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/QoFncMh8DKZmWLH3LFtdKcyUpRY\"",
+  "id" : "UExMZ2VqLUlaN2hwMDZzUDR6QkxHWEV6aHhZdmhsb0QzNC4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "( Available at http://www.sermonspice.com/product/32960/i-fought-for-you ) A moving, patriotic tribute to our military, past and present. Thank you for your service!  This video was produced by \"The Sound Tank\". For more info:\nhttp://www.youtube.com/watch?v=JJsWiQeI5hA",
+    "playlistId" : "PLLgej-IZ7hp06sP4zBLGXEzhxYvhloD34",
+    "position" : 1,
+    "publishedAt" : "2013-11-25T04:54:02.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "AgYLr_LfhLo"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/AgYLr_LfhLo/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/AgYLr_LfhLo/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/AgYLr_LfhLo/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/AgYLr_LfhLo/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/AgYLr_LfhLo/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "I Fought For You"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

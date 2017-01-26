@@ -1,0 +1,129 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "uEfLh75wh3Q",
+    "videoPublishedAt" : "2012-01-13T02:29:42.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/_ksOXH2MJCU9c4zQCI3GuOUM2W8\"",
+  "id" : "UExMZ2VqLUlaN2hwMUstSnlsZmZULUxuVnhKNHktLTg1Zi41NkI0NEY2RDEwNTU3Q0M2",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "This video, taught by Jim Wagner, is the first of its kind that complies 130 of the most commonly used hand signals by law enforcement, corrections, probation, and military Special Operations teams worldwide. Whether you are on a SWAT team, HRT, SRT, Gang Unit, or a patrol officer on the beat, these hand signals will give you the tactical advantage in situation that require stealth or in operations where verbal communications are difficult, if not impossible, such as in a fire-fight, in a factory, or on a Gas & Oil Platform (GOPLAT) where the machinery noise can be deafening.  In Part I Sergeant Wagner teaches you BASIC SIGNALS and PEOPLE. Copyright 2000 Jim Wagner. All rights reserved.",
+    "playlistId" : "PLLgej-IZ7hp1K-JylffT-LnVxJ4y--85f",
+    "position" : 0,
+    "publishedAt" : "2013-11-24T06:54:43.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "uEfLh75wh3Q"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/uEfLh75wh3Q/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/uEfLh75wh3Q/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/uEfLh75wh3Q/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/uEfLh75wh3Q/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "Tactical Hand Signals Part 1"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "gEpH5tvwYkI",
+    "videoPublishedAt" : "2012-01-13T02:10:58.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/gLZIEg44YGbJZ80493kOZ0D0sYI\"",
+  "id" : "UExMZ2VqLUlaN2hwMUstSnlsZmZULUxuVnhKNHktLTg1Zi4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Jim Wagner will teach you step-by-step tactical hand signals grouped into categories for ACTION, OBJECTS, NUMBERS, and AIR OPERATIONS. Copyright 2000 Jim Wagner. All rights reserved.",
+    "playlistId" : "PLLgej-IZ7hp1K-JylffT-LnVxJ4y--85f",
+    "position" : 1,
+    "publishedAt" : "2013-11-24T06:55:12.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "gEpH5tvwYkI"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/gEpH5tvwYkI/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/gEpH5tvwYkI/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/gEpH5tvwYkI/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Tactical Hand Signals Part 2"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "Ej6g8VyZJ7A",
+    "videoPublishedAt" : "2012-08-18T01:58:49.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/4jDLSN6N9iCCqSltJcoxLO1qKnU\"",
+  "id" : "UExMZ2VqLUlaN2hwMUstSnlsZmZULUxuVnhKNHktLTg1Zi4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Frank Sciacca, 5 Star Rating Author of \"Bodyguard Principles\" Certified Personal Protection Specialist and Certified NRA Law Enforcement Firearm Instructor.\n\n\"Beginner to Tactical Engagement\" for those who want to train for immediate defensive responses on sidearms. This program is designed for personal protection and home defense. It is 8 hours long with 300 rounds discharging. \n\nProgram covers the following;\n\n1 -- Fundamentals of Marksmanship,\n2 -- Double Hand and Single Hand Shooting,\n3 -- Ready Stance and Safety Circle,\n4 -- Muzzle Discipline,\n5 -- Safe Load -- Unload Procedures,\n6 -- Misfire, Double Feeds and Stovepipe Causes,\n7 -- Quick Draw on Single and Multiple Targets,\n8 -- Body Alignment Targeting,\n9 -- Kneeling (Duck and Cover)Shooting ,\n10 -- Prone (Back and Belly) Shooting,\n11 -- Walk and Shoot forward, Backwards and Sideways,\nThere are drills that re-enforce all days activities.\n\nFor more information including videos, please visit; www.bodyguardprinciples.com",
+    "playlistId" : "PLLgej-IZ7hp1K-JylffT-LnVxJ4y--85f",
+    "position" : 2,
+    "publishedAt" : "2013-11-24T21:35:15.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "Ej6g8VyZJ7A"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/Ej6g8VyZJ7A/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/Ej6g8VyZJ7A/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/Ej6g8VyZJ7A/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "Beginner to Tactical Engagement"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]

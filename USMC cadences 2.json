@@ -1,0 +1,93 @@
+[ {
+  "contentDetails" : {
+    "videoId" : "yTaps4fuvB4",
+    "videoPublishedAt" : "2010-09-17T23:22:30.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/ojpU0I7tczoDt0Y9P4GZM3rlGvw\"",
+  "id" : "UExMZ2VqLUlaN2hwMzZaZV9HTGhZOFk2ZUZJeWVLNTZkbi4yODlGNEE0NkRGMEEzMEQy",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "He kept just to blow that young marine's ass away.",
+    "playlistId" : "PLLgej-IZ7hp36Ze_GLhY8Y6eFIyeK56dn",
+    "position" : 0,
+    "publishedAt" : "2013-06-15T04:27:00.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "yTaps4fuvB4"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/hqdefault.jpg",
+        "width" : 480
+      },
+      "maxres" : {
+        "height" : 720,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/maxresdefault.jpg",
+        "width" : 1280
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/mqdefault.jpg",
+        "width" : 320
+      },
+      "standard" : {
+        "height" : 480,
+        "url" : "https://i.ytimg.com/vi/yTaps4fuvB4/sddefault.jpg",
+        "width" : 640
+      }
+    },
+    "title" : "USMC Cadence - She Wore a Yellow Ribbon"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+}, {
+  "contentDetails" : {
+    "videoId" : "kQohgyKnlYQ",
+    "videoPublishedAt" : "2010-06-27T19:01:46.000Z"
+  },
+  "etag" : "\"gMxXHe-zinKdE9lTnzKu8vjcmDI/OMqm9FYi4UiQbaizEeA7asEVMmU\"",
+  "id" : "UExMZ2VqLUlaN2hwMzZaZV9HTGhZOFk2ZUZJeWVLNTZkbi4wMTcyMDhGQUE4NTIzM0Y5",
+  "kind" : "youtube#playlistItem",
+  "snippet" : {
+    "channelId" : "UCb88SK1-vU8CmJ-HwyoTTbg",
+    "channelTitle" : "ichwill66211",
+    "description" : "Dedicated to all past present and future marines.",
+    "playlistId" : "PLLgej-IZ7hp36Ze_GLhY8Y6eFIyeK56dn",
+    "position" : 1,
+    "publishedAt" : "2013-06-19T02:17:37.000Z",
+    "resourceId" : {
+      "kind" : "youtube#video",
+      "videoId" : "kQohgyKnlYQ"
+    },
+    "thumbnails" : {
+      "default" : {
+        "height" : 90,
+        "url" : "https://i.ytimg.com/vi/kQohgyKnlYQ/default.jpg",
+        "width" : 120
+      },
+      "high" : {
+        "height" : 360,
+        "url" : "https://i.ytimg.com/vi/kQohgyKnlYQ/hqdefault.jpg",
+        "width" : 480
+      },
+      "medium" : {
+        "height" : 180,
+        "url" : "https://i.ytimg.com/vi/kQohgyKnlYQ/mqdefault.jpg",
+        "width" : 320
+      }
+    },
+    "title" : "USMC cadence I used to drive a Cadillac"
+  },
+  "status" : {
+    "privacyStatus" : "public"
+  }
+} ]
